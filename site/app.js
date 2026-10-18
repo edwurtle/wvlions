@@ -67,6 +67,23 @@
   }
   const recStr = r => `${r.w}-${r.l}${r.t ? "-" + r.t : ""}`;
 
+  /* ---------- analytics (GoatCounter): page views are automatic; taps on outside links, downloads and shares are events ---------- */
+  const track = (path, title) => { try { window.goatcounter && window.goatcounter.count && window.goatcounter.count({ path, title, event: true }); } catch (e) {} };
+  const clean = s => (s || "").replace(/\s+/g, " ").trim();
+  document.addEventListener("click", e => {
+    const a = e.target.closest("a[href], button[data-share], #ics"); if (!a) return;
+    const href = a.getAttribute("href") || "", text = clean(a.textContent);
+    const row = a.closest(".game"), where = row ? clean(row.querySelector(".opp")?.textContent).replace(/^(vs|at)/, "$1 ") + " · " + clean(row.querySelector(".when")?.textContent)
+      : lb.classList.contains("open") && lbList[lbIdx] ? lbList[lbIdx].id : document.title;
+    if (a.id === "ics") track("calendar", "Add games to calendar");
+    else if (a.matches("[data-share]")) track("share", where);
+    else if (a.closest(".dl-menu")) track("download/" + slugify(clean(a.querySelector("b")?.textContent)), where);
+    else if (/pxf\.io|nfhsnetwork\.com/.test(href)) track(/replay/i.test(text) ? "nfhs/replay" : a.id === "watch" ? "nfhs/channel" : "nfhs/live", where);
+    else if (/gofan\.co/.test(href)) track("tickets", where);
+    else if (/google\.com\/maps/.test(href)) track("directions", where);
+    else if (/drive\.google\.com/.test(href)) track("drive", text);
+  }, true);
+
   /* ---------- shared: header links + lightbox ---------- */
   document.querySelectorAll("#nav-tickets").forEach(a => a.href = S.links.tickets);
 
@@ -124,6 +141,7 @@
     const p = lbList[lbIdx];
     const g = gameOn(p.date);
     history.replaceState(null, "", photoUrl(p));
+    try { window.goatcounter && window.goatcounter.count && window.goatcounter.count({ path: photoUrl(p) }); } catch (e) {}  // each viewed photo counts as a page view
     const who = p.numbers.map(n => { const pl = playerByNum(p.level, n); return pl ? `#${n} ${pl.name}` : `#${n}`; }).join(", ");
     document.title = `${p.caption || who || `${LABEL[p.level]} ${g ? vsAt(g) + " " : ""}${p.opp}`} · Walkersville Lions Soccer`;
     lb.innerHTML = `

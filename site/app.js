@@ -141,9 +141,9 @@
     const p = lbList[lbIdx];
     const g = gameOn(p.date);
     history.replaceState(null, "", photoUrl(p));
-    try { window.goatcounter && window.goatcounter.count && window.goatcounter.count({ path: photoUrl(p) }); } catch (e) {}  // each viewed photo counts as a page view
     const who = p.numbers.map(n => { const pl = playerByNum(p.level, n); return pl ? `#${n} ${pl.name}` : `#${n}`; }).join(", ");
     document.title = `${p.caption || who || `${LABEL[p.level]} ${g ? vsAt(g) + " " : ""}${p.opp}`} · Walkersville Lions Soccer`;
+    try { window.goatcounter && window.goatcounter.count && window.goatcounter.count({ path: photoUrl(p), title: document.title }); } catch (e) {}  // each viewed photo counts as a page view
     lb.innerHTML = `
       <div class="lb-top">
         <div><div class="t">${p.level === "jv" ? "JV" : "Varsity"} · ${g ? `${vsAt(g)} ${esc(p.opp)}` : esc(p.opp)}</div>

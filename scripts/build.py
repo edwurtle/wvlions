@@ -230,7 +230,7 @@ def main():
         game = f"{'JV' if p['level'] == 'jv' else 'Varsity'} {'vs' if g and g['home'] else 'at'} {p['opp']}"
         when = datetime.date.fromisoformat(p["date"]).strftime("%b %-d") if p["date"] else ""
         meta[p["id"]] = dict(title=p["caption"] or who or game, image="/" + p["full"],
-                             description=" · ".join(x for x in (game if (p["caption"] or who) else "", when, "Walkersville Lions boys soccer 2026") if x))
+                             description=" · ".join(x for x in (game if (p["caption"] or who) else "", when, "WV Lions · Walkersville boys soccer 2026") if x))
     (ROOT / "site" / "photo-meta.json").write_text(json.dumps(meta, separators=(",", ":")))
     # Cache-bust asset links so browsers pick up new data/code after a rebuild
     stamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")

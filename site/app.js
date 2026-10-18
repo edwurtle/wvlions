@@ -90,7 +90,7 @@
   const lb = $("#lb");
   let lbList = [], lbIdx = 0, lbReturn = null;
   // tab title follows the open photo; /photo/<id> pages arrive with that photo's title, so fall back to the catalog's
-  const pageTitle = location.pathname.startsWith("/photo/") ? "Photos · Walkersville Lions Boys Soccer 2026" : document.title;
+  const pageTitle = location.pathname.startsWith("/photo/") ? "Photos · WV Lions Soccer 2026" : document.title;
   function openLb(list, idx, returnUrl) {
     lbList = list; lbIdx = idx;
     lbReturn = returnUrl || location.pathname + location.search + location.hash;
@@ -116,7 +116,7 @@
   // Share: the phone's share sheet where there is one, else copy the photo's link
   async function sharePhoto(btn) {
     const p = lbList[lbIdx], url = location.origin + photoUrl(p);
-    if (navigator.share) { try { await navigator.share({ title: p.caption || "Walkersville Lions photo", url }); } catch (e) {} return; }
+    if (navigator.share) { try { await navigator.share({ title: p.caption || "WV Lions Soccer photo", url }); } catch (e) {} return; }
     try { await navigator.clipboard.writeText(url); btn.textContent = "Link copied"; } catch (e) { prompt("Copy this link:", url); }
     setTimeout(() => { btn.textContent = "Share"; }, 2000);
   }
@@ -142,7 +142,7 @@
     const g = gameOn(p.date);
     history.replaceState(null, "", photoUrl(p));
     const who = p.numbers.map(n => { const pl = playerByNum(p.level, n); return pl ? `#${n} ${pl.name}` : `#${n}`; }).join(", ");
-    document.title = `${p.caption || who || `${LABEL[p.level]} ${g ? vsAt(g) + " " : ""}${p.opp}`} · Walkersville Lions Soccer`;
+    document.title = `${p.caption || who || `${LABEL[p.level]} ${g ? vsAt(g) + " " : ""}${p.opp}`} · WV Lions Soccer`;
     try { window.goatcounter && window.goatcounter.count && window.goatcounter.count({ path: photoUrl(p), title: document.title }); } catch (e) {}  // each viewed photo counts as a page view
     lb.innerHTML = `
       <div class="lb-top">
@@ -355,7 +355,7 @@
   function downloadIcs() {
     const pad = n => String(n).padStart(2, "0");
     const stamp = d => `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate())}`;
-    const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Lions Soccer 2026//EN", "X-WR-CALNAME:Walkersville Lions Boys Soccer"];
+    const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//WV Lions Soccer 2026//EN", "X-WR-CALNAME:WV Lions Boys Soccer"];
     S.games.filter(g => !isPast(g)).forEach(g => {
       const d = kickoff(g);
       const when = firstTime(g)
@@ -369,7 +369,7 @@
     lines.push("END:VCALENDAR");
     const a = document.createElement("a");
     a.href = URL.createObjectURL(new Blob([lines.join("\r\n")], { type: "text/calendar" }));
-    a.download = "lions-soccer-2026.ics";
+    a.download = "wvlions-soccer-2026.ics";
     a.click();
   }
 

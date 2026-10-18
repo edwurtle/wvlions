@@ -9,12 +9,12 @@ export async function onRequest({ request, env, params }) {
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const image = new URL(m.image, url).href;
   const tags = [
-    ["og:type", "article"], ["og:site_name", "Walkersville Lions Soccer"], ["og:title", m.title],
+    ["og:type", "article"], ["og:site_name", "WV Lions Soccer"], ["og:title", m.title],
     ["og:description", m.description], ["og:image", image], ["og:url", url.href],
   ].map(([k, v]) => `<meta property="${k}" content="${esc(v)}">`).join("") +
     `<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="${esc(image)}">`;
   return new HTMLRewriter()
-    .on("title", { element(e) { e.setInnerContent(`${m.title} · Walkersville Lions Soccer`); } })
+    .on("title", { element(e) { e.setInnerContent(`${m.title} · WV Lions Soccer`); } })
     .on("head", { element(e) { e.append(tags, { html: true }); } })
     .transform(page);
 }

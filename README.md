@@ -50,6 +50,12 @@ Every nfhsnetwork.com watch/replay link (game streams from the NFHS search API a
 is wrapped by `affiliate()` in `scripts/build.py`, which routes it through the Impact tracking link for media property
 wvlions.com (`AFFILIATE`). The site's Impact verification tag is in the `<head>` of `site/index.html`.
 
+### Analytics
+GoatCounter (cookie-free), dashboard at https://wvlions.goatcounter.com. The script tag is in the `<head>` of both pages;
+page views are automatic, each photo opened in the lightbox counts as a view of `/photo/<id>`, and `app.js` (`track`)
+records taps as events: `nfhs/replay`, `nfhs/live`, `nfhs/channel`, `tickets`, `directions`, `download/*`, `share`,
+`calendar`, `drive`. GoatCounter ignores localhost.
+
 ### Photo URLs
 `/photos[/varsity|jv][/<jersey #>][/<date>-<opponent>]` (e.g. `/photos/varsity/12/2026-10-15-south-carroll`) filters
 the catalog; `/photo/<id>` opens one photo. Both are served by Cloudflare Pages functions in `functions/` (limited to

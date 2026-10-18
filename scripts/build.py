@@ -6,7 +6,7 @@ the player rosters and coaches. The MPSSAA scores API (same source as ../soccer)
 league score Arbiter hasn't posted yet; MPSSAA lists games from the home school's side, so scores
 are flipped when Walkersville isn't the listed school.
 """
-import datetime, html, json, pathlib, re, subprocess
+import datetime, html, json, pathlib, re, subprocess, urllib.parse
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -14,6 +14,15 @@ DATA = ROOT / "data"
 US = "Walkersville"
 RES = {"Win": "W", "Forfeit-Win": "W", "Loss": "L", "Forfeit-Loss": "L", "Tie": "T"}
 FLIP = {"W": "L", "L": "W", "T": "T"}
+# NFHS Network affiliate program (Impact, media property wvlions.com, id 9025280): every NFHS watch link goes through
+# this tracking link; &u= tells Impact which nfhsnetwork.com page to land on
+AFFILIATE = "https://nfhs-network.pxf.io/c/7957348/699473/10661?partnerpropertyid=9025280"
+
+
+def affiliate(url):
+    if not url or "nfhsnetwork.com" not in url or "pxf.io" in url:  # not NFHS, or already an affiliate link
+        return url
+    return f"{AFFILIATE}&u={urllib.parse.quote(url, safe='')}"
 
 
 def curl(url, nonce=None):
@@ -61,7 +70,7 @@ def nfhs_broadcasts(season_start):
             if date < season_start:
                 continue
             level = "jv" if "junior" in (e.get("level") or "").lower() else "varsity"
-            out[(date, level)] = dict(url=e.get("site_url") or f"https://www.nfhsnetwork.com/events/{e['key']}",
+            out[(date, level)] = dict(url=affiliate(e.get("site_url") or f"https://www.nfhsnetwork.com/events/{e['key']}"),
                                       status=e.get("status"))
         cursor = d.get("cursor")
         if not d["items"] or not cursor or min(e["start_time"] for e in d["items"])[:10] < season_start:
@@ -120,6 +129,7 @@ def arbiter_team(page):
 
 def main():
     sched = json.loads((DATA / "schedule.json").read_text())
+    sched["links"] = {k: affiliate(v) for k, v in sched["links"].items()}
     cfg = json.loads((DATA / "roster.json").read_text())
     year = sched["season"]
     roster, coaches, by_level = {}, {}, {}

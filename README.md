@@ -45,6 +45,11 @@ publishes). It also still deploys a copy to GitHub Pages (https://edwurtle.githu
 unreachable it deploys the last good data.
 Refresh on demand: `gh workflow run deploy.yml`.
 
+### NFHS Network affiliate links
+Every nfhsnetwork.com watch/replay link (game streams from the NFHS search API and `links.watch` in `data/schedule.json`)
+is wrapped by `affiliate()` in `scripts/build.py`, which routes it through the Impact tracking link for media property
+wvlions.com (`AFFILIATE`). The site's Impact verification tag is in the `<head>` of `site/index.html`.
+
 ### Photo URLs
 `/photos[/varsity|jv][/<jersey #>][/<date>-<opponent>]` (e.g. `/photos/varsity/12/2026-10-15-south-carroll`) filters
 the catalog; `/photo/<id>` opens one photo. Both are served by Cloudflare Pages functions in `functions/` (limited to

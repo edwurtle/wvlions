@@ -181,6 +181,7 @@ section.block.alt { background: #fff; }
   .game .score b { font-size: 21px; }
   .game .score span { font-size: 9px; letter-spacing: .05em; }
   .game .body { padding: 10px 12px; }
+  .game .links a.venue { flex-basis: 100%; } /* location on its own line; note/tickets/watch/photos wrap below */
 }
 .sched-foot { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; color: var(--muted); font-size: 14px; }
 

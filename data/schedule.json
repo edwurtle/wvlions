@@ -3,7 +3,7 @@
     "Games, times and JV/varsity results come from ArbiterLive (see roster.json for the team pages); scripts/build.py merges them.",
     "MPSSAA fills in any varsity league score Arbiter is missing. Games before seasonStart (August preseason) are left off; later scrimmages show but don't count in records.",
     "added: games Arbiter doesn't list at all (e.g. the Aug 29 Oakdale scrimmage), kept even before seasonStart.",
-    "This file adds what Arbiter doesn't have: GoFan ticket links, notes and missing scores (\"jv\": \"0-1\", Walkersville first), keyed by game date, plus opponent mascots. \"feature\": true pins a special card for that game (e.g. Senior Night) above the recent results."
+    "This file adds what Arbiter doesn't have: GoFan ticket links, notes and missing scores (\"jv\": \"0-1\", Walkersville first), keyed by game date, plus opponent mascots. \"feature\": true pins a special card for that game (e.g. Senior Night) above the recent results; \"site\" sets a neutral venue (e.g. the CMC final)."
   ],
   "season": "2026",
   "seasonStart": "2026-09-01",
@@ -40,6 +40,7 @@
     "2026-10-06": {"note": "Youth Night"},
     "2026-10-13": {"tickets": "https://gofan.co/event/6745310", "note": "Senior Night", "feature": true},
     "2026-10-15": {"tickets": "https://gofan.co/event/6813137", "jv": "0-1"},
-    "2026-10-22": {"tickets": "https://gofan.co/event/6745309"}
+    "2026-10-22": {"tickets": "https://gofan.co/event/6745309"},
+    "2026-10-26": {"note": "CMC Championship", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:00 PM"}}
   }
 }

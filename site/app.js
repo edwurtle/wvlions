@@ -22,10 +22,12 @@
     return d;
   };
   const opp = g => S.opponents[g.opp] || {};
-  const venue = g => g.home ? S.homeVenue : `${g.opp} High School, ${opp(g).city || ""}`;
+  // site: neutral venue from schedule.json extras (e.g. a conference final), overrides home/away
+  const venue = g => g.site ? `${g.site.name}, ${g.site.city}` : g.home ? S.homeVenue : `${g.opp} High School, ${opp(g).city || ""}`;
   const mapUrl = g => "https://www.google.com/maps/search/?api=1&query=" +
-    encodeURIComponent(g.home ? "Walkersville High School, 81 W Frederick St, Walkersville, MD" : `${g.opp} High School, ${opp(g).city}, MD`);
-  const vsAt = g => g.home ? "vs" : "at";
+    encodeURIComponent(g.site ? `${g.site.name}, ${g.site.city}, MD` : g.home ? "Walkersville High School, 81 W Frederick St, Walkersville, MD" : `${g.opp} High School, ${opp(g).city}, MD`);
+  const vsAt = g => g.home || g.site ? "vs" : "at";
+  const where = g => g.site ? "Neutral" : g.home ? "Home" : "Away";
   const result = (g, level) => g[level];
   const isPast = g => day(g.date) < today || g.varsity || g.jv;
   const ticketUrl = g => g.tickets || (g.home ? S.links.tickets : null);
@@ -211,7 +213,7 @@
     } else {
       const t = ticketUrl(next);
       box.innerHTML = `
-        <div class="label"><span>Next game</span><span class="pill ${next.home ? "" : "away"}">${next.home ? "Home" : "Away"}</span></div>
+        <div class="label"><span>Next game</span><span class="pill ${next.home ? "" : "away"}">${where(next)}</span></div>
         <h2>${vsAt(next)} ${esc(next.opp)}<small>${esc(opp(next).mascot || "")}${next.note ? " · " + esc(next.note) : ""}</small></h2>
         <div class="when">${fmtDate(next.date, true)} · ${timesText(next)}</div>
         <div class="where"><a href="${mapUrl(next)}" target="_blank" rel="noopener">${esc(venue(next))}</a></div>
@@ -244,7 +246,7 @@
       const shown = pics.slice(0, 5);
       $("#highlight").innerHTML = `
         <div class="score-card">
-          <div class="eyebrow">${fmtDate(last.date, true)} · ${last.home ? "Home" : "Away"}</div>
+          <div class="eyebrow">${fmtDate(last.date, true)} · ${where(last)}</div>
           <h3 class="headline">${last.note ? `${esc(last.note)}<small>${headline}</small>` : headline}</h3>
           <div class="duo">${LEVELS.map(l => last[l] ? `
             <div class="lvl"><span>${LABEL[l]}</span><b>${last[l].gf}<em>–</em>${last[l].ga}</b><i class="${last[l].res}">${{ W: "Win", L: "Loss", T: "Tie" }[last[l].res]}</i></div>`
@@ -307,7 +309,7 @@
           `<a class="venue" href="${mapUrl(g)}" target="_blank" rel="noopener">${esc(venue(g))}</a>`,
           g.scrimmage && !past ? `<span>Scrimmage</span>` : "",
           g.note ? `<span>${esc(g.note)}</span>` : "",
-          t ? `<a class="tix" href="${t}" target="_blank" rel="noopener">${ICON.ticket}Tickets</a>` : !past && !g.home ? `<span>Away tickets at the gate</span>` : "",
+          t ? `<a class="tix" href="${t}" target="_blank" rel="noopener">${ICON.ticket}Tickets</a>` : !past && !g.home ? `<span>${g.site ? "Tickets" : "Away tickets"} at the gate</span>` : "",
           watch ? `<a href="${watch}" target="_blank" rel="noopener">${ICON.play}${past ? "Replay" : "Watch live"}</a>` : "",
           n ? `<a href="${photosUrl({ game: g.date, level })}">${ICON.cam}${n} photo${n === 1 ? "" : "s"}</a>` : "",
         ].filter(Boolean).join("");

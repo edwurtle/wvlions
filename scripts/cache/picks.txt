@@ -785,3 +785,13 @@ S-0679|4||
 S-0682|4,9||
 S-0696|19||
 S-0697|19||
+M-0056||Pregame warmups|
+M-0063|||
+M-0064|||
+M-0065||Walking out|
+M-0068|5,4,3|Team introductions|
+M-0069|10,9,8,7,6|Team introductions|
+M-0070|14,13,12,11,10,8|Team introductions|1
+M-0071|18,17,15,14,13,12,11|Team introductions|
+M-0072|23,21,19,18,17,15|Team introductions|
+M-0238|4||

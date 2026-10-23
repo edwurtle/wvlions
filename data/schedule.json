@@ -40,7 +40,7 @@
     "2026-10-06": {"note": "Youth Night"},
     "2026-10-13": {"tickets": "https://gofan.co/event/6745310", "note": "Senior Night", "feature": true},
     "2026-10-15": {"tickets": "https://gofan.co/event/6813137", "jv": "0-1"},
-    "2026-10-22": {"tickets": "https://gofan.co/event/6745309"},
+    "2026-10-22": {"tickets": "https://gofan.co/event/6745309", "note": "Clinched a tie for the #1 seed in 2A West I"},
     "2026-10-26": {"note": "CMC Championship", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:00 PM"}}
   }
 }

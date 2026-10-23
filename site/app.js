@@ -217,6 +217,7 @@
         <h2>${vsAt(next)} ${esc(next.opp)}<small>${esc(opp(next).mascot || "")}${next.note ? " · " + esc(next.note) : ""}</small></h2>
         <div class="when">${fmtDate(next.date, true)} · ${timesText(next)}</div>
         <div class="where"><a href="${mapUrl(next)}" target="_blank" rel="noopener">${esc(venue(next))}</a></div>
+        ${!t && next.ticketNote ? `<div class="where">${esc(next.ticketNote)}</div>` : ""}
         <div class="countdown" id="cd"></div>
         <div class="actions">
           ${t ? `<a class="btn gold" href="${t}" target="_blank" rel="noopener">${ICON.ticket}Buy tickets</a>` : ""}
@@ -309,7 +310,7 @@
           `<a class="venue" href="${mapUrl(g)}" target="_blank" rel="noopener">${esc(venue(g))}</a>`,
           g.scrimmage && !past ? `<span>Scrimmage</span>` : "",
           g.note ? `<span>${esc(g.note)}</span>` : "",
-          t ? `<a class="tix" href="${t}" target="_blank" rel="noopener">${ICON.ticket}Tickets</a>` : !past && !g.home ? `<span>${g.site ? "Tickets" : "Away tickets"} at the gate</span>` : "",
+          t ? `<a class="tix" href="${t}" target="_blank" rel="noopener">${ICON.ticket}Tickets</a>` : !past && g.ticketNote ? `<span>${esc(g.ticketNote)}</span>` : !past && !g.home ? `<span>Away tickets at the gate</span>` : "",
           watch ? `<a href="${watch}" target="_blank" rel="noopener">${ICON.play}${past ? "Replay" : "Watch live"}</a>` : "",
           n ? `<a href="${photosUrl({ game: g.date, level })}">${ICON.cam}${n} photo${n === 1 ? "" : "s"}</a>` : "",
         ].filter(Boolean).join("");
@@ -366,7 +367,7 @@
         : [`DTSTART;VALUE=DATE:${stamp(d)}`];
       lines.push("BEGIN:VEVENT", `UID:lions-${g.date}@lionssoccer`, `DTSTAMP:${stamp(new Date())}T000000Z`, ...when,
         `SUMMARY:Lions Soccer ${vsAt(g)} ${g.opp} (JV then Varsity)`, `LOCATION:${venue(g).replace(/,/g, "\\,")}`,
-        `DESCRIPTION:${(ticketUrl(g) ? "Tickets: " + ticketUrl(g) + "\\n" : "")}Watch: ${S.links.watch}`, "END:VEVENT");
+        `DESCRIPTION:${(ticketUrl(g) ? "Tickets: " + ticketUrl(g) + "\\n" : g.ticketNote ? g.ticketNote + "\\n" : "")}Watch: ${S.links.watch}`, "END:VEVENT");
     });
     lines.push("END:VCALENDAR");
     const a = document.createElement("a");

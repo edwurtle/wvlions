@@ -293,6 +293,14 @@ section.block.alt { background: #fff; }
 .lb-bot a { color: var(--gold); text-decoration: none; font-weight: 700; margin: 0 4px; }
 @media (max-width: 640px) { .lb-stage { padding: 0 4px; } .lb-nav { display: none; } }
 
+/* ---------- history promo (home page) ---------- */
+.history-promo { position: relative; overflow: hidden; background: var(--navy); color: #fff; }
+.history-promo .hp-bg { position: absolute; inset: 0; background: url(history/img/1972.webp) center 35% / cover; filter: grayscale(1); opacity: .28; }
+.history-promo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(10, 20, 51, .95) 0%, rgba(10, 20, 51, .55) 100%); }
+.history-promo .wrap { position: relative; z-index: 1; display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; padding: 56px 0; }
+.history-promo h2 { font: 700 clamp(32px, 5vw, 48px)/1 var(--display); text-transform: uppercase; margin: 10px 0 10px; }
+.history-promo p { margin: 0; max-width: 560px; color: #d7dcef; }
+
 /* ---------- footer ---------- */
 footer { background: var(--navy); color: #9aa3c0; padding: 36px 0; font-size: 14px; }
 footer .wrap { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }

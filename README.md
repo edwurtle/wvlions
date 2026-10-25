@@ -37,6 +37,21 @@ Pillow is needed for `photos.py`: `python3 -m venv .venv && .venv/bin/pip instal
 `scripts/curate/sheets.py` then builds numbered contact sheets of the top candidates per game for
 eyeballing. The sheet tags (e.g. `02-41`) are what go in `picks.txt`.
 
+## History section (`/history/`)
+Program history since 1928: trophy case, great teams, coaches, a season-by-season timeline, a page per season
+(`/history/1972`), stats (`/history/stats`: win % by season, coaching records, head-to-head, record book) and a
+searchable list of every rostered player (`/history/players`).
+
+- Data: `data/history.json`, hand-maintained. Seasons 1928-2019 were extracted from Spencer Shortt's history PDF on
+  lionssoccer.org; 2020-2025 were pieced together from ArbiterLive (past seasons), walkersvillelions.com (scores and
+  rosters), lionssoccer.org (team photos, 2024 roster) and MaxPreps. Game scores are Walkersville first; `est` marks a
+  score the PDF filled in as 1-0/0-1/0-0, `pk` the result after penalty kicks, and `status: "partial"` a season with
+  missing results.
+- Photos: `site/history/img/<year>.webp` (1600px) with thumbnails in `img/t/`. Add a season's photo there and list it
+  under the season's `photos`.
+- Build: `python3 scripts/history.py` writes `site/history/*.html` (run it after editing the JSON). The nightly
+  workflow doesn't touch these pages; the 2026 card and page read the live record from `site/data.js`.
+
 ## Hosting
 Live at https://wvlions.com (www redirects to it). Cloudflare Pages project `wvlions`, connected to this repo:
 it publishes `site/` on every push to `main`, with no build step. `.github/workflows/deploy.yml` runs nightly and on every

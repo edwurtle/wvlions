@@ -212,7 +212,7 @@ def index_page(data, seasons, st):
         if not ys:
             continue
         links = "".join(f'<a href="{y}">{y}</a>' for y in ys)
-        trophies.append(f"""<div class="trophy{' gold' if name in BIG else ''}">
+        trophies.append(f"""<div class="trophy{' gold' if name == 'State Champions' else ' medal' if name in BIG else ''}">
   <div class="ic">{TROPHY}</div>
   <div><div class="n">{len(ys)}<span>{esc(name)}</span></div><div class="yrs">{links}</div></div>
 </div>""")

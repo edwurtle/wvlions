@@ -27861,36 +27861,46 @@
   }
  },
  {
-  "id": "varsity-catoctin-cmc-plaque",
-  "full": "photos/full/varsity-catoctin-cmc-plaque.webp",
-  "thumb": "photos/thumb/varsity-catoctin-cmc-plaque.webp",
+  "id": "varsity-catoctin-cmc-dsc_0242",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0242.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0242.webp",
   "w": 1600,
-  "h": 1451,
+  "h": 1063,
   "level": "varsity",
   "opp": "Catoctin",
   "date": "2026-10-26",
   "numbers": [
-   23,
-   10,
    13,
-   12
+   18
   ],
-  "caption": "CMC champions",
+  "caption": "Lifting the plaque",
   "featured": false,
-  "credit": "charlieshotdat",
-  "drive": null,
+  "drive": "https://drive.google.com/file/d/1HJJ_NweaCblz9u_OBxgJW33iGZcM40d9/view",
   "download": {
    "web": {
-    "bytes": 146342
+    "bytes": 107318
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1AKfHQSvx7qOp4MUSa1zA9j_tp5ZZy-G-",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7475445,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1HJJ_NweaCblz9u_OBxgJW33iGZcM40d9",
+    "type": "NEF",
+    "bytes": 11938223
    }
   }
  },
  {
-  "id": "varsity-catoctin-cmc-team",
-  "full": "photos/full/varsity-catoctin-cmc-team.webp",
-  "thumb": "photos/thumb/varsity-catoctin-cmc-team.webp",
-  "w": 1080,
-  "h": 810,
+  "id": "varsity-catoctin-cmc-dsc_0256",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0256.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0256.webp",
+  "w": 1600,
+  "h": 1063,
   "level": "varsity",
   "opp": "Catoctin",
   "date": "2026-10-26",
@@ -27920,11 +27930,2717 @@
   ],
   "caption": "CMC champions",
   "featured": false,
-  "credit": "lionsfooty",
-  "drive": null,
+  "drive": "https://drive.google.com/file/d/1Jv3pXIxqDY17PJCWVdyanr2xdEZW9U7c/view",
   "download": {
    "web": {
-    "bytes": 241130
+    "bytes": 266896
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1LpiapilAtlid6v-uRxOrufJaKDViNHc2",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6884069,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Jv3pXIxqDY17PJCWVdyanr2xdEZW9U7c",
+    "type": "NEF",
+    "bytes": 12836555
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0234",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0234.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0234.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Final whistle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OsuAjuxZWvlrtWrjUaymr_AsjqiRkv7x/view",
+  "download": {
+   "web": {
+    "bytes": 148802
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1OsuAjuxZWvlrtWrjUaymr_AsjqiRkv7x=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1455335,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1OsuAjuxZWvlrtWrjUaymr_AsjqiRkv7x",
+    "type": "NEF",
+    "bytes": 12373885
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0207",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0207.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0207.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "2026 CMC boys soccer champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1TM2Hccwp96E9wcU1PyL57hjsAnUe8EKs/view",
+  "download": {
+   "web": {
+    "bytes": 90330
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1TM2Hccwp96E9wcU1PyL57hjsAnUe8EKs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1134207,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1TM2Hccwp96E9wcU1PyL57hjsAnUe8EKs",
+    "type": "NEF",
+    "bytes": 11739470
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0251",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0251.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0251.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "With the plaque",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1pwdae6yRBJKrg9XwfXoDHUfHV4bM2ti9/view",
+  "download": {
+   "web": {
+    "bytes": 88542
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1pwdae6yRBJKrg9XwfXoDHUfHV4bM2ti9=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1204039,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1pwdae6yRBJKrg9XwfXoDHUfHV4bM2ti9",
+    "type": "NEF",
+    "bytes": 11466700
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0030",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0030.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0030.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/18dXpb7-DE3OuZwniaWHVNC8P9uqE1LWQ/view",
+  "download": {
+   "web": {
+    "bytes": 128502
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/18dXpb7-DE3OuZwniaWHVNC8P9uqE1LWQ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1423094,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=18dXpb7-DE3OuZwniaWHVNC8P9uqE1LWQ",
+    "type": "NEF",
+    "bytes": 11537159
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0033",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0033.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0033.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1A5RoVr0SedUzolvUg9uMwscQ8a6r9Viw/view",
+  "download": {
+   "web": {
+    "bytes": 126270
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1A5RoVr0SedUzolvUg9uMwscQ8a6r9Viw=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1449108,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1A5RoVr0SedUzolvUg9uMwscQ8a6r9Viw",
+    "type": "NEF",
+    "bytes": 12052934
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0035",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0035.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0035.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1LtBHwVoHbyfYzj2CYuLSxv8yeTqhsokT/view",
+  "download": {
+   "web": {
+    "bytes": 113004
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1LtBHwVoHbyfYzj2CYuLSxv8yeTqhsokT=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1336191,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1LtBHwVoHbyfYzj2CYuLSxv8yeTqhsokT",
+    "type": "NEF",
+    "bytes": 11583641
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0049",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0049.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0049.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17fEZI2-jsjz_U2qjWSYgTe2lCaPIem3R/view",
+  "download": {
+   "web": {
+    "bytes": 87338
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17fEZI2-jsjz_U2qjWSYgTe2lCaPIem3R=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 949356,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17fEZI2-jsjz_U2qjWSYgTe2lCaPIem3R",
+    "type": "NEF",
+    "bytes": 10567041
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0052",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0052.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0052.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Xz4M_2qEg9Bn7IKEtEYQttjbmtVfugQV/view",
+  "download": {
+   "web": {
+    "bytes": 74690
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Xz4M_2qEg9Bn7IKEtEYQttjbmtVfugQV=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1099851,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Xz4M_2qEg9Bn7IKEtEYQttjbmtVfugQV",
+    "type": "NEF",
+    "bytes": 11455333
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0062",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0062.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0062.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   18
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1g6fdj7N5OzL4gT3rvd3ndZqIfkS4kzJN/view",
+  "download": {
+   "web": {
+    "bytes": 58866
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1g6fdj7N5OzL4gT3rvd3ndZqIfkS4kzJN=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 951049,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1g6fdj7N5OzL4gT3rvd3ndZqIfkS4kzJN",
+    "type": "NEF",
+    "bytes": 11026318
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0068",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0068.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0068.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1zFsegrfZvcl3xAFfdC3Du3tR7CxLkpIU/view",
+  "download": {
+   "web": {
+    "bytes": 84582
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1zFsegrfZvcl3xAFfdC3Du3tR7CxLkpIU=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1072347,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1zFsegrfZvcl3xAFfdC3Du3tR7CxLkpIU",
+    "type": "NEF",
+    "bytes": 11004826
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0071",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0071.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0071.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17C0FDtz_Ls9Kk2-RddZ8kwkJzEQBr-Qg/view",
+  "download": {
+   "web": {
+    "bytes": 60274
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17C0FDtz_Ls9Kk2-RddZ8kwkJzEQBr-Qg=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1079277,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17C0FDtz_Ls9Kk2-RddZ8kwkJzEQBr-Qg",
+    "type": "NEF",
+    "bytes": 11231906
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0073",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0073.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0073.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11TW-QYzPJCDjXvOt-BCotI7n6ob8mAqP/view",
+  "download": {
+   "web": {
+    "bytes": 63364
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11TW-QYzPJCDjXvOt-BCotI7n6ob8mAqP=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1075202,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11TW-QYzPJCDjXvOt-BCotI7n6ob8mAqP",
+    "type": "NEF",
+    "bytes": 11180428
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0058",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0058.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0058.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Coaching staff",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1r2IPHJIRQLXPvj1mBHgl-UoFOMkorfQS/view",
+  "download": {
+   "web": {
+    "bytes": 49224
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1r2IPHJIRQLXPvj1mBHgl-UoFOMkorfQS=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1067810,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1r2IPHJIRQLXPvj1mBHgl-UoFOMkorfQS",
+    "type": "NEF",
+    "bytes": 11703387
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0083",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0083.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0083.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Lining up",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1_e-lF7XZ3IRULvfmPQPHY0_TvxQAUQ0h/view",
+  "download": {
+   "web": {
+    "bytes": 148280
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1_e-lF7XZ3IRULvfmPQPHY0_TvxQAUQ0h=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1496573,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1_e-lF7XZ3IRULvfmPQPHY0_TvxQAUQ0h",
+    "type": "NEF",
+    "bytes": 12180100
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0084",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0084.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0084.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1smL_-zO1ya1LY1RHsv0-0lKSzCGIuU--/view",
+  "download": {
+   "web": {
+    "bytes": 111706
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1smL_-zO1ya1LY1RHsv0-0lKSzCGIuU--=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1360342,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1smL_-zO1ya1LY1RHsv0-0lKSzCGIuU--",
+    "type": "NEF",
+    "bytes": 11843136
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0092",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0092.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0092.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1f_5gSSB5daB-128LsQbgOGCVpOrdpPsz/view",
+  "download": {
+   "web": {
+    "bytes": 105854
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1f_5gSSB5daB-128LsQbgOGCVpOrdpPsz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1378861,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1f_5gSSB5daB-128LsQbgOGCVpOrdpPsz",
+    "type": "NEF",
+    "bytes": 11973131
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0093",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0093.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0093.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11m3u3E8ZWR2-7x9eA3cav3KZ3tSuCblu/view",
+  "download": {
+   "web": {
+    "bytes": 111862
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11m3u3E8ZWR2-7x9eA3cav3KZ3tSuCblu=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1413368,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11m3u3E8ZWR2-7x9eA3cav3KZ3tSuCblu",
+    "type": "NEF",
+    "bytes": 12012357
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0097",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0097.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0097.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xFtW1Zby41V4u5Y59kkfLOH-CpXoFGf3/view",
+  "download": {
+   "web": {
+    "bytes": 130970
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1xFtW1Zby41V4u5Y59kkfLOH-CpXoFGf3=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1398203,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xFtW1Zby41V4u5Y59kkfLOH-CpXoFGf3",
+    "type": "NEF",
+    "bytes": 12043491
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0098",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0098.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0098.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1_iq6aY80Fus6HDpFstcWiPwwm0KBs-Bv/view",
+  "download": {
+   "web": {
+    "bytes": 119904
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1_iq6aY80Fus6HDpFstcWiPwwm0KBs-Bv=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1393726,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1_iq6aY80Fus6HDpFstcWiPwwm0KBs-Bv",
+    "type": "NEF",
+    "bytes": 11833729
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0101",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0101.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0101.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/14dfqZ14OXwcEAGjfgF341JWfwj5P4Er1/view",
+  "download": {
+   "web": {
+    "bytes": 122276
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/14dfqZ14OXwcEAGjfgF341JWfwj5P4Er1=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1337734,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=14dfqZ14OXwcEAGjfgF341JWfwj5P4Er1",
+    "type": "NEF",
+    "bytes": 11947740
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0102",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0102.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0102.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1kAbAwGKvSY0eUQPGydxuLXTcOZbtvWhZ/view",
+  "download": {
+   "web": {
+    "bytes": 95068
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1kAbAwGKvSY0eUQPGydxuLXTcOZbtvWhZ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1219309,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1kAbAwGKvSY0eUQPGydxuLXTcOZbtvWhZ",
+    "type": "NEF",
+    "bytes": 11811750
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0105",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0105.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0105.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xZb9jH08Uf0W7exc0lFQxG0KybSDjOPN/view",
+  "download": {
+   "web": {
+    "bytes": 129030
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1xZb9jH08Uf0W7exc0lFQxG0KybSDjOPN=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1365800,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xZb9jH08Uf0W7exc0lFQxG0KybSDjOPN",
+    "type": "NEF",
+    "bytes": 11993522
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0109",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0109.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0109.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1rO508eQ6UvVvGw51UEZMg9T6M7reCBOm/view",
+  "download": {
+   "web": {
+    "bytes": 124448
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1rO508eQ6UvVvGw51UEZMg9T6M7reCBOm=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1421456,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1rO508eQ6UvVvGw51UEZMg9T6M7reCBOm",
+    "type": "NEF",
+    "bytes": 11949116
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0115",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0115.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0115.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1q33DDG0qYhbZ1-fGL81bzRTq-nRG28Dy/view",
+  "download": {
+   "web": {
+    "bytes": 94774
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1q33DDG0qYhbZ1-fGL81bzRTq-nRG28Dy=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1199909,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1q33DDG0qYhbZ1-fGL81bzRTq-nRG28Dy",
+    "type": "NEF",
+    "bytes": 11847305
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0116",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0116.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0116.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Pregame huddle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1VYKo5mUuN6MKxOOulTJtIknO2J6vGwNs/view",
+  "download": {
+   "web": {
+    "bytes": 116708
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1VYKo5mUuN6MKxOOulTJtIknO2J6vGwNs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1347094,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1VYKo5mUuN6MKxOOulTJtIknO2J6vGwNs",
+    "type": "NEF",
+    "bytes": 12094633
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0117",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0117.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0117.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Pregame huddle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1O-BqFCrnQKViRYfuZNLivdZEc-UQyfAY/view",
+  "download": {
+   "web": {
+    "bytes": 151950
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1O-BqFCrnQKViRYfuZNLivdZEc-UQyfAY=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1489796,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1O-BqFCrnQKViRYfuZNLivdZEc-UQyfAY",
+    "type": "NEF",
+    "bytes": 11937146
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0122",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0122.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0122.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Lions fans",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1g9GSfjUq7eTJyF7qTtrHDpS8oH9MqDnY/view",
+  "download": {
+   "web": {
+    "bytes": 153952
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1g9GSfjUq7eTJyF7qTtrHDpS8oH9MqDnY=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1342670,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1g9GSfjUq7eTJyF7qTtrHDpS8oH9MqDnY",
+    "type": "NEF",
+    "bytes": 12048819
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0127",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0127.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0127.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Throw-in",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/19cU60KlAyTmRGBlbUVkhsdCF6I4GVny8/view",
+  "download": {
+   "web": {
+    "bytes": 130476
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/19cU60KlAyTmRGBlbUVkhsdCF6I4GVny8=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1534161,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=19cU60KlAyTmRGBlbUVkhsdCF6I4GVny8",
+    "type": "NEF",
+    "bytes": 12126364
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0131",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0131.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0131.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/19-q4XLsXxPGH3EKj_tSKXyARK0E40d35/view",
+  "download": {
+   "web": {
+    "bytes": 185926
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/19-q4XLsXxPGH3EKj_tSKXyARK0E40d35=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1618961,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=19-q4XLsXxPGH3EKj_tSKXyARK0E40d35",
+    "type": "NEF",
+    "bytes": 12022790
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0132",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0132.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0132.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/10ndnEWBplW_FW7Kqdfqz48nHmFCBafo7/view",
+  "download": {
+   "web": {
+    "bytes": 144012
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/10ndnEWBplW_FW7Kqdfqz48nHmFCBafo7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1466576,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=10ndnEWBplW_FW7Kqdfqz48nHmFCBafo7",
+    "type": "NEF",
+    "bytes": 11837348
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0138",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0138.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0138.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11ugxCJqyqP9h8qD2GBWoJ4YRjUd8NQm9/view",
+  "download": {
+   "web": {
+    "bytes": 65698
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11ugxCJqyqP9h8qD2GBWoJ4YRjUd8NQm9=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 991532,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11ugxCJqyqP9h8qD2GBWoJ4YRjUd8NQm9",
+    "type": "NEF",
+    "bytes": 11027709
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0140",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0140.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0140.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1bXfrFDsyPUnRMj0Le9REr4F0yu4FiEEk/view",
+  "download": {
+   "web": {
+    "bytes": 126660
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1bXfrFDsyPUnRMj0Le9REr4F0yu4FiEEk=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1200761,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1bXfrFDsyPUnRMj0Le9REr4F0yu4FiEEk",
+    "type": "NEF",
+    "bytes": 11081926
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0141",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0141.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0141.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   12
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1FvgIZLOMjbyehaQFOXEj3I_jpEcQoje1/view",
+  "download": {
+   "web": {
+    "bytes": 136064
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1FvgIZLOMjbyehaQFOXEj3I_jpEcQoje1=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1328168,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1FvgIZLOMjbyehaQFOXEj3I_jpEcQoje1",
+    "type": "NEF",
+    "bytes": 11407362
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0144",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0144.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0144.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OKPWHrAfOYyZWU4Oq1eQWfUPD9xGBAEv/view",
+  "download": {
+   "web": {
+    "bytes": 73030
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1OKPWHrAfOYyZWU4Oq1eQWfUPD9xGBAEv=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 858360,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1OKPWHrAfOYyZWU4Oq1eQWfUPD9xGBAEv",
+    "type": "NEF",
+    "bytes": 10577560
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0150",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0150.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0150.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17k7t4zt-JxQeFWj3Dgyls2dYQhMBGVPi/view",
+  "download": {
+   "web": {
+    "bytes": 82292
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17k7t4zt-JxQeFWj3Dgyls2dYQhMBGVPi=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1252403,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17k7t4zt-JxQeFWj3Dgyls2dYQhMBGVPi",
+    "type": "NEF",
+    "bytes": 11965093
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0154",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0154.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0154.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Yi2U1Lh-P8v4cRqfQe5upPGdKOppjiRd/view",
+  "download": {
+   "web": {
+    "bytes": 73170
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Yi2U1Lh-P8v4cRqfQe5upPGdKOppjiRd=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 952477,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Yi2U1Lh-P8v4cRqfQe5upPGdKOppjiRd",
+    "type": "NEF",
+    "bytes": 10783651
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0156",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0156.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0156.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   10
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/132jeusW4tz8L55JeuvdyAIeSsF-DL3VR/view",
+  "download": {
+   "web": {
+    "bytes": 132462
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/132jeusW4tz8L55JeuvdyAIeSsF-DL3VR=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1243810,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=132jeusW4tz8L55JeuvdyAIeSsF-DL3VR",
+    "type": "NEF",
+    "bytes": 11268653
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0158",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0158.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0158.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/18ZzbgALRvS721u5pqkmwoe0wP3rCRR3c/view",
+  "download": {
+   "web": {
+    "bytes": 80684
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/18ZzbgALRvS721u5pqkmwoe0wP3rCRR3c=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 897645,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=18ZzbgALRvS721u5pqkmwoe0wP3rCRR3c",
+    "type": "NEF",
+    "bytes": 10624015
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0161",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0161.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0161.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1f5ibUkK-qR1PvOD-dc8_B0ZjycRiOmFA/view",
+  "download": {
+   "web": {
+    "bytes": 137488
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1f5ibUkK-qR1PvOD-dc8_B0ZjycRiOmFA=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1287704,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1f5ibUkK-qR1PvOD-dc8_B0ZjycRiOmFA",
+    "type": "NEF",
+    "bytes": 11245853
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0164",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0164.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0164.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   10
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1i6-d_nYaK-_b00CzkdAwgAQeXbZr81wQ/view",
+  "download": {
+   "web": {
+    "bytes": 104492
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1i6-d_nYaK-_b00CzkdAwgAQeXbZr81wQ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1267540,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1i6-d_nYaK-_b00CzkdAwgAQeXbZr81wQ",
+    "type": "NEF",
+    "bytes": 11571361
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0165",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0165.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0165.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   10
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1-WlNK7V7huMhzi8Cl-ly8e82M3K_tz-B/view",
+  "download": {
+   "web": {
+    "bytes": 113772
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1-WlNK7V7huMhzi8Cl-ly8e82M3K_tz-B=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1311840,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1-WlNK7V7huMhzi8Cl-ly8e82M3K_tz-B",
+    "type": "NEF",
+    "bytes": 11629919
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0170",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0170.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0170.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1JNFJysTjfGmRVOEo6MTREvLj14cj7poE/view",
+  "download": {
+   "web": {
+    "bytes": 122486
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1JNFJysTjfGmRVOEo6MTREvLj14cj7poE=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1316472,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1JNFJysTjfGmRVOEo6MTREvLj14cj7poE",
+    "type": "NEF",
+    "bytes": 11342430
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0173",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0173.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0173.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "On the sideline",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13MGThl0JFUvAii6_2xqV0jTXSCDoxEJ0/view",
+  "download": {
+   "web": {
+    "bytes": 99910
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/13MGThl0JFUvAii6_2xqV0jTXSCDoxEJ0=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1257542,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=13MGThl0JFUvAii6_2xqV0jTXSCDoxEJ0",
+    "type": "NEF",
+    "bytes": 11801419
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0175",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0175.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0175.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1fgs2YlQNtK-WufF8pO6fI6Y2uvs4D-oD/view",
+  "download": {
+   "web": {
+    "bytes": 77286
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1fgs2YlQNtK-WufF8pO6fI6Y2uvs4D-oD=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 941559,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1fgs2YlQNtK-WufF8pO6fI6Y2uvs4D-oD",
+    "type": "NEF",
+    "bytes": 10735063
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0177",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0177.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0177.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Lions fans",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ASUK35ivCdURhJvFDUI50DMYLnXtQC1t/view",
+  "download": {
+   "web": {
+    "bytes": 100480
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ASUK35ivCdURhJvFDUI50DMYLnXtQC1t=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1092667,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ASUK35ivCdURhJvFDUI50DMYLnXtQC1t",
+    "type": "NEF",
+    "bytes": 11514399
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0181",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0181.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0181.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "On the bench",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1VKgBPImi9ooWOlrSGtG5lIFg2vsseQQ2/view",
+  "download": {
+   "web": {
+    "bytes": 105362
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1VKgBPImi9ooWOlrSGtG5lIFg2vsseQQ2=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1056020,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1VKgBPImi9ooWOlrSGtG5lIFg2vsseQQ2",
+    "type": "NEF",
+    "bytes": 10561248
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0187",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0187.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0187.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PIqOqnf9wmFUh33W4j3tPphqlDbGuDw2/view",
+  "download": {
+   "web": {
+    "bytes": 193018
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1PIqOqnf9wmFUh33W4j3tPphqlDbGuDw2=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1657337,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1PIqOqnf9wmFUh33W4j3tPphqlDbGuDw2",
+    "type": "NEF",
+    "bytes": 12489464
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0190",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0190.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0190.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   4
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11-_EjKIf-wvbhOa5Oismqv2DXCqzUpxQ/view",
+  "download": {
+   "web": {
+    "bytes": 51654
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11-_EjKIf-wvbhOa5Oismqv2DXCqzUpxQ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1025500,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11-_EjKIf-wvbhOa5Oismqv2DXCqzUpxQ",
+    "type": "NEF",
+    "bytes": 11721153
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0191",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0191.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0191.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/19agBO2wpCeeJE5S0jwkHxvjNApAScsWB/view",
+  "download": {
+   "web": {
+    "bytes": 106222
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/19agBO2wpCeeJE5S0jwkHxvjNApAScsWB=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1135585,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=19agBO2wpCeeJE5S0jwkHxvjNApAScsWB",
+    "type": "NEF",
+    "bytes": 10974297
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0193",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0193.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0193.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1dgXFuQ9kdWeyWph0ZQBq99XbQz7s10yP/view",
+  "download": {
+   "web": {
+    "bytes": 110236
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1dgXFuQ9kdWeyWph0ZQBq99XbQz7s10yP=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1077455,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1dgXFuQ9kdWeyWph0ZQBq99XbQz7s10yP",
+    "type": "NEF",
+    "bytes": 10985280
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0194",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0194.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0194.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13fo2mp8p2YfW-uvyarE18GhLUX_4KbzY/view",
+  "download": {
+   "web": {
+    "bytes": 86836
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/13fo2mp8p2YfW-uvyarE18GhLUX_4KbzY=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1174911,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=13fo2mp8p2YfW-uvyarE18GhLUX_4KbzY",
+    "type": "NEF",
+    "bytes": 11500889
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0197",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0197.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0197.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/10d47DaSxpA_0KO6K802Thnow7mYLvGq7/view",
+  "download": {
+   "web": {
+    "bytes": 105584
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/10d47DaSxpA_0KO6K802Thnow7mYLvGq7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1340432,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=10d47DaSxpA_0KO6K802Thnow7mYLvGq7",
+    "type": "NEF",
+    "bytes": 11649224
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0202",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0202.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0202.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/118QPgNhx8g2SlUmBzk3L6_9W9JtJoD7g/view",
+  "download": {
+   "web": {
+    "bytes": 98472
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/118QPgNhx8g2SlUmBzk3L6_9W9JtJoD7g=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1185985,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=118QPgNhx8g2SlUmBzk3L6_9W9JtJoD7g",
+    "type": "NEF",
+    "bytes": 10844976
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0212",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0212.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0212.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1hOour7554xCOXeUwRzPRts1pmChQwjSr/view",
+  "download": {
+   "web": {
+    "bytes": 124866
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1hOour7554xCOXeUwRzPRts1pmChQwjSr=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1294077,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1hOour7554xCOXeUwRzPRts1pmChQwjSr",
+    "type": "NEF",
+    "bytes": 11317882
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0216",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0216.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0216.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1klpTOGn_5TEVObGZnWdMd9utdZ09rmkB/view",
+  "download": {
+   "web": {
+    "bytes": 77584
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1B7mLcsU6oOVWM4UKbtXnRefigXmlEM5s",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7286786,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1klpTOGn_5TEVObGZnWdMd9utdZ09rmkB",
+    "type": "NEF",
+    "bytes": 10694144
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0217",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0217.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0217.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1RM9QdKj5ZCdiIHO5TOtQPA6fJU2cUxKd/view",
+  "download": {
+   "web": {
+    "bytes": 48228
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1rgl1i2uAqZQEQtm7qY4jLpydKJEqUEPs",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7610673,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1RM9QdKj5ZCdiIHO5TOtQPA6fJU2cUxKd",
+    "type": "NEF",
+    "bytes": 11181058
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0220",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0220.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0220.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1aIJuox86EYayipeOH2wny4cjyOMnYqSd/view",
+  "download": {
+   "web": {
+    "bytes": 86236
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1MhXXbtLgMS9Ys2mDQV02P6pj8qMx82yh",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7595822,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1aIJuox86EYayipeOH2wny4cjyOMnYqSd",
+    "type": "NEF",
+    "bytes": 10724842
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0225",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0225.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0225.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1YhkyCfd6lFy-kAXZOh9DV6T8b07_vf7W/view",
+  "download": {
+   "web": {
+    "bytes": 107700
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1ojVj4yEuB-NB5DECFy4DmY6EGtK61bvs",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 8314303,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1YhkyCfd6lFy-kAXZOh9DV6T8b07_vf7W",
+    "type": "NEF",
+    "bytes": 11965236
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0227",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0227.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0227.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "In the box",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ZJiZeUtrv_OWZxyVoLKxmTV0OUALjTum/view",
+  "download": {
+   "web": {
+    "bytes": 155472
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1lpFaM1BxKGgFaiTEi751tYXqRFZdLk-w",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 8380646,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ZJiZeUtrv_OWZxyVoLKxmTV0OUALjTum",
+    "type": "NEF",
+    "bytes": 11624253
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0231",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0231.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0231.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Final whistle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1NKp2jalYMT7o6eAc2SntrBxfoT9fVCli/view",
+  "download": {
+   "web": {
+    "bytes": 95994
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1NKp2jalYMT7o6eAc2SntrBxfoT9fVCli=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1276982,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1NKp2jalYMT7o6eAc2SntrBxfoT9fVCli",
+    "type": "NEF",
+    "bytes": 11649906
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0233",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0233.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0233.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Final whistle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1b4rOcg_yeYnrC9gxJo5M7s5qjncLAKw8/view",
+  "download": {
+   "web": {
+    "bytes": 121084
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1b4rOcg_yeYnrC9gxJo5M7s5qjncLAKw8=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1324034,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1b4rOcg_yeYnrC9gxJo5M7s5qjncLAKw8",
+    "type": "NEF",
+    "bytes": 12032816
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0235",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0235.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0235.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Xh-YGQmJ3qFUkAeljagqx3v0VI8feDGq/view",
+  "download": {
+   "web": {
+    "bytes": 144270
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Xh-YGQmJ3qFUkAeljagqx3v0VI8feDGq=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1374830,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Xh-YGQmJ3qFUkAeljagqx3v0VI8feDGq",
+    "type": "NEF",
+    "bytes": 12131646
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0240",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0240.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0240.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1hsa9Z8dpEXE9bN__z1rbXz4u6yu2csxV/view",
+  "download": {
+   "web": {
+    "bytes": 93820
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1hsa9Z8dpEXE9bN__z1rbXz4u6yu2csxV=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1242445,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1hsa9Z8dpEXE9bN__z1rbXz4u6yu2csxV",
+    "type": "NEF",
+    "bytes": 11835766
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0243",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0243.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0243.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   13,
+   18
+  ],
+  "caption": "Lifting the plaque",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/19r5r4LBpZqeybBFqlha3W7rgIrV7cG6G/view",
+  "download": {
+   "web": {
+    "bytes": 129516
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/19r5r4LBpZqeybBFqlha3W7rgIrV7cG6G=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1380494,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=19r5r4LBpZqeybBFqlha3W7rgIrV7cG6G",
+    "type": "NEF",
+    "bytes": 12073309
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0244",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0244.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0244.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   13,
+   18
+  ],
+  "caption": "Lifting the plaque",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1enHlJeO8oEyLt-gnkHB8wez6NVxqGJU0/view",
+  "download": {
+   "web": {
+    "bytes": 143832
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1-fP_X3Xy3pfJ58L3tjG16Srs7Jrft5Wr",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6973536,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1enHlJeO8oEyLt-gnkHB8wez6NVxqGJU0",
+    "type": "NEF",
+    "bytes": 12158041
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0245",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0245.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0245.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   18
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/12LvoPGCkNc5sIKiTWUjQyJJdRe1ebaHP/view",
+  "download": {
+   "web": {
+    "bytes": 103694
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1oGBssvtkar8jRuu2vyqEPlPqff5zb9Yx",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7363206,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=12LvoPGCkNc5sIKiTWUjQyJJdRe1ebaHP",
+    "type": "NEF",
+    "bytes": 11720879
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0248",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0248.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0248.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   25,
+   13,
+   18
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ov2aYE74poAAs8B81zaZmuYkoPG3jSe9/view",
+  "download": {
+   "web": {
+    "bytes": 144372
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ov2aYE74poAAs8B81zaZmuYkoPG3jSe9=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1528397,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ov2aYE74poAAs8B81zaZmuYkoPG3jSe9",
+    "type": "NEF",
+    "bytes": 12157258
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0253",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0253.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0253.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1-SaZstT8RwXh7JrHKayFRa6Wb_qBvp5I/view",
+  "download": {
+   "web": {
+    "bytes": 158756
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1Mr2RWQy04s-EtXEc_OTWnLTRsBUjJoYh",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6967331,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1-SaZstT8RwXh7JrHKayFRa6Wb_qBvp5I",
+    "type": "NEF",
+    "bytes": 12258832
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0254",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0254.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0254.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1FdwoNTkWsXuFre1a27pJAkfZmUxXowZY/view",
+  "download": {
+   "web": {
+    "bytes": 171068
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1FdwoNTkWsXuFre1a27pJAkfZmUxXowZY=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1575843,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1FdwoNTkWsXuFre1a27pJAkfZmUxXowZY",
+    "type": "NEF",
+    "bytes": 12331920
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0255",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0255.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0255.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "CMC champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1G8aKkHWkqUZbUc3AwoqqnNTT8oR-J47q/view",
+  "download": {
+   "web": {
+    "bytes": 242972
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1-kPpolSrmnim64-EJJUWZyqUSY_Bzeal",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6465317,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1G8aKkHWkqUZbUc3AwoqqnNTT8oR-J47q",
+    "type": "NEF",
+    "bytes": 12660511
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0257",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0257.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0257.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "CMC champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PFazd1fatZk0h08n7NvgEg_sGXmVpgRs/view",
+  "download": {
+   "web": {
+    "bytes": 212660
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1eCzbF59kb4LSJ9bdWfZDLExdJpHDasrg",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6617303,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1PFazd1fatZk0h08n7NvgEg_sGXmVpgRs",
+    "type": "NEF",
+    "bytes": 12426390
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0262",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0262.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0262.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "With the Lions girls team",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1lJ0A6q9mC68lSSXEJLTMiHXtL1PbVxeu/view",
+  "download": {
+   "web": {
+    "bytes": 240914
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1lJ0A6q9mC68lSSXEJLTMiHXtL1PbVxeu=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1757550,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1lJ0A6q9mC68lSSXEJLTMiHXtL1PbVxeu",
+    "type": "NEF",
+    "bytes": 12651540
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0265",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0265.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0265.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "CMC champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1tPE1HJ0iRUN-lD0-m0SDy09YwuLgGZEp/view",
+  "download": {
+   "web": {
+    "bytes": 211660
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1DdTT8tsfvDwNH9uaYua0xb2Ple5PTdmb",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7710212,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1tPE1HJ0iRUN-lD0-m0SDy09YwuLgGZEp",
+    "type": "NEF",
+    "bytes": 12481732
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0268",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0268.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0268.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "CMC champions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1jiuBHLT7m6uKetoFdLTKYS-QL4bgxthz/view",
+  "download": {
+   "web": {
+    "bytes": 266016
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1jiuBHLT7m6uKetoFdLTKYS-QL4bgxthz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1897149,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1jiuBHLT7m6uKetoFdLTKYS-QL4bgxthz",
+    "type": "NEF",
+    "bytes": 12981642
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0270",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0270.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0270.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "With the plaque",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1gRx5_ktIaCCeTV_xPLy6X1prCZN0G1ui/view",
+  "download": {
+   "web": {
+    "bytes": 132992
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1mAKp2f3z2uUoizIGPJyVvbmd4FlhwgN0",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7215349,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1gRx5_ktIaCCeTV_xPLy6X1prCZN0G1ui",
+    "type": "NEF",
+    "bytes": 12236609
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0272",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0272.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0272.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1nX4AkPggDjrhuAO0yspa7ajafxwScSL3/view",
+  "download": {
+   "web": {
+    "bytes": 178322
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1UxC_6aiU907FDkMuUQ7RyxfnQaMkklxS",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7078293,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1nX4AkPggDjrhuAO0yspa7ajafxwScSL3",
+    "type": "NEF",
+    "bytes": 12326328
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0274",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0274.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0274.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xwA913QmYS1tkCEF9X1ZB5IOv7hQbSNW/view",
+  "download": {
+   "web": {
+    "bytes": 158444
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=10LdsKEA9juPMuOJ_3ZaH64zqbu1XT3Qz",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7004141,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xwA913QmYS1tkCEF9X1ZB5IOv7hQbSNW",
+    "type": "NEF",
+    "bytes": 12218159
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0277",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0277.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0277.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xFCZRcPx9SR1IvhR3Wzm0XxuTpNdJEGN/view",
+  "download": {
+   "web": {
+    "bytes": 143594
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1t1-HLkZogeBYfLOKSrF5cIrIvgsFwhHO",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6792498,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xFCZRcPx9SR1IvhR3Wzm0XxuTpNdJEGN",
+    "type": "NEF",
+    "bytes": 12150950
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0279",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0279.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0279.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   11
+  ],
+  "caption": "With the plaque",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1iFAEJm3liU00cPYMtMYWTUkFC-2Zhd9y/view",
+  "download": {
+   "web": {
+    "bytes": 68634
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1xjDxVsXIkDu2_f2ySWTGr_gRynsyCwlB",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6494370,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1iFAEJm3liU00cPYMtMYWTUkFC-2Zhd9y",
+    "type": "NEF",
+    "bytes": 11275809
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0281",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0281.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0281.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   19
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1uEtF12INr_kfgxTi7Vt8VG_XYyO0GCaH/view",
+  "download": {
+   "web": {
+    "bytes": 97976
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1BnLrEZWepSaPqO2Byv2B75F8_WRFbDFO",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6751237,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1uEtF12INr_kfgxTi7Vt8VG_XYyO0GCaH",
+    "type": "NEF",
+    "bytes": 12031073
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0282",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0282.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0282.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   12
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1kPKzw5hryoAhpeazPId30YyBa-6r9Dkq/view",
+  "download": {
+   "web": {
+    "bytes": 104702
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=1Q7JnaNI-JDhDwPyWzbG_jF8gnUsfRO-d",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 7043556,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1kPKzw5hryoAhpeazPId30YyBa-6r9Dkq",
+    "type": "NEF",
+    "bytes": 12131537
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0283",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0283.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0283.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1nDsIf8qmsjPVcDJUZdJbtWyf9izCOAFl/view",
+  "download": {
+   "web": {
+    "bytes": 96076
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1nDsIf8qmsjPVcDJUZdJbtWyf9izCOAFl=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1265098,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1nDsIf8qmsjPVcDJUZdJbtWyf9izCOAFl",
+    "type": "NEF",
+    "bytes": 11545065
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-dsc_0284",
+  "full": "photos/full/varsity-catoctin-cmc-dsc_0284.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-dsc_0284.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [],
+  "caption": "Coaching staff",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1HXNhuIjmvIs5SMP1lmecjurGwoj9CccG/view",
+  "download": {
+   "web": {
+    "bytes": 53290
+   },
+   "full": {
+    "url": "https://drive.google.com/uc?export=download&id=13-JhCvLFJiXJPDiq8nX3U_a-C_0kqugD",
+    "type": "JPG",
+    "converted": false,
+    "bytes": 6771874,
+    "w": 6000,
+    "h": 4000
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1HXNhuIjmvIs5SMP1lmecjurGwoj9CccG",
+    "type": "NEF",
+    "bytes": 11986275
    }
   }
  }

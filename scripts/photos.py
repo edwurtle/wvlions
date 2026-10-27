@@ -98,7 +98,8 @@ def main():
         if "split" in info:  # mixed folder: pick the game by file number
             num = int(re.search(r"\d+", c["name"]).group())
             info = {**info, **next(s for s in info["split"] if num <= s["upto"])}
-        pid = f"{info['level']}-{slug(info['opp'])}-{c['name'].rsplit('.', 1)[0].lower()}"
+        # "slug" in photo_folders.json tells apart two games with the same opponent (camera file numbers repeat)
+        pid = f"{info['level']}-{info.get('slug') or slug(info['opp'])}-{c['name'].rsplit('.', 1)[0].lower()}"
         if any(x["id"] == pid for x in photos):  # same filename picked from two folders (e.g. an edits subfolder)
             sys.exit(f"duplicate photo id {pid} (pick {tag}); keep only one version in picks.txt")
         full, thumb = OUT / "full" / f"{pid}.webp", OUT / "thumb" / f"{pid}.webp"

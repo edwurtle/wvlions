@@ -1,5 +1,5 @@
 {
-  "_comment": "Drive folder -> game. date links photos to schedule results (null = not tied to a game); level is varsity or jv. split maps loose files in a mixed folder to games by DSC number (upto = last number).",
+  "_comment": "Drive folder -> game. date links photos to schedule results (null = not tied to a game); level is varsity or jv. split maps loose files in a mixed folder to games by DSC number (upto = last number). slug overrides the opponent part of photo ids when the same opponent is played twice.",
   ".": {
     "opp": "Oakdale",
     "level": "varsity",
@@ -172,9 +172,11 @@
     "date": "2026-10-22",
     "folder": "1d-U7KT8Lt_zULKKehSP2jx4haauXvvnB"
   },
-  "Shared photos/CMC Championship": {
+  "Championship game VS Catoctin HS": {
     "opp": "Catoctin",
     "level": "varsity",
-    "date": "2026-10-26"
+    "date": "2026-10-26",
+    "folder": "1-3TkgRCUEOFbLWNh7Pjp2tGSFcAhSVwJ",
+    "slug": "catoctin-cmc"
   }
 }

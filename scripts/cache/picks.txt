@@ -885,5 +885,88 @@ MJ-0036|||
 MJ-0041|||
 MJ-0042|||
 MJ-0043|7||
-CMC-plaque|23,10,13,12|CMC champions||0.26,0.06|charlieshotdat
-CMC-team|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,21,23,24,25|CMC champions|||lionsfooty
+CC-0242|13,18|Lifting the plaque|
+CC-0256|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,21,23,24,25|CMC champions|
+CC-0234||Final whistle|
+CC-0207||2026 CMC boys soccer champions|
+CC-0251||With the plaque|
+CC-0030||Warmups|
+CC-0033|||
+CC-0035|||
+CC-0049|||
+CC-0052|||
+CC-0062|18||
+CC-0068|||
+CC-0071|||
+CC-0073|||
+CC-0058||Coaching staff|
+CC-0083||Lining up|
+CC-0084||Team introductions|
+CC-0092||Team introductions|
+CC-0093||Team introductions|
+CC-0097||Team introductions|
+CC-0098||Team introductions|
+CC-0101||Team introductions|
+CC-0102||Team introductions|
+CC-0105||Team introductions|
+CC-0109||Team introductions|
+CC-0115||Team introductions|
+CC-0116||Pregame huddle|
+CC-0117||Pregame huddle|
+CC-0122||Lions fans|
+CC-0127||Throw-in|
+CC-0131|||
+CC-0132|||
+CC-0138||Header|
+CC-0140|||
+CC-0141|12||
+CC-0144|||
+CC-0150|||
+CC-0154|||
+CC-0156|10||
+CC-0158|||
+CC-0161|||
+CC-0164|10||
+CC-0165|10||
+CC-0170|||
+CC-0173||On the sideline|
+CC-0175|||
+CC-0177||Lions fans|
+CC-0181||On the bench|
+CC-0187|||
+CC-0190|4||
+CC-0191|||
+CC-0193|||
+CC-0194||Header|
+CC-0197|||
+CC-0202|15||
+CC-0212|||
+CC-0216|||
+CC-0217|15||
+CC-0220|||
+CC-0225||Header|
+CC-0227||In the box|
+CC-0231||Final whistle|
+CC-0233||Final whistle|
+CC-0235||Champions|
+CC-0240|||
+CC-0243|13,18|Lifting the plaque|
+CC-0244|13,18|Lifting the plaque|
+CC-0245|18||
+CC-0248|25,13,18||
+CC-0253|||
+CC-0254|||
+CC-0255||CMC champions|
+CC-0257||CMC champions|
+CC-0262||With the Lions girls team|
+CC-0265||CMC champions|
+CC-0268||CMC champions|
+CC-0270||With the plaque|
+CC-0272|||
+CC-0274|15||
+CC-0277|15||
+CC-0279|11|With the plaque|
+CC-0281|19||
+CC-0282|12||
+CC-0283|||
+CC-0284||Coaching staff|

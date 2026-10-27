@@ -14,7 +14,7 @@
   const LABEL = { varsity: "Varsity", jv: "JV" };
   const firstTime = g => g.time.jv || g.time.varsity;  // JV kicks off first
   const timesText = g => g.time.jv && g.time.varsity ? `JV ${esc(g.time.jv)} · Varsity ${esc(g.time.varsity)}`
-    : firstTime(g) ? esc(firstTime(g)) : "Time TBA";
+    : firstTime(g) ? esc(firstTime(g)) + (g.tentative ? " (tentative)" : "") : "Time TBA";
   const kickoff = g => {
     const d = day(g.date);
     const m = /(\d+):(\d+)\s*(AM|PM)/i.exec(firstTime(g) || "");
@@ -215,7 +215,7 @@
       const t = ticketUrl(next);
       box.innerHTML = `
         <div class="label"><span>Next game</span><span class="pill ${next.home ? "" : "away"}">${where(next)}</span></div>
-        <h2>${vsAt(next)} ${esc(next.opp)}<small>${esc(opp(next).mascot || "")}${next.note ? " · " + esc(next.note) : ""}</small></h2>
+        <h2>${vsAt(next)} ${esc(next.opp)}<small>${[opp(next).mascot, next.note].filter(Boolean).map(esc).join(" · ")}</small></h2>
         <div class="when">${fmtDate(next.date, true)} · ${timesText(next)}</div>
         <div class="where"><a href="${mapUrl(next)}" target="_blank" rel="noopener">${esc(venue(next))}</a></div>
         ${!t && next.ticketNote ? `<div class="where">${esc(next.ticketNote)}</div>` : ""}
@@ -306,7 +306,7 @@
           : g.scrimmage && past ? `<div class="score off"><span>Scrimmage</span></div>`
           : past ? (r ? `<div class="score ${r.res}"><span>${{ W: "Win", L: "Loss", T: "Tie" }[r.res]}</span><b>${r.gf}–${r.ga}</b></div>`
                       : `<div class="score off"><span>No score</span></div>`)
-          : time ? `<div class="score up"><span>Kickoff</span><b>${esc(time.replace(/\s?[AP]M$/i, ""))}</b><span>${/AM$/i.test(time) ? "AM" : "PM"}</span></div>`
+          : time ? `<div class="score up"><span>${g.tentative ? "Tentative" : "Kickoff"}</span><b>${esc(time.replace(/\s?[AP]M$/i, ""))}</b><span>${/AM$/i.test(time) ? "AM" : "PM"}</span></div>`
           : `<div class="score up"><span>Kickoff</span><b>TBA</b></div>`;
         const links = [
           `<a class="venue" href="${mapUrl(g)}" target="_blank" rel="noopener">${esc(venue(g))}</a>`,

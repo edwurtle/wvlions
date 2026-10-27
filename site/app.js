@@ -30,7 +30,7 @@
   const where = g => g.site ? "Neutral" : g.home ? "Home" : "Away";
   const result = (g, level) => g[level];
   const isPast = g => day(g.date) < today || g.varsity || g.jv;
-  const ticketUrl = g => g.tickets || (g.home ? S.links.tickets : null);
+  const ticketUrl = g => g.tickets === false ? null : g.tickets || (g.home ? S.links.tickets : null);  // tickets: false = no GoFan event yet
 
   // root-relative image paths: the lightbox changes the URL to /photo/<id>, which would break relative ones
   const photos = D.photos.map(p => ({ ...p, full: "/" + p.full.replace(/^\//, ""), thumb: "/" + p.thumb.replace(/^\//, "") }));
@@ -53,6 +53,7 @@
     cam: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h3l2-3h6l2 3h3a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1z"/><circle cx="12" cy="13" r="4"/></svg>',
     ticket: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8a2 2 0 0 0 0 4v4h18v-4a2 2 0 0 1 0-4V4H3z"/><path d="M13 4v16" stroke-dasharray="2 2"/></svg>',
     play: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg>',
+    trophy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4.5a.5.5 0 0 0-.5.5V8a3 3 0 0 0 3 3M17 6h2.5a.5.5 0 0 1 .5.5V8a3 3 0 0 1-3 3"/><path d="M12 14v3M8.5 20h7M9.5 17h5v3h-5z"/></svg>',
     pin: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.3-7-12a7 7 0 0 1 14 0c0 5.7-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>',
   };
 
@@ -231,7 +232,7 @@
         const parts = [[Math.floor(ms / 864e5), "days"], [Math.floor(ms / 36e5) % 24, "hrs"], [Math.floor(ms / 6e4) % 60, "min"], [Math.floor(ms / 1e3) % 60, "sec"]];
         cd.innerHTML = parts.map(([n, l]) => `<div><b>${n}</b><span>${l}</span></div>`).join("");
       };
-      tick(); setInterval(tick, 1000);
+      if (firstTime(next)) { tick(); setInterval(tick, 1000); } else cd.remove();  // no countdown to midnight while the time is TBA
     }
 
     // latest result + photos
@@ -245,11 +246,12 @@
         : lv.every(l => last[l].res === "T") ? `Draw ${vsAt(last)} ${esc(last.opp)}` : `Tough night ${vsAt(last)} ${esc(last.opp)}`;
       const pics = sortPhotos(photosFor(last.date));
       const shown = pics.slice(0, 5);
+      const shownLv = LEVELS.filter(l => last[l] || !(last.time && !last.time[l]));  // drop a level that didn't play (e.g. the varsity-only CMC final)
       $("#highlight").innerHTML = `
-        <div class="score-card">
+        <div class="score-card${last.feature ? " champ" : ""}">
           <div class="eyebrow">${fmtDate(last.date, true)} · ${where(last)}</div>
-          <h3 class="headline">${last.note ? `${esc(last.note)}<small>${headline}</small>` : headline}</h3>
-          <div class="duo">${LEVELS.map(l => last[l] ? `
+          <h3 class="headline">${last.note ? `${last.feature ? `<span class="trophy" aria-hidden="true">${ICON.trophy}</span>` : ""}${esc(last.note)}<small>${headline}</small>` : headline}</h3>
+          <div class="duo${shownLv.length === 1 ? " solo" : ""}">${shownLv.map(l => last[l] ? `
             <div class="lvl"><span>${LABEL[l]}</span><b>${last[l].gf}<em>–</em>${last[l].ga}</b><i class="${last[l].res}">${{ W: "Win", L: "Loss", T: "Tie" }[last[l].res]}</i></div>`
             : `<div class="lvl none"><span>${LABEL[l]}</span><b>—</b><i>${last.canceled[l] ? "Canceled" : "No score"}</i></div>`).join("")}
           </div>

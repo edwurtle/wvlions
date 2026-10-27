@@ -24584,356 +24584,164 @@
   }
  },
  {
-  "id": "varsity-manchester-valley-dsc_0056",
-  "full": "photos/full/varsity-manchester-valley-dsc_0056.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0056.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [],
-  "caption": "Pregame warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0/view",
-  "download": {
-   "web": {
-    "bytes": 132186
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1255072,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0",
-    "type": "NEF",
-    "bytes": 11731690
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0063",
-  "full": "photos/full/varsity-manchester-valley-dsc_0063.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0063.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59/view",
-  "download": {
-   "web": {
-    "bytes": 103394
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1283383,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59",
-    "type": "NEF",
-    "bytes": 11832135
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0064",
-  "full": "photos/full/varsity-manchester-valley-dsc_0064.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0064.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt/view",
-  "download": {
-   "web": {
-    "bytes": 106878
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1363476,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt",
-    "type": "NEF",
-    "bytes": 11922423
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0065",
-  "full": "photos/full/varsity-manchester-valley-dsc_0065.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0065.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [],
-  "caption": "Walking out",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq/view",
-  "download": {
-   "web": {
-    "bytes": 116560
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1300568,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq",
-    "type": "NEF",
-    "bytes": 11876684
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0068",
-  "full": "photos/full/varsity-manchester-valley-dsc_0068.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0068.webp",
+  "id": "varsity-manchester-valley-dsc_0133",
+  "full": "photos/full/varsity-manchester-valley-dsc_0133.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0133.webp",
   "w": 1600,
   "h": 1063,
   "level": "varsity",
   "opp": "Manchester Valley",
   "date": "2026-10-22",
   "numbers": [
-   5,
-   4,
-   3
-  ],
-  "caption": "Team introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS/view",
-  "download": {
-   "web": {
-    "bytes": 159686
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1383454,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS",
-    "type": "NEF",
-    "bytes": 11831469
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0069",
-  "full": "photos/full/varsity-manchester-valley-dsc_0069.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0069.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [
-   10,
-   9,
-   8,
-   7,
-   6
-  ],
-  "caption": "Team introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp/view",
-  "download": {
-   "web": {
-    "bytes": 124792
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1246897,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp",
-    "type": "NEF",
-    "bytes": 11652421
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0070",
-  "full": "photos/full/varsity-manchester-valley-dsc_0070.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0070.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [
-   14,
-   13,
-   12,
-   11,
-   10,
-   8
-  ],
-  "caption": "Team introductions",
-  "featured": true,
-  "drive": "https://drive.google.com/file/d/1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd/view",
-  "download": {
-   "web": {
-    "bytes": 135880
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1305782,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd",
-    "type": "NEF",
-    "bytes": 11800088
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0071",
-  "full": "photos/full/varsity-manchester-valley-dsc_0071.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0071.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [
-   18,
-   17,
-   15,
-   14,
-   13,
-   12,
    11
   ],
-  "caption": "Team introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB/view",
-  "download": {
-   "web": {
-    "bytes": 151094
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1443086,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB",
-    "type": "NEF",
-    "bytes": 12072926
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0072",
-  "full": "photos/full/varsity-manchester-valley-dsc_0072.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0072.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [
-   23,
-   21,
-   19,
-   18,
-   17,
-   15
-  ],
-  "caption": "Team introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p/view",
-  "download": {
-   "web": {
-    "bytes": 132762
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1423454,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p",
-    "type": "NEF",
-    "bytes": 12027467
-   }
-  }
- },
- {
-  "id": "varsity-manchester-valley-dsc_0238",
-  "full": "photos/full/varsity-manchester-valley-dsc_0238.webp",
-  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0238.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Manchester Valley",
-  "date": "2026-10-22",
-  "numbers": [
-   4
-  ],
   "caption": null,
   "featured": false,
-  "drive": "https://drive.google.com/file/d/1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW/view",
+  "drive": "https://drive.google.com/file/d/1vbI5OaTXSlBl6DAh5L71jlKe4ZRn3P4P/view",
   "download": {
    "web": {
-    "bytes": 155452
+    "bytes": 133588
    },
    "full": {
-    "url": "https://lh3.googleusercontent.com/d/1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW=w8000",
+    "url": "https://lh3.googleusercontent.com/d/1vbI5OaTXSlBl6DAh5L71jlKe4ZRn3P4P=w8000",
     "type": "JPG",
     "converted": true,
-    "bytes": 1347926,
+    "bytes": 1370147,
     "w": 4288,
     "h": 2848
    },
    "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW",
+    "url": "https://drive.google.com/uc?export=download&id=1vbI5OaTXSlBl6DAh5L71jlKe4ZRn3P4P",
     "type": "NEF",
-    "bytes": 11462004
+    "bytes": 11758300
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0164",
+  "full": "photos/full/varsity-manchester-valley-dsc_0164.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0164.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1kveA5MByQQ7QbK7XXHNJyv-T4gNSe29H/view",
+  "download": {
+   "web": {
+    "bytes": 76524
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1kveA5MByQQ7QbK7XXHNJyv-T4gNSe29H=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1056995,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1kveA5MByQQ7QbK7XXHNJyv-T4gNSe29H",
+    "type": "NEF",
+    "bytes": 11274534
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0159",
+  "full": "photos/full/varsity-manchester-valley-dsc_0159.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0159.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1mx49a73MeuS2gzAMtTTKheAzbAZ4YOOr/view",
+  "download": {
+   "web": {
+    "bytes": 149632
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1mx49a73MeuS2gzAMtTTKheAzbAZ4YOOr=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1543771,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1mx49a73MeuS2gzAMtTTKheAzbAZ4YOOr",
+    "type": "NEF",
+    "bytes": 12024502
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0201",
+  "full": "photos/full/varsity-manchester-valley-dsc_0201.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0201.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Clinched a top seed",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xvR-smEy9FJ7BHE4VnzrwJTrWl7LgM6i/view",
+  "download": {
+   "web": {
+    "bytes": 217386
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1xvR-smEy9FJ7BHE4VnzrwJTrWl7LgM6i=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1612021,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xvR-smEy9FJ7BHE4VnzrwJTrWl7LgM6i",
+    "type": "NEF",
+    "bytes": 12418636
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0104",
+  "full": "photos/full/varsity-manchester-valley-dsc_0104.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0104.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Pregame huddle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1oZhhSQIpwQ10vJCjmuMfiOLeo4UVQEDy/view",
+  "download": {
+   "web": {
+    "bytes": 161938
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1oZhhSQIpwQ10vJCjmuMfiOLeo4UVQEDy=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1552239,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1oZhhSQIpwQ10vJCjmuMfiOLeo4UVQEDy",
+    "type": "NEF",
+    "bytes": 12354039
    }
   }
  },
@@ -25197,6 +25005,38 @@
   }
  },
  {
+  "id": "varsity-manchester-valley-dsc_0056",
+  "full": "photos/full/varsity-manchester-valley-dsc_0056.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0056.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Pregame warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0/view",
+  "download": {
+   "web": {
+    "bytes": 132186
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1255072,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1scSCau9kMahuaKjeMUn0WtxSZnxJfXc0",
+    "type": "NEF",
+    "bytes": 11731690
+   }
+  }
+ },
+ {
   "id": "varsity-manchester-valley-dsc_0057",
   "full": "photos/full/varsity-manchester-valley-dsc_0057.webp",
   "thumb": "photos/thumb/varsity-manchester-valley-dsc_0057.webp",
@@ -25357,6 +25197,102 @@
   }
  },
  {
+  "id": "varsity-manchester-valley-dsc_0063",
+  "full": "photos/full/varsity-manchester-valley-dsc_0063.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0063.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59/view",
+  "download": {
+   "web": {
+    "bytes": 103394
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1283383,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1UkzxcpAm25rnTXVvesEFIvjt6rPgGI59",
+    "type": "NEF",
+    "bytes": 11832135
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0064",
+  "full": "photos/full/varsity-manchester-valley-dsc_0064.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0064.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt/view",
+  "download": {
+   "web": {
+    "bytes": 106878
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1363476,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1CNSsS79AcMYXpR5tpi-rdmVqM1iR_zDt",
+    "type": "NEF",
+    "bytes": 11922423
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0065",
+  "full": "photos/full/varsity-manchester-valley-dsc_0065.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0065.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Walking out",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq/view",
+  "download": {
+   "web": {
+    "bytes": 116560
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1300568,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1qRNhY_yC8Z27CAtwv-h8hb30LQ1UuyAq",
+    "type": "NEF",
+    "bytes": 11876684
+   }
+  }
+ },
+ {
   "id": "varsity-manchester-valley-dsc_0067",
   "full": "photos/full/varsity-manchester-valley-dsc_0067.webp",
   "thumb": "photos/thumb/varsity-manchester-valley-dsc_0067.webp",
@@ -25385,6 +25321,2542 @@
     "url": "https://drive.google.com/uc?export=download&id=1W84ViNDN83fx8OPOUtGGvEOLzFiqYkLi",
     "type": "NEF",
     "bytes": 11900819
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0068",
+  "full": "photos/full/varsity-manchester-valley-dsc_0068.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0068.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   5,
+   4,
+   3
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS/view",
+  "download": {
+   "web": {
+    "bytes": 159686
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1383454,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1f5ZEC--P4wjmlhINNS9sQIexKNIrIaeS",
+    "type": "NEF",
+    "bytes": 11831469
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0069",
+  "full": "photos/full/varsity-manchester-valley-dsc_0069.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0069.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   10,
+   9,
+   8,
+   7,
+   6
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp/view",
+  "download": {
+   "web": {
+    "bytes": 124792
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1246897,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17fQ-NjC2XaWU7v1Y1l1Ld7u0hwUKiGyp",
+    "type": "NEF",
+    "bytes": 11652421
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0070",
+  "full": "photos/full/varsity-manchester-valley-dsc_0070.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0070.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   14,
+   13,
+   12,
+   11,
+   10,
+   8
+  ],
+  "caption": "Team introductions",
+  "featured": true,
+  "drive": "https://drive.google.com/file/d/1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd/view",
+  "download": {
+   "web": {
+    "bytes": 135880
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1305782,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1sf4hP5ny_SoVhNnAPtDkY4ed2HjBtHLd",
+    "type": "NEF",
+    "bytes": 11800088
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0071",
+  "full": "photos/full/varsity-manchester-valley-dsc_0071.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0071.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   18,
+   17,
+   15,
+   14,
+   13,
+   12,
+   11
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB/view",
+  "download": {
+   "web": {
+    "bytes": 151094
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1443086,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1FsfIQM0d03zUeBadErm5ov2AJBQg5ICB",
+    "type": "NEF",
+    "bytes": 12072926
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0072",
+  "full": "photos/full/varsity-manchester-valley-dsc_0072.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0072.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   23,
+   21,
+   19,
+   18,
+   17,
+   15
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p/view",
+  "download": {
+   "web": {
+    "bytes": 132762
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1423454,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1LopOVvsjDeRiOZ6etEhT1i9pwT9sE_1p",
+    "type": "NEF",
+    "bytes": 12027467
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0077",
+  "full": "photos/full/varsity-manchester-valley-dsc_0077.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0077.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   2
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1cEINWx8kk6a9FIruxeZS7zFx-ShRIngJ/view",
+  "download": {
+   "web": {
+    "bytes": 110100
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1cEINWx8kk6a9FIruxeZS7zFx-ShRIngJ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1338514,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1cEINWx8kk6a9FIruxeZS7zFx-ShRIngJ",
+    "type": "NEF",
+    "bytes": 11931620
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0079",
+  "full": "photos/full/varsity-manchester-valley-dsc_0079.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0079.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   4
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1UhRzAncqiI-3DLJdHsTBBavKV1JIRzjf/view",
+  "download": {
+   "web": {
+    "bytes": 91172
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1UhRzAncqiI-3DLJdHsTBBavKV1JIRzjf=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1203225,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1UhRzAncqiI-3DLJdHsTBBavKV1JIRzjf",
+    "type": "NEF",
+    "bytes": 11683198
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0081",
+  "full": "photos/full/varsity-manchester-valley-dsc_0081.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0081.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   6
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1_vJAsu1Ip5muBeZv2NMBFXr_mXlcd1Ak/view",
+  "download": {
+   "web": {
+    "bytes": 99552
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1_vJAsu1Ip5muBeZv2NMBFXr_mXlcd1Ak=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1207177,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1_vJAsu1Ip5muBeZv2NMBFXr_mXlcd1Ak",
+    "type": "NEF",
+    "bytes": 11682665
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0083",
+  "full": "photos/full/varsity-manchester-valley-dsc_0083.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0083.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   9
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1QfGoLEM5EAM_mgmk0bidjzjpMkZgb1IM/view",
+  "download": {
+   "web": {
+    "bytes": 108634
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1QfGoLEM5EAM_mgmk0bidjzjpMkZgb1IM=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1200900,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1QfGoLEM5EAM_mgmk0bidjzjpMkZgb1IM",
+    "type": "NEF",
+    "bytes": 11628865
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0087",
+  "full": "photos/full/varsity-manchester-valley-dsc_0087.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0087.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   11
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PNBNdILvwhT8jbqjWEMHMRbGQW-iiTU2/view",
+  "download": {
+   "web": {
+    "bytes": 90712
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1PNBNdILvwhT8jbqjWEMHMRbGQW-iiTU2=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1109722,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1PNBNdILvwhT8jbqjWEMHMRbGQW-iiTU2",
+    "type": "NEF",
+    "bytes": 11490324
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0088",
+  "full": "photos/full/varsity-manchester-valley-dsc_0088.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0088.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   12
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1CRmUEBNYDFx8HVSrHK8ZJwFQZBHPpggu/view",
+  "download": {
+   "web": {
+    "bytes": 122000
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1CRmUEBNYDFx8HVSrHK8ZJwFQZBHPpggu=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1251430,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1CRmUEBNYDFx8HVSrHK8ZJwFQZBHPpggu",
+    "type": "NEF",
+    "bytes": 11719489
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0092",
+  "full": "photos/full/varsity-manchester-valley-dsc_0092.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0092.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   17
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1GH3NmXAH0a_6P8d4MmlU_9BteKRiw7T4/view",
+  "download": {
+   "web": {
+    "bytes": 112692
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1GH3NmXAH0a_6P8d4MmlU_9BteKRiw7T4=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1274960,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1GH3NmXAH0a_6P8d4MmlU_9BteKRiw7T4",
+    "type": "NEF",
+    "bytes": 11855287
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0096",
+  "full": "photos/full/varsity-manchester-valley-dsc_0096.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0096.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   23
+  ],
+  "caption": "Team introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1b_1XmS8RcwzDB1NreGEXtLuCXSfnhVlC/view",
+  "download": {
+   "web": {
+    "bytes": 54028
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1b_1XmS8RcwzDB1NreGEXtLuCXSfnhVlC=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1172961,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1b_1XmS8RcwzDB1NreGEXtLuCXSfnhVlC",
+    "type": "NEF",
+    "bytes": 11767853
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0097",
+  "full": "photos/full/varsity-manchester-valley-dsc_0097.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0097.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Lineup",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1fKrs_UZcRowDLR8_r4Ij4fm9MGV8hM6o/view",
+  "download": {
+   "web": {
+    "bytes": 171984
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1fKrs_UZcRowDLR8_r4Ij4fm9MGV8hM6o=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1496541,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1fKrs_UZcRowDLR8_r4Ij4fm9MGV8hM6o",
+    "type": "NEF",
+    "bytes": 12196723
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0105",
+  "full": "photos/full/varsity-manchester-valley-dsc_0105.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0105.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Pregame huddle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/189sjZxtrs950fh1q_M_r985ZVYr6IJWH/view",
+  "download": {
+   "web": {
+    "bytes": 117184
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/189sjZxtrs950fh1q_M_r985ZVYr6IJWH=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1426007,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=189sjZxtrs950fh1q_M_r985ZVYr6IJWH",
+    "type": "NEF",
+    "bytes": 12118034
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0107",
+  "full": "photos/full/varsity-manchester-valley-dsc_0107.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0107.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1TEeF-cwUfCFKW9tsyw-A7wPkGQIUiLzN/view",
+  "download": {
+   "web": {
+    "bytes": 141038
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1TEeF-cwUfCFKW9tsyw-A7wPkGQIUiLzN=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1456060,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1TEeF-cwUfCFKW9tsyw-A7wPkGQIUiLzN",
+    "type": "NEF",
+    "bytes": 11961556
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0110",
+  "full": "photos/full/varsity-manchester-valley-dsc_0110.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0110.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1K0TfEtx1dxV1tSiHhV4KHXlolCHe_ntI/view",
+  "download": {
+   "web": {
+    "bytes": 49980
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1K0TfEtx1dxV1tSiHhV4KHXlolCHe_ntI=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 814912,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1K0TfEtx1dxV1tSiHhV4KHXlolCHe_ntI",
+    "type": "NEF",
+    "bytes": 10724429
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0111",
+  "full": "photos/full/varsity-manchester-valley-dsc_0111.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0111.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Defensive wall",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1bQY34BEPOvW-e6_0b55foEeTzImCzqUW/view",
+  "download": {
+   "web": {
+    "bytes": 189158
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1bQY34BEPOvW-e6_0b55foEeTzImCzqUW=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1595494,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1bQY34BEPOvW-e6_0b55foEeTzImCzqUW",
+    "type": "NEF",
+    "bytes": 12420117
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0112",
+  "full": "photos/full/varsity-manchester-valley-dsc_0112.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0112.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1TDDMH-EqyNSyt95oyo0RBhbURYOexsq_/view",
+  "download": {
+   "web": {
+    "bytes": 136710
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1TDDMH-EqyNSyt95oyo0RBhbURYOexsq_=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1354167,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1TDDMH-EqyNSyt95oyo0RBhbURYOexsq_",
+    "type": "NEF",
+    "bytes": 11826770
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0118",
+  "full": "photos/full/varsity-manchester-valley-dsc_0118.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0118.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1F_kjn7VpZe3n1EqR6QlV5MlnvY-vsjMk/view",
+  "download": {
+   "web": {
+    "bytes": 118682
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1F_kjn7VpZe3n1EqR6QlV5MlnvY-vsjMk=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1223231,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1F_kjn7VpZe3n1EqR6QlV5MlnvY-vsjMk",
+    "type": "NEF",
+    "bytes": 11559371
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0120",
+  "full": "photos/full/varsity-manchester-valley-dsc_0120.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0120.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Throw-in",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1UV6IbgjXpZkUcjsGL06iwuVvmHF_c6LM/view",
+  "download": {
+   "web": {
+    "bytes": 99510
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1UV6IbgjXpZkUcjsGL06iwuVvmHF_c6LM=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1145225,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1UV6IbgjXpZkUcjsGL06iwuVvmHF_c6LM",
+    "type": "NEF",
+    "bytes": 11599874
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0121",
+  "full": "photos/full/varsity-manchester-valley-dsc_0121.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0121.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   11
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1CCalg_ZUDajvR6qeHHbowbpB3Wu_NrY7/view",
+  "download": {
+   "web": {
+    "bytes": 221836
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1CCalg_ZUDajvR6qeHHbowbpB3Wu_NrY7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1738719,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1CCalg_ZUDajvR6qeHHbowbpB3Wu_NrY7",
+    "type": "NEF",
+    "bytes": 12572256
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0124",
+  "full": "photos/full/varsity-manchester-valley-dsc_0124.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0124.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xLSf3LSlPOHRGYmGcnilEPMMwLKYxeNR/view",
+  "download": {
+   "web": {
+    "bytes": 119472
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1xLSf3LSlPOHRGYmGcnilEPMMwLKYxeNR=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1296676,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xLSf3LSlPOHRGYmGcnilEPMMwLKYxeNR",
+    "type": "NEF",
+    "bytes": 11737250
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0125",
+  "full": "photos/full/varsity-manchester-valley-dsc_0125.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0125.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   11
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1uvIJdzxDMCDg9dtc9LxRUWWuEZ9se9m0/view",
+  "download": {
+   "web": {
+    "bytes": 170424
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1uvIJdzxDMCDg9dtc9LxRUWWuEZ9se9m0=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1571353,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1uvIJdzxDMCDg9dtc9LxRUWWuEZ9se9m0",
+    "type": "NEF",
+    "bytes": 12204695
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0127",
+  "full": "photos/full/varsity-manchester-valley-dsc_0127.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0127.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1b5niC4Vc8AD4YGlyqUAFlpBwnu0qFsB0/view",
+  "download": {
+   "web": {
+    "bytes": 170200
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1b5niC4Vc8AD4YGlyqUAFlpBwnu0qFsB0=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1491648,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1b5niC4Vc8AD4YGlyqUAFlpBwnu0qFsB0",
+    "type": "NEF",
+    "bytes": 12140922
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0129",
+  "full": "photos/full/varsity-manchester-valley-dsc_0129.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0129.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   4
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17XHdpAPvrov8AFUvXVUbH3yyD58pkLHR/view",
+  "download": {
+   "web": {
+    "bytes": 134338
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17XHdpAPvrov8AFUvXVUbH3yyD58pkLHR=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1434290,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17XHdpAPvrov8AFUvXVUbH3yyD58pkLHR",
+    "type": "NEF",
+    "bytes": 12005640
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0137",
+  "full": "photos/full/varsity-manchester-valley-dsc_0137.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0137.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/12NpHA1GaJkCWSBhNPVcjuy0p_o1_LJKs/view",
+  "download": {
+   "web": {
+    "bytes": 123470
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/12NpHA1GaJkCWSBhNPVcjuy0p_o1_LJKs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1347179,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=12NpHA1GaJkCWSBhNPVcjuy0p_o1_LJKs",
+    "type": "NEF",
+    "bytes": 11800909
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0140",
+  "full": "photos/full/varsity-manchester-valley-dsc_0140.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0140.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1dOarHgIkbqlwnNsmjV8_RouUBll5zDfB/view",
+  "download": {
+   "web": {
+    "bytes": 112896
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1dOarHgIkbqlwnNsmjV8_RouUBll5zDfB=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1263077,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1dOarHgIkbqlwnNsmjV8_RouUBll5zDfB",
+    "type": "NEF",
+    "bytes": 11791878
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0141",
+  "full": "photos/full/varsity-manchester-valley-dsc_0141.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0141.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1jVTrJks3uIN880BQX0y-mYTo7Cvhywdv/view",
+  "download": {
+   "web": {
+    "bytes": 84514
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1jVTrJks3uIN880BQX0y-mYTo7Cvhywdv=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1268608,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1jVTrJks3uIN880BQX0y-mYTo7Cvhywdv",
+    "type": "NEF",
+    "bytes": 11675633
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0142",
+  "full": "photos/full/varsity-manchester-valley-dsc_0142.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0142.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1w2CyaTTKBnRtfzH4vBTS0E-hxUsMBKcB/view",
+  "download": {
+   "web": {
+    "bytes": 155420
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1w2CyaTTKBnRtfzH4vBTS0E-hxUsMBKcB=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1494983,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1w2CyaTTKBnRtfzH4vBTS0E-hxUsMBKcB",
+    "type": "NEF",
+    "bytes": 12160519
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0143",
+  "full": "photos/full/varsity-manchester-valley-dsc_0143.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0143.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1yNe4oS-2GnC1oY4FGf8XR9coPKr9r1wm/view",
+  "download": {
+   "web": {
+    "bytes": 159326
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1yNe4oS-2GnC1oY4FGf8XR9coPKr9r1wm=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1493054,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1yNe4oS-2GnC1oY4FGf8XR9coPKr9r1wm",
+    "type": "NEF",
+    "bytes": 11820867
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0152",
+  "full": "photos/full/varsity-manchester-valley-dsc_0152.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0152.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1FVWNo2JT0GzHuvvD0C86sDoaTTaLMzqU/view",
+  "download": {
+   "web": {
+    "bytes": 115272
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1FVWNo2JT0GzHuvvD0C86sDoaTTaLMzqU=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1262627,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1FVWNo2JT0GzHuvvD0C86sDoaTTaLMzqU",
+    "type": "NEF",
+    "bytes": 11835903
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0155",
+  "full": "photos/full/varsity-manchester-valley-dsc_0155.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0155.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/17DjJnNzfi4a-GA0A2f9zfUUk5OA_hXex/view",
+  "download": {
+   "web": {
+    "bytes": 174754
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/17DjJnNzfi4a-GA0A2f9zfUUk5OA_hXex=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1560448,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=17DjJnNzfi4a-GA0A2f9zfUUk5OA_hXex",
+    "type": "NEF",
+    "bytes": 12261484
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0156",
+  "full": "photos/full/varsity-manchester-valley-dsc_0156.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0156.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1SF-tRuO63n94n7c1sWrYZxHVHNc_gyR0/view",
+  "download": {
+   "web": {
+    "bytes": 147338
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1SF-tRuO63n94n7c1sWrYZxHVHNc_gyR0=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1416403,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1SF-tRuO63n94n7c1sWrYZxHVHNc_gyR0",
+    "type": "NEF",
+    "bytes": 11888022
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0158",
+  "full": "photos/full/varsity-manchester-valley-dsc_0158.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0158.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Zx_SGO2rFDjbwr0zvHudcxbHzrbEtPFs/view",
+  "download": {
+   "web": {
+    "bytes": 124960
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Zx_SGO2rFDjbwr0zvHudcxbHzrbEtPFs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1341180,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Zx_SGO2rFDjbwr0zvHudcxbHzrbEtPFs",
+    "type": "NEF",
+    "bytes": 11826222
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0165",
+  "full": "photos/full/varsity-manchester-valley-dsc_0165.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0165.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ykmCPOlbcjpDMm7uCfUo9pQ7XHiqgGnC/view",
+  "download": {
+   "web": {
+    "bytes": 152278
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ykmCPOlbcjpDMm7uCfUo9pQ7XHiqgGnC=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1505842,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ykmCPOlbcjpDMm7uCfUo9pQ7XHiqgGnC",
+    "type": "NEF",
+    "bytes": 12217407
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0166",
+  "full": "photos/full/varsity-manchester-valley-dsc_0166.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0166.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1WhxfGCWxnOiLvWxSg0T6LfvAS_16Pdsl/view",
+  "download": {
+   "web": {
+    "bytes": 62484
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1WhxfGCWxnOiLvWxSg0T6LfvAS_16Pdsl=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1052988,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1WhxfGCWxnOiLvWxSg0T6LfvAS_16Pdsl",
+    "type": "NEF",
+    "bytes": 11232962
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0167",
+  "full": "photos/full/varsity-manchester-valley-dsc_0167.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0167.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Lions fans",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13Ty6wD5usu2MNYEmUUdBI-1hqHPQZ23h/view",
+  "download": {
+   "web": {
+    "bytes": 175868
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/13Ty6wD5usu2MNYEmUUdBI-1hqHPQZ23h=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1476384,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=13Ty6wD5usu2MNYEmUUdBI-1hqHPQZ23h",
+    "type": "NEF",
+    "bytes": 12081474
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0173",
+  "full": "photos/full/varsity-manchester-valley-dsc_0173.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0173.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   8
+  ],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1GTNAX5jB7e-WupZaKgnbDkaxvbS4pF0U/view",
+  "download": {
+   "web": {
+    "bytes": 69868
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1GTNAX5jB7e-WupZaKgnbDkaxvbS4pF0U=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1033957,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1GTNAX5jB7e-WupZaKgnbDkaxvbS4pF0U",
+    "type": "NEF",
+    "bytes": 11333008
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0174",
+  "full": "photos/full/varsity-manchester-valley-dsc_0174.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0174.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Lions fans",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/12GAelJogXK5kCDiEROnuWIKH3kGmwM1B/view",
+  "download": {
+   "web": {
+    "bytes": 114164
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/12GAelJogXK5kCDiEROnuWIKH3kGmwM1B=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1256510,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=12GAelJogXK5kCDiEROnuWIKH3kGmwM1B",
+    "type": "NEF",
+    "bytes": 11810801
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0180",
+  "full": "photos/full/varsity-manchester-valley-dsc_0180.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0180.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Gd9gK-toyx4ewPYUV48WgZx3ANwlIWwO/view",
+  "download": {
+   "web": {
+    "bytes": 153042
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Gd9gK-toyx4ewPYUV48WgZx3ANwlIWwO=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1555309,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Gd9gK-toyx4ewPYUV48WgZx3ANwlIWwO",
+    "type": "NEF",
+    "bytes": 12170892
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0181",
+  "full": "photos/full/varsity-manchester-valley-dsc_0181.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0181.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1sBDCjlaSb-MGiJRDZn3CWQ5psqK4ZTtz/view",
+  "download": {
+   "web": {
+    "bytes": 97982
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1sBDCjlaSb-MGiJRDZn3CWQ5psqK4ZTtz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1253950,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1sBDCjlaSb-MGiJRDZn3CWQ5psqK4ZTtz",
+    "type": "NEF",
+    "bytes": 11649201
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0183",
+  "full": "photos/full/varsity-manchester-valley-dsc_0183.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0183.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   14
+  ],
+  "caption": "Header",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13Vm693081qG4v1DVv8hXXvVnsMeC69nE/view",
+  "download": {
+   "web": {
+    "bytes": 88388
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/13Vm693081qG4v1DVv8hXXvVnsMeC69nE=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1046330,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=13Vm693081qG4v1DVv8hXXvVnsMeC69nE",
+    "type": "NEF",
+    "bytes": 11332046
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0184",
+  "full": "photos/full/varsity-manchester-valley-dsc_0184.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0184.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   10
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1bhR272J3DH-eIxzXzbwo3dts2WiuNY1K/view",
+  "download": {
+   "web": {
+    "bytes": 73832
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1bhR272J3DH-eIxzXzbwo3dts2WiuNY1K=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1105435,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1bhR272J3DH-eIxzXzbwo3dts2WiuNY1K",
+    "type": "NEF",
+    "bytes": 11456664
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0187",
+  "full": "photos/full/varsity-manchester-valley-dsc_0187.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0187.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   14
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1rpxHg9fhm9opT2GmEJ2E1rALmUhABR8b/view",
+  "download": {
+   "web": {
+    "bytes": 68120
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1rpxHg9fhm9opT2GmEJ2E1rALmUhABR8b=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 994524,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1rpxHg9fhm9opT2GmEJ2E1rALmUhABR8b",
+    "type": "NEF",
+    "bytes": 11229042
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0188",
+  "full": "photos/full/varsity-manchester-valley-dsc_0188.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0188.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Keeper",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1RF-ATI2sBzh3_Bo3B6dvm99Pe-T3p2jJ/view",
+  "download": {
+   "web": {
+    "bytes": 109484
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1RF-ATI2sBzh3_Bo3B6dvm99Pe-T3p2jJ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1344330,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1RF-ATI2sBzh3_Bo3B6dvm99Pe-T3p2jJ",
+    "type": "NEF",
+    "bytes": 12010752
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0190",
+  "full": "photos/full/varsity-manchester-valley-dsc_0190.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0190.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1n7w9muoo4AlbXu-HRgMIXH0RbRrb8hgm/view",
+  "download": {
+   "web": {
+    "bytes": 134276
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1n7w9muoo4AlbXu-HRgMIXH0RbRrb8hgm=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1350903,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1n7w9muoo4AlbXu-HRgMIXH0RbRrb8hgm",
+    "type": "NEF",
+    "bytes": 11872900
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0193",
+  "full": "photos/full/varsity-manchester-valley-dsc_0193.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0193.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1tcawcTTYu_KnFydUluW3Ua6drURegM7g/view",
+  "download": {
+   "web": {
+    "bytes": 102128
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1tcawcTTYu_KnFydUluW3Ua6drURegM7g=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1196120,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1tcawcTTYu_KnFydUluW3Ua6drURegM7g",
+    "type": "NEF",
+    "bytes": 11494326
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0196",
+  "full": "photos/full/varsity-manchester-valley-dsc_0196.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0196.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1C4lu8rXuILBI5W5gcIn_Fp4sNWQ9sKbz/view",
+  "download": {
+   "web": {
+    "bytes": 113992
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1C4lu8rXuILBI5W5gcIn_Fp4sNWQ9sKbz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1206196,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1C4lu8rXuILBI5W5gcIn_Fp4sNWQ9sKbz",
+    "type": "NEF",
+    "bytes": 11589836
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0198",
+  "full": "photos/full/varsity-manchester-valley-dsc_0198.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0198.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "On the bench",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1tZdm9mzTl0PGsQzBxAep2xzJ6V6Lhlf-/view",
+  "download": {
+   "web": {
+    "bytes": 217110
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1tZdm9mzTl0PGsQzBxAep2xzJ6V6Lhlf-=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1608474,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1tZdm9mzTl0PGsQzBxAep2xzJ6V6Lhlf-",
+    "type": "NEF",
+    "bytes": 12456459
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0213",
+  "full": "photos/full/varsity-manchester-valley-dsc_0213.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0213.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/18sG1S9Bzz8qBO7d8TMKl_5lpGPtf_kMs/view",
+  "download": {
+   "web": {
+    "bytes": 119640
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/18sG1S9Bzz8qBO7d8TMKl_5lpGPtf_kMs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1319539,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=18sG1S9Bzz8qBO7d8TMKl_5lpGPtf_kMs",
+    "type": "NEF",
+    "bytes": 11748310
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0216",
+  "full": "photos/full/varsity-manchester-valley-dsc_0216.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0216.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/13Yujrza-PRfKtubRfID6tTqpFYYdZgzC/view",
+  "download": {
+   "web": {
+    "bytes": 163148
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/13Yujrza-PRfKtubRfID6tTqpFYYdZgzC=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1461279,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=13Yujrza-PRfKtubRfID6tTqpFYYdZgzC",
+    "type": "NEF",
+    "bytes": 12064238
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0217",
+  "full": "photos/full/varsity-manchester-valley-dsc_0217.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0217.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1arTlE6MrkorJzH7fkVfd7veUuMv0uAMw/view",
+  "download": {
+   "web": {
+    "bytes": 141916
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1arTlE6MrkorJzH7fkVfd7veUuMv0uAMw=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1467730,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1arTlE6MrkorJzH7fkVfd7veUuMv0uAMw",
+    "type": "NEF",
+    "bytes": 12131317
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0223",
+  "full": "photos/full/varsity-manchester-valley-dsc_0223.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0223.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1TCikTuKPqvyC5Q-Nbk3EHU3KHKTRlCjM/view",
+  "download": {
+   "web": {
+    "bytes": 195474
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1TCikTuKPqvyC5Q-Nbk3EHU3KHKTRlCjM=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1627979,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1TCikTuKPqvyC5Q-Nbk3EHU3KHKTRlCjM",
+    "type": "NEF",
+    "bytes": 12142351
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0228",
+  "full": "photos/full/varsity-manchester-valley-dsc_0228.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0228.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1NE565lHAeq2jpsoVQcMKq7v_D-kPjBK5/view",
+  "download": {
+   "web": {
+    "bytes": 178604
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1NE565lHAeq2jpsoVQcMKq7v_D-kPjBK5=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1492133,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1NE565lHAeq2jpsoVQcMKq7v_D-kPjBK5",
+    "type": "NEF",
+    "bytes": 11938024
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0230",
+  "full": "photos/full/varsity-manchester-valley-dsc_0230.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0230.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   4
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1SkFQQ9LbiTTc8UpVw3P7sruJD_MPETTg/view",
+  "download": {
+   "web": {
+    "bytes": 104018
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1SkFQQ9LbiTTc8UpVw3P7sruJD_MPETTg=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1316850,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1SkFQQ9LbiTTc8UpVw3P7sruJD_MPETTg",
+    "type": "NEF",
+    "bytes": 11806504
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0231",
+  "full": "photos/full/varsity-manchester-valley-dsc_0231.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0231.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1z6bySnNFfHwj8LTDGYqIZU2IMuhJXgv1/view",
+  "download": {
+   "web": {
+    "bytes": 108236
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1z6bySnNFfHwj8LTDGYqIZU2IMuhJXgv1=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1333345,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1z6bySnNFfHwj8LTDGYqIZU2IMuhJXgv1",
+    "type": "NEF",
+    "bytes": 11706333
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0234",
+  "full": "photos/full/varsity-manchester-valley-dsc_0234.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0234.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ysGP1iym0FIVWJ5w2PrY3EwvYyEPFDoi/view",
+  "download": {
+   "web": {
+    "bytes": 233954
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ysGP1iym0FIVWJ5w2PrY3EwvYyEPFDoi=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1586249,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ysGP1iym0FIVWJ5w2PrY3EwvYyEPFDoi",
+    "type": "NEF",
+    "bytes": 12295354
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0236",
+  "full": "photos/full/varsity-manchester-valley-dsc_0236.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0236.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Header in the box",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/128FYO7WtLadlV-a1lbB-2RVUHhJqXnfe/view",
+  "download": {
+   "web": {
+    "bytes": 218468
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/128FYO7WtLadlV-a1lbB-2RVUHhJqXnfe=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1509395,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=128FYO7WtLadlV-a1lbB-2RVUHhJqXnfe",
+    "type": "NEF",
+    "bytes": 12189825
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0238",
+  "full": "photos/full/varsity-manchester-valley-dsc_0238.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0238.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   4
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW/view",
+  "download": {
+   "web": {
+    "bytes": 155452
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1347926,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1OHkZPevQo2rqmo1ihvhKZB_OPqY4PqhW",
+    "type": "NEF",
+    "bytes": 11462004
+   }
+  }
+ },
+ {
+  "id": "varsity-manchester-valley-dsc_0202",
+  "full": "photos/full/varsity-manchester-valley-dsc_0202.webp",
+  "thumb": "photos/thumb/varsity-manchester-valley-dsc_0202.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Clinched a top seed",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1PrvV7L4HhYg2F8XF6edHu7X-Gl00zJAw/view",
+  "download": {
+   "web": {
+    "bytes": 199900
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1PrvV7L4HhYg2F8XF6edHu7X-Gl00zJAw=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1529435,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1PrvV7L4HhYg2F8XF6edHu7X-Gl00zJAw",
+    "type": "NEF",
+    "bytes": 12227379
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0021",
+  "full": "photos/full/jv-manchester-valley-dsc_0021.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0021.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1hxzZPfwIW36Lv306GM_x1wICBCXchHlI/view",
+  "download": {
+   "web": {
+    "bytes": 108386
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1hxzZPfwIW36Lv306GM_x1wICBCXchHlI=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1329966,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1hxzZPfwIW36Lv306GM_x1wICBCXchHlI",
+    "type": "NEF",
+    "bytes": 11910759
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0026",
+  "full": "photos/full/jv-manchester-valley-dsc_0026.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0026.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1jgwKnTZRbXU-N_nFzkknnsDVZBL4GvSV/view",
+  "download": {
+   "web": {
+    "bytes": 110792
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1jgwKnTZRbXU-N_nFzkknnsDVZBL4GvSV=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1352837,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1jgwKnTZRbXU-N_nFzkknnsDVZBL4GvSV",
+    "type": "NEF",
+    "bytes": 12063860
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0023",
+  "full": "photos/full/jv-manchester-valley-dsc_0023.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0023.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   3
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1snxKURj4CbjjKkn-9dnx5vnoMgJDAv64/view",
+  "download": {
+   "web": {
+    "bytes": 126902
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1snxKURj4CbjjKkn-9dnx5vnoMgJDAv64=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1377406,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1snxKURj4CbjjKkn-9dnx5vnoMgJDAv64",
+    "type": "NEF",
+    "bytes": 11946835
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0002",
+  "full": "photos/full/jv-manchester-valley-dsc_0002.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0002.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/15TFoBQnVlMjZXQap1NakpDo8ZKRsTCB7/view",
+  "download": {
+   "web": {
+    "bytes": 178650
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/15TFoBQnVlMjZXQap1NakpDo8ZKRsTCB7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1389595,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=15TFoBQnVlMjZXQap1NakpDo8ZKRsTCB7",
+    "type": "NEF",
+    "bytes": 11416721
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0010",
+  "full": "photos/full/jv-manchester-valley-dsc_0010.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0010.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1CgT0eN_IuimoD-HUAs06qWrMrQYp38jG/view",
+  "download": {
+   "web": {
+    "bytes": 111394
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1CgT0eN_IuimoD-HUAs06qWrMrQYp38jG=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1360428,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1CgT0eN_IuimoD-HUAs06qWrMrQYp38jG",
+    "type": "NEF",
+    "bytes": 12095923
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0014",
+  "full": "photos/full/jv-manchester-valley-dsc_0014.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0014.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   5
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1VrQ1xfwrmEw1Q2w6LpKeQperx1YclLaR/view",
+  "download": {
+   "web": {
+    "bytes": 82562
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1VrQ1xfwrmEw1Q2w6LpKeQperx1YclLaR=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1246991,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1VrQ1xfwrmEw1Q2w6LpKeQperx1YclLaR",
+    "type": "NEF",
+    "bytes": 11793522
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0015",
+  "full": "photos/full/jv-manchester-valley-dsc_0015.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0015.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1jGilgPOAiLBa3ZZGe25hUywvF9Dp0Bhz/view",
+  "download": {
+   "web": {
+    "bytes": 153662
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1jGilgPOAiLBa3ZZGe25hUywvF9Dp0Bhz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1554173,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1jGilgPOAiLBa3ZZGe25hUywvF9Dp0Bhz",
+    "type": "NEF",
+    "bytes": 12224454
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0019",
+  "full": "photos/full/jv-manchester-valley-dsc_0019.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0019.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": "Keeper",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1wF_GOBHu_M8RgnSdBnfeMtZ_bTj7owft/view",
+  "download": {
+   "web": {
+    "bytes": 129540
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1wF_GOBHu_M8RgnSdBnfeMtZ_bTj7owft=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1434813,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1wF_GOBHu_M8RgnSdBnfeMtZ_bTj7owft",
+    "type": "NEF",
+    "bytes": 12197044
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0022",
+  "full": "photos/full/jv-manchester-valley-dsc_0022.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0022.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1XJRTdJsTy4MHal2Y-oRU1v0tC61Y1odq/view",
+  "download": {
+   "web": {
+    "bytes": 146174
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1XJRTdJsTy4MHal2Y-oRU1v0tC61Y1odq=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1485873,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1XJRTdJsTy4MHal2Y-oRU1v0tC61Y1odq",
+    "type": "NEF",
+    "bytes": 12203570
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0027",
+  "full": "photos/full/jv-manchester-valley-dsc_0027.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0027.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1r7F8uyceMHxhQvTkVXmr2GwXtR22pCaf/view",
+  "download": {
+   "web": {
+    "bytes": 144006
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1r7F8uyceMHxhQvTkVXmr2GwXtR22pCaf=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1476597,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1r7F8uyceMHxhQvTkVXmr2GwXtR22pCaf",
+    "type": "NEF",
+    "bytes": 12230482
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0033",
+  "full": "photos/full/jv-manchester-valley-dsc_0033.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0033.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1_ltVtKYqnTRGEursneY8Ref-hldAWyaO/view",
+  "download": {
+   "web": {
+    "bytes": 167020
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1_ltVtKYqnTRGEursneY8Ref-hldAWyaO=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1429252,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1_ltVtKYqnTRGEursneY8Ref-hldAWyaO",
+    "type": "NEF",
+    "bytes": 12221575
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0035",
+  "full": "photos/full/jv-manchester-valley-dsc_0035.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0035.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1dDiyAolRk75kvrdE6yeeiicCLKPhotlQ/view",
+  "download": {
+   "web": {
+    "bytes": 106570
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1dDiyAolRk75kvrdE6yeeiicCLKPhotlQ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1234045,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1dDiyAolRk75kvrdE6yeeiicCLKPhotlQ",
+    "type": "NEF",
+    "bytes": 11806823
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0036",
+  "full": "photos/full/jv-manchester-valley-dsc_0036.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0036.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1k-LgAUq9WF6GJE32RHFa9Fi2VVETWfpk/view",
+  "download": {
+   "web": {
+    "bytes": 117906
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1k-LgAUq9WF6GJE32RHFa9Fi2VVETWfpk=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1329985,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1k-LgAUq9WF6GJE32RHFa9Fi2VVETWfpk",
+    "type": "NEF",
+    "bytes": 12019878
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0041",
+  "full": "photos/full/jv-manchester-valley-dsc_0041.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0041.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1hMsc6dNemiHSwX8Ip5VOzfsCiKLzAZfp/view",
+  "download": {
+   "web": {
+    "bytes": 109490
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1hMsc6dNemiHSwX8Ip5VOzfsCiKLzAZfp=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1309500,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1hMsc6dNemiHSwX8Ip5VOzfsCiKLzAZfp",
+    "type": "NEF",
+    "bytes": 12072993
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0042",
+  "full": "photos/full/jv-manchester-valley-dsc_0042.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0042.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1g0WgNeOcKRS9KQKAM4R-FJ5FxGJeORBs/view",
+  "download": {
+   "web": {
+    "bytes": 121196
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1g0WgNeOcKRS9KQKAM4R-FJ5FxGJeORBs=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1293668,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1g0WgNeOcKRS9KQKAM4R-FJ5FxGJeORBs",
+    "type": "NEF",
+    "bytes": 11825326
+   }
+  }
+ },
+ {
+  "id": "jv-manchester-valley-dsc_0043",
+  "full": "photos/full/jv-manchester-valley-dsc_0043.webp",
+  "thumb": "photos/thumb/jv-manchester-valley-dsc_0043.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "jv",
+  "opp": "Manchester Valley",
+  "date": "2026-10-22",
+  "numbers": [
+   7
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1dvQSHRbRQRGaCNYCpkydLaR8gpCSC4Ee/view",
+  "download": {
+   "web": {
+    "bytes": 112266
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1dvQSHRbRQRGaCNYCpkydLaR8gpCSC4Ee=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1179054,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1dvQSHRbRQRGaCNYCpkydLaR8gpCSC4Ee",
+    "type": "NEF",
+    "bytes": 11608478
    }
   }
  }

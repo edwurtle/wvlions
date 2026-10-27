@@ -41,9 +41,21 @@
     "level": "jv",
     "folder": "1OPRrvgKRU-DukkEOg6H2qL6D9CJX7GyH",
     "split": [
-      {"upto": 28, "opp": "Oakdale", "date": "2026-08-29"},
-      {"upto": 409, "opp": "North Hagerstown", "date": "2026-09-03"},
-      {"upto": 9999, "opp": "Liberty", "date": "2026-09-08"}
+      {
+        "upto": 28,
+        "opp": "Oakdale",
+        "date": "2026-08-29"
+      },
+      {
+        "upto": 409,
+        "opp": "North Hagerstown",
+        "date": "2026-09-03"
+      },
+      {
+        "upto": 9999,
+        "opp": "Liberty",
+        "date": "2026-09-08"
+      }
     ]
   },
   "JV Pictures 2026/Brunswick Vs Walkersville JV": {
@@ -153,5 +165,11 @@
     "level": "varsity",
     "date": "2026-10-22",
     "folder": "14I2mRS3iH29tfHq7HSFs7DQP5zIuQiK4"
+  },
+  "JV Pictures 2026/Manchester Valley VS WHS": {
+    "opp": "Manchester Valley",
+    "level": "jv",
+    "date": "2026-10-22",
+    "folder": "1d-U7KT8Lt_zULKKehSP2jx4haauXvvnB"
   }
 }

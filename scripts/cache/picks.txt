@@ -785,16 +785,11 @@ S-0679|4||
 S-0682|4,9||
 S-0696|19||
 S-0697|19||
-M-0056||Pregame warmups|
-M-0063|||
-M-0064|||
-M-0065||Walking out|
-M-0068|5,4,3|Team introductions|
-M-0069|10,9,8,7,6|Team introductions|
-M-0070|14,13,12,11,10,8|Team introductions|1
-M-0071|18,17,15,14,13,12,11|Team introductions|
-M-0072|23,21,19,18,17,15|Team introductions|
-M-0238|4||
+M-0133|11||
+M-0164||Header|
+M-0159|||
+M-0201||Clinched a top seed|
+M-0104||Pregame huddle|
 M-0045||Warmups|
 M-0047|||
 M-0048|||
@@ -803,9 +798,90 @@ M-0051|||
 M-0052|||
 M-0053|||
 M-0055|15,12||
+M-0056||Pregame warmups|
 M-0057|||
 M-0058|||
 M-0059|||
 M-0061|||
 M-0062|||
+M-0063|||
+M-0064|||
+M-0065||Walking out|
 M-0067||Pregame|
+M-0068|5,4,3|Team introductions|
+M-0069|10,9,8,7,6|Team introductions|
+M-0070|14,13,12,11,10,8|Team introductions|1
+M-0071|18,17,15,14,13,12,11|Team introductions|
+M-0072|23,21,19,18,17,15|Team introductions|
+M-0077|2|Team introductions|
+M-0079|4|Team introductions|
+M-0081|6|Team introductions|
+M-0083|9|Team introductions|
+M-0087|11|Team introductions|
+M-0088|12|Team introductions|
+M-0092|17|Team introductions|
+M-0096|23|Team introductions|
+M-0097||Lineup|
+M-0105||Pregame huddle|
+M-0107|||
+M-0110|||
+M-0111||Defensive wall|
+M-0112|||
+M-0118|||
+M-0120||Throw-in|
+M-0121|11||
+M-0124|||
+M-0125|11||
+M-0127|||
+M-0129|4||
+M-0137|||
+M-0140||Header|
+M-0141|||
+M-0142|||
+M-0143|||
+M-0152||Header|
+M-0155|||
+M-0156|||
+M-0158|||
+M-0165|||
+M-0166||Header|
+M-0167||Lions fans|
+M-0173|8|Header|
+M-0174||Lions fans|
+M-0180|||
+M-0181|||
+M-0183|14|Header|
+M-0184|10||
+M-0187|14||
+M-0188||Keeper|
+M-0190|||
+M-0193|||
+M-0196|||
+M-0198||On the bench|
+M-0213|||
+M-0216|||
+M-0217|||
+M-0223|||
+M-0228|||
+M-0230|4||
+M-0231|||
+M-0234|||
+M-0236||Header in the box|
+M-0238|4||
+M-0202||Clinched a top seed|
+MJ-0021|||
+MJ-0026|||
+MJ-0023|3||
+MJ-0002|||
+MJ-0010|||
+MJ-0014|5||
+MJ-0015|||
+MJ-0019||Keeper|
+MJ-0022|||
+MJ-0027|||
+MJ-0033|||
+MJ-0035|||
+MJ-0036|||
+MJ-0041|||
+MJ-0042|||
+MJ-0043|7||

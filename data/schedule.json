@@ -33,7 +33,8 @@
     "Oakdale": {"mascot": "Bears", "city": "Ijamsville"}
   },
   "added": [
-    {"date": "2026-08-29", "opp": "Oakdale", "home": true, "league": false, "scrimmage": true}
+    {"date": "2026-08-29", "opp": "Oakdale", "home": true, "league": false, "scrimmage": true},
+    {"date": "2026-10-30", "opp": "Century / Williamsport", "home": true, "league": false, "scrimmage": false, "note": "Region Semifinal"}
   ],
   "extras": {
     "2026-09-24": {"jv": "0-1"},
@@ -41,6 +42,7 @@
     "2026-10-13": {"tickets": "https://gofan.co/event/6745310", "note": "Senior Night", "feature": true},
     "2026-10-15": {"tickets": "https://gofan.co/event/6813137", "jv": "0-1"},
     "2026-10-22": {"tickets": "https://gofan.co/event/6745309", "note": "Clinched a top seed"},
-    "2026-10-26": {"note": "CMC Championship", "tickets": "https://gofan.co/event/6980617", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:30 PM"}}
+    "2026-10-26": {"note": "CMC Champs!", "feature": true, "varsity": "1-0", "tickets": "https://gofan.co/event/6980617", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:30 PM"}},
+    "2026-10-30": {"time": {"varsity": "6:00 PM (tentative)"}, "tickets": false}
   }
 }

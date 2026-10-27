@@ -72,6 +72,7 @@ button { font: inherit; cursor: pointer; }
 .countdown b { display: block; font: 700 26px/1 var(--display); color: var(--blue-dark); }
 .countdown span { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.where + .actions { margin-top: 18px; } /* no countdown while the time is TBA */
 .btn { display: inline-flex; align-items: center; gap: 8px; border: 0; border-radius: 10px; padding: 11px 16px; font-weight: 700; font-size: 14px; text-decoration: none; background: var(--blue); color: #fff; }
 .btn:hover { background: var(--blue-dark); }
 .btn.gold { background: var(--gold); color: var(--navy); }
@@ -107,6 +108,11 @@ section.block.alt { background: #fff; }
 .headline { font: 700 30px/1.1 var(--display); text-transform: uppercase; margin: 12px 0 18px; }
 .headline small { display: block; font-size: 18px; color: var(--gold); margin-top: 6px; }
 .duo { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.duo.solo { grid-template-columns: 1fr; }
+.score-card.champ .headline { color: var(--gold); font-size: 38px; }
+.score-card.champ .headline small { color: #fff; }
+.score-card.champ .trophy { display: inline-flex; vertical-align: -0.12em; margin-right: 10px; }
+.score-card.champ .trophy svg { width: 0.95em; height: 0.95em; }
 .lvl { background: rgba(255, 255, 255, .08); border-radius: 12px; padding: 14px 16px; }
 .lvl span { display: block; font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #b8c0dc; }
 .lvl b { display: block; font: 700 46px/1.05 var(--display); margin: 4px 0 8px; }

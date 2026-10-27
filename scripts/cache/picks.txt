@@ -1,4 +1,4 @@
-# tag | jersey numbers (Walkersville, comma sep) | caption | featured(1) | crop "top,bottom" fractions (optional)
+# tag | jersey numbers (Walkersville, comma sep) | caption | featured(1) | crop "top,bottom" fractions (optional) | credit: Instagram handle of the photographer (optional)
 00-01|10,4,7,8|On the bench|
 00-07|15,17,1|Team huddle|
 00-10|14||
@@ -885,3 +885,5 @@ MJ-0036|||
 MJ-0041|||
 MJ-0042|||
 MJ-0043|7||
+CMC-plaque|23,10,13,12|CMC champions||0.26,0.06|charlieshotdat
+CMC-team|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,21,23,24,25|CMC champions|||lionsfooty

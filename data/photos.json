@@ -27859,5 +27859,73 @@
     "bytes": 11608478
    }
   }
+ },
+ {
+  "id": "varsity-catoctin-cmc-plaque",
+  "full": "photos/full/varsity-catoctin-cmc-plaque.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-plaque.webp",
+  "w": 1600,
+  "h": 1451,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   23,
+   10,
+   13,
+   12
+  ],
+  "caption": "CMC champions",
+  "featured": false,
+  "credit": "charlieshotdat",
+  "drive": null,
+  "download": {
+   "web": {
+    "bytes": 146342
+   }
+  }
+ },
+ {
+  "id": "varsity-catoctin-cmc-team",
+  "full": "photos/full/varsity-catoctin-cmc-team.webp",
+  "thumb": "photos/thumb/varsity-catoctin-cmc-team.webp",
+  "w": 1080,
+  "h": 810,
+  "level": "varsity",
+  "opp": "Catoctin",
+  "date": "2026-10-26",
+  "numbers": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   17,
+   18,
+   19,
+   21,
+   23,
+   24,
+   25
+  ],
+  "caption": "CMC champions",
+  "featured": false,
+  "credit": "lionsfooty",
+  "drive": null,
+  "download": {
+   "web": {
+    "bytes": 241130
+   }
+  }
  }
 ]

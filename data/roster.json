@@ -4,7 +4,8 @@
     "assistants: coaches Arbiter doesn't list (it only has head coaches), added by hand per the program.",
     "This file only adds what Arbiter doesn't have: coach bios, keyed by name (from the old lionssoccer.org staff page).",
     "Jersey numbers link players to the photo catalog (photos are tagged by visible number).",
-    "players: the rosters, copied from Arbiter on Oct 12 and hand-corrected (Arbiter had Avila/Fyock numbers swapped and Namasse's number and grade wrong). The nightly refresh doesn't touch them; edit here."
+    "players: the rosters, copied from Arbiter on Oct 12 and hand-corrected (Arbiter had Avila/Fyock numbers swapped and Namasse's number and grade wrong). The nightly refresh doesn't touch them; edit here.",
+    "\"jv\" on a varsity player = their JV number (JV players moved up, shown with *): their photos from both teams are linked."
   ],
   "players": {
     "varsity": [
@@ -27,7 +28,9 @@
       {"num": 18, "name": "Steven Rosales", "grade": "Senior", "pos": null, "height": "5'9\""},
       {"num": 19, "name": "Gabriel Beltran", "grade": "Senior", "pos": null, "height": "6'3\""},
       {"num": 21, "name": "Jalontae Williams", "grade": "Senior", "pos": null, "height": "5'11\""},
-      {"num": 23, "name": "Hudson Beaver", "grade": "Freshman", "pos": null, "height": "5'7\""}
+      {"num": 23, "name": "Hudson Beaver", "grade": "Freshman", "pos": null, "height": "5'7\""},
+      {"num": 24, "name": "Gavin Mullinix", "grade": "Sophomore", "pos": null, "height": "5'10\"", "jv": 3},
+      {"num": 25, "name": "Tyler Daniluck", "grade": "Sophomore", "pos": null, "height": "5'9\"", "jv": 8}
     ],
     "jv": [
       {"num": 1, "name": "Kai Work", "grade": "Freshman", "pos": null, "height": null},

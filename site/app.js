@@ -47,6 +47,12 @@
   // catalog: varsity before JV within a game, then featured, then the curated order from picks.txt
   const catalogSort = list => [...list].sort((a, b) => (a.level === "jv") - (b.level === "jv") || b.featured - a.featured);
   const playerByNum = (level, n) => (D.roster[level] || []).find(p => p.num === n);
+  // every [level, number] a player is tagged under: a varsity player moved up from JV ("jv": their JV number) has both
+  const playerTags = (level, n) => {
+    const v = level === "varsity" ? playerByNum("varsity", n) : (D.roster.varsity || []).find(p => p.jv === n);
+    return v && v.jv ? [["varsity", v.num], ["jv", v.jv]] : [[level, n]];
+  };
+  const hasPlayer = (p, level, n) => playerTags(level, n).some(([l, m]) => p.level === l && p.numbers.includes(m));
   const who = p => p.numbers.map(n => { const pl = playerByNum(p.level, n); return pl ? `#${n} ${esc(pl.name)}` : `#${n}`; }).join(" · ");
 
   const ICON = {
@@ -162,7 +168,8 @@
         <button class="lb-nav next" data-step="1" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg></button>
       </div>
       <div class="lb-bot">${lbIdx + 1} / ${lbList.length}${who ? ` · In this photo: ${who.split(", ").map(w => `<a href="${photosUrl({ level: p.level, num: +w.match(/\d+/)[0] })}">${esc(w)}</a>`).join(" ")}` : ""}
-        · <a href="${p.drive}" target="_blank" rel="noopener">Original in Drive</a></div>`;
+        · ${p.credit ? `Photo: <a href="https://www.instagram.com/${esc(p.credit)}/" target="_blank" rel="noopener">@${esc(p.credit)}</a>`
+          : `<a href="${p.drive}" target="_blank" rel="noopener">Original in Drive</a>`}</div>`;
     [lbIdx - 1, lbIdx + 1].forEach(i => { const q = lbList[(i + lbList.length) % lbList.length]; if (q) new Image().src = q.full; });
   }
   const step = n => { lbIdx = (lbIdx + n + lbList.length) % lbList.length; drawLb(); };
@@ -257,9 +264,9 @@
           </div>
           ${LEVELS.some(l => last.watch && last.watch[l]) ? `<div class="replays">${LEVELS.filter(l => last.watch[l]).map(l =>
             `<a href="${last.watch[l]}" target="_blank" rel="noopener">▶ Watch ${LABEL[l]} replay</a>`).join("")}</div>` : ""}
-          <div class="meta">${esc(venue(last))}<br>${pics.length ? `${pics.length} photo${pics.length === 1 ? "" : "s"} from this game` : "Photos coming soon"}</div>
+          <div class="meta">${esc(venue(last))}<br>${pics.length ? `${pics.length} photo${pics.length === 1 ? "" : "s"} from this game${last.morePhotos ? " · more coming soon" : ""}` : "Photos coming soon"}</div>
         </div>
-        <div class="mosaic${shown[0] && shown[0].w / shown[0].h > 1.9 ? " wide" : ""}">${shown.length ? "" : `<div class="mosaic-empty">Photos from this game will be posted soon</div>`}${shown.map((p, i) => `
+        <div class="mosaic${shown.length === 2 ? " pair" : shown[0] && shown[0].w / shown[0].h > 1.9 ? " wide" : ""}">${shown.length ? "" : `<div class="mosaic-empty">Photos from this game will be posted soon</div>`}${shown.map((p, i) => `
           <button data-i="${i}" aria-label="Open photo"><img src="${i ? p.thumb : p.full}" alt="" loading="lazy">
           ${i === shown.length - 1 && pics.length > shown.length ? `<span class="more">+${pics.length - shown.length + 1} more</span>` : ""}</button>`).join("")}
         </div>`;
@@ -330,10 +337,10 @@
       const players = [...(D.roster[level] || [])].sort((a, b) => a.num - b.num);
       if (players.length) {
         $("#roster").innerHTML = `<div class="roster">${players.map(p => {
-          const n = photos.filter(x => x.level === level && x.numbers.includes(p.num)).length;
+          const n = photos.filter(x => hasPlayer(x, level, p.num)).length;
           return `<a class="player" href="${photosUrl({ level, num: p.num })}"><div class="jersey">${p.num}</div>
-            <div><div class="n">${esc(p.name)}</div><div class="m">${[p.grade, p.pos].filter(Boolean).map(esc).join(" · ")}${n ? ` · ${n} photo${n > 1 ? "s" : ""}` : ""}</div></div></a>`;
-        }).join("")}</div>`;
+            <div><div class="n">${esc(p.name)}${p.jv ? "*" : ""}</div><div class="m">${[p.grade, p.pos].filter(Boolean).map(esc).join(" · ")}${n ? ` · ${n} photo${n > 1 ? "s" : ""}` : ""}</div></div></a>`;
+        }).join("")}</div>${players.some(p => p.jv) ? `<p class="roster-note">* Moved up from JV for the playoffs</p>` : ""}`;
       } else {
         const nums = [...new Set(photos.filter(p => p.level === level).flatMap(p => p.numbers))].sort((a, b) => a - b);
         $("#roster").innerHTML = `<div class="empty"><b>The 2026 ${level === "jv" ? "JV" : "varsity"} roster is coming soon.</b><br>
@@ -477,9 +484,10 @@
     };
     const hays = new Map(photos.map(p => [p, hay(p)]));
     const matches = p => {
-      if (state.level && p.level !== state.level) return false;
+      if (state.num !== null) {  // a player: their photos on either team (moved-up players have both)
+        if (!hasPlayer(p, state.level || LEVELS.find(l => playerByNum(l, state.num)) || p.level, state.num)) return false;
+      } else if (state.level && p.level !== state.level) return false;
       if (state.game && gameKey(p) !== state.game) return false;
-      if (state.num !== null && !p.numbers.includes(state.num)) return false;
       const toks = state.q.toLowerCase().split(/\s+/).filter(Boolean);
       return toks.every(t => /^#?\d+$/.test(t) ? p.numbers.includes(+t.replace("#", "")) : hays.get(p).includes(t));
     };
@@ -490,8 +498,8 @@
       // player picker: roster players who appear in at least one photo, grouped by team
       playerDD.setGroups(LEVELS.filter(l => !state.level || state.level === l).map(l => ({
         label: LABEL[l],
-        items: [...(D.roster[l] || [])].filter(pl => photos.some(x => x.level === l && x.numbers.includes(pl.num)))
-          .sort((a, b) => a.num - b.num).map(pl => ({ value: `${l}:${pl.num}`, label: `#${pl.num} ${pl.name}` })),
+        items: [...(D.roster[l] || [])].filter(pl => photos.some(x => hasPlayer(x, l, pl.num)))
+          .sort((a, b) => a.num - b.num).map(pl => ({ value: `${l}:${pl.num}`, label: `#${pl.num} ${pl.name}${pl.jv ? "*" : ""}` })),
       })).filter(g => g.items.length));
       const lv = state.level || LEVELS.find(l => playerByNum(l, state.num));
       playerDD.setValue(state.num !== null ? `${lv}:${state.num}` : "");

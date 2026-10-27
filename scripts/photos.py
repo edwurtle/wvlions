@@ -8,7 +8,8 @@ original RAW/NEF files), then saved as WebP:
 
 Inputs (scripts/cache/): drive.json (folder index from drive_index.py),
 cand.json (contact-sheet tag -> photo), picks.txt (tag|numbers|caption|featured).
-Folder -> game mapping lives in data/photo_folders.json.
+Folder -> game mapping lives in data/photo_folders.json. A cand.json entry with "local" (a file
+in scripts/cache/local/) is used instead of Drive for photos shared some other way.
 
 For the Download menu it also records each pick's full-size JPEG and RAW (NEF) links
 with their byte sizes and pixel size (read from a ranged request, not a full
@@ -67,6 +68,8 @@ def main():
 
     def links(c):
         stem = (c["folder"], c["name"].rsplit(".", 1)[0].upper())
+        if c.get("local"):  # photo shared outside Drive: only the web-size copy is offered
+            return None, None
         if c["name"].upper().endswith(".NEF"):
             jid = twin.get(stem)
             full = dict(url=uc(jid), type="JPG", converted=False) if jid else \
@@ -89,7 +92,7 @@ def main():
     for line in (CACHE / "picks.txt").read_text().splitlines():
         if not line.strip() or line.startswith("#"):
             continue
-        tag, nums, caption, featured, crop = (line.split("|") + ["", "", "", ""])[:5]
+        tag, nums, caption, featured, crop, credit = (line.split("|") + ["", "", "", "", ""])[:6]
         c = cand[tag]
         info = folders[c["folder"]]
         if "split" in info:  # mixed folder: pick the game by file number
@@ -100,12 +103,16 @@ def main():
             sys.exit(f"duplicate photo id {pid} (pick {tag}); keep only one version in picks.txt")
         full, thumb = OUT / "full" / f"{pid}.webp", OUT / "thumb" / f"{pid}.webp"
         if not full.exists():
-            im = Image.open(io.BytesIO(fetch(c["id"], 1600))).convert("RGB")
+            if c.get("local"):  # file dropped in scripts/cache/local/ (e.g. a parent's phone photo)
+                im = Image.open(CACHE / "local" / c["local"]).convert("RGB")
+            else:
+                im = Image.open(io.BytesIO(fetch(c["id"], 1600))).convert("RGB")
             if info.get("crop_bottom"):  # trim burned-in camera date stamps
                 im = im.crop((0, 0, im.width, round(im.height * (1 - info["crop_bottom"]))))
             if crop:  # per-photo "top,bottom" fractions to trim, e.g. empty bleachers above a group shot
                 top, bottom = map(float, crop.split(","))
                 im = im.crop((0, round(im.height * top), im.width, round(im.height * (1 - bottom))))
+            im.thumbnail((1600, 1600))  # full-res local files; Drive previews are already this size
             im.save(full, "WEBP", quality=80, method=6)
             im.thumbnail((640, 640))
             im.save(thumb, "WEBP", quality=74, method=6)
@@ -116,7 +123,8 @@ def main():
             level=info["level"], opp=info["opp"], date=info["date"],
             numbers=[int(n) for n in nums.split(",") if n.strip()],
             caption=caption.strip() or None, featured=featured.strip() == "1",
-            drive=f"https://drive.google.com/file/d/{c['id']}/view", _links=links(c)))
+            **({"credit": credit.strip()} if credit.strip() else {}),
+            drive=c.get("id") and f"https://drive.google.com/file/d/{c['id']}/view", _links=links(c)))
     # sizes for the Download menu (cached; only new picks hit Drive)
     jobs = {l["url"]: l is p["_links"][0] for p in photos for l in p["_links"] if l}
     with ThreadPoolExecutor(12) as ex:
@@ -125,7 +133,7 @@ def main():
     for p in photos:
         full, raw = p.pop("_links")
         p["download"] = dict(web=dict(bytes=(ROOT / "site" / p["full"]).stat().st_size),
-                             full={**full, **sizes.get(full["url"], {})},
+                             **({"full": {**full, **sizes.get(full["url"], {})}} if full else {}),
                              **({"raw": {**raw, **sizes.get(raw["url"], {})}} if raw else {}))
     (ROOT / "data" / "photos.json").write_text(json.dumps(photos, indent=1))
     print(f"{len(photos)} photos -> data/photos.json")

@@ -126,6 +126,8 @@ section.block.alt { background: #fff; }
 .mosaic button:first-child { grid-row: span 2; }
 .mosaic.wide { grid-template-columns: repeat(4, 1fr); grid-template-rows: 1.6fr 1fr; } /* wide lead photo (e.g. a team line-up) across the top */
 .mosaic.wide button:first-child { grid-row: auto; grid-column: 1 / -1; }
+.mosaic.pair { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr; }
+.mosaic.pair button:first-child { grid-row: auto; }
 .mosaic img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s; }
 .mosaic button:hover img { transform: scale(1.04); }
 .mosaic .more { position: absolute; inset: 0; display: grid; place-items: center; background: rgba(10, 20, 51, .6); color: #fff; font: 700 22px/1 var(--display); text-transform: uppercase; }
@@ -289,8 +291,8 @@ section.block.alt { background: #fff; }
 .lb-top .dl-menu span { color: #d7dcef; font-weight: 500; font-size: 13px; }
 .lb-top .dl-menu small { color: #9aa3c0; font-weight: 400; font-size: 12px; }
 .lb-top a, .lb-top button { background: rgba(255, 255, 255, .1); border: 0; color: #fff; border-radius: 8px; padding: 8px 12px; font-size: 14px; font-weight: 600; text-decoration: none; }
-.lb-stage { position: relative; display: grid; place-items: center; min-height: 0; padding: 0 56px; }
-.lb-stage img { max-width: 100%; max-height: calc(100vh - 130px); max-height: calc(100dvh - 130px); object-fit: contain; border-radius: 4px; }
+.lb-stage { position: relative; display: flex; align-items: center; justify-content: center; min-height: 0; padding: 0 56px; }
+.lb-stage img { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 4px; } /* fills what the top bar and caption leave, so a long caption never sits under it */
 .lb-nav { position: absolute; top: 50%; translate: 0 -50%; width: 44px; height: 44px; border-radius: 50%; border: 0; padding: 0; display: grid; place-items: center; background: rgba(255, 255, 255, .12); color: #fff; }
 .lb-nav:hover { background: rgba(255, 255, 255, .22); }
 .lb-nav svg { width: 22px; height: 22px; }
@@ -318,3 +320,4 @@ footer b { color: #fff; }
 .replays a { color: #fff; background: rgba(255, 255, 255, .14); border-radius: 8px; padding: 8px 12px; font-size: 13px; font-weight: 700; text-decoration: none; }
 .replays a:hover { background: rgba(255, 255, 255, .24); }
 .tag-note { display: block; margin-top: 8px; font-size: 12px; font-style: italic; color: #9aa3c4; }
+.roster-note { margin: 12px 0 0; font-size: 13px; color: var(--muted); }

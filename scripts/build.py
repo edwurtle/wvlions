@@ -170,6 +170,13 @@ def main():
             if g["canceled"]:
                 game["canceled"][level] = True
     for g in sched.get("added", []):  # hand-entered games Arbiter doesn't list
+        if g.get("replace"):  # Arbiter lists it with a placeholder (e.g. playoff opponent "TBA"): one game, our details on top
+            same = [k for k in games if k[0] == g["date"]]
+            base = games.pop(same[0]) if same else dict(time={}, varsity=None, jv=None, canceled={})
+            for k in same[1:]:
+                games.pop(k)
+            games[(g["date"], g["opp"])] = {**base, **{k: v for k, v in g.items() if k != "replace"}}
+            continue
         games.setdefault((g["date"], g["opp"]), dict(g, time={}, varsity=None, jv=None, canceled={}))
     try:
         streams = nfhs_broadcasts(sched["seasonStart"])

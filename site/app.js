@@ -207,9 +207,9 @@
     if (hero) $("#hero-bg").style.backgroundImage = `url(${hero.full})`;
 
     const v = record("varsity"), jv = record("jv");
-    const tile = (r, label) => `<div class="record"><span>${label}</span><b>${r.n ? recStr(r) : "0-0"}</b>
-      <small>${r.kind === "W" && r.streak > 1 ? `${r.streak}-game win streak` : `${r.gf}–${r.ga} goals`}</small></div>`;
-    $("#records").innerHTML = tile(v, "Varsity") + tile(jv, "JV");
+    const tile = (r, label, level) => `<div class="record"><span>${label}</span><b>${r.n ? recStr(r) : "0-0"}</b>
+      <small>${(S.titles || {})[level] ? esc(S.titles[level]) : r.kind === "W" && r.streak > 1 ? `${r.streak}-game win streak` : `${r.gf}–${r.ga} goals`}</small></div>`;
+    $("#records").innerHTML = tile(v, "Varsity", "varsity") + tile(jv, "JV", "jv");
 
     // next game
     const upcoming = S.games.filter(g => !isPast(g));

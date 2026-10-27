@@ -3,11 +3,12 @@
     "Games, times and JV/varsity results come from ArbiterLive (see roster.json for the team pages); scripts/build.py merges them.",
     "MPSSAA fills in any varsity league score Arbiter is missing. Games before seasonStart (August preseason) are left off; later scrimmages show but don't count in records.",
     "added: games Arbiter doesn't list at all (e.g. the Aug 29 Oakdale scrimmage), kept even before seasonStart.",
-    "This file adds what Arbiter doesn't have: GoFan ticket links, notes and missing scores (\"jv\": \"0-1\", Walkersville first), keyed by game date, plus opponent mascots. \"feature\": true pins a special card for that game (e.g. Senior Night) above the recent results; \"site\" sets a neutral venue (e.g. the CMC final); \"ticketNote\" replaces the default ticket text when there is no link; \"tickets\": false hides the GoFan link until the event exists; \"tentative\": true marks the kickoff time as not final; \"morePhotos\": true adds \"more coming soon\" to the game's photo count."
+    "This file adds what Arbiter doesn't have: GoFan ticket links, notes and missing scores (\"jv\": \"0-1\", Walkersville first), keyed by game date, plus opponent mascots. \"feature\": true pins a special card for that game (e.g. Senior Night) above the recent results; \"site\" sets a neutral venue (e.g. the CMC final); \"ticketNote\" replaces the default ticket text when there is no link; \"tickets\": false hides the GoFan link until the event exists; \"tentative\": true marks the kickoff time as not final; \"morePhotos\": true adds \"more coming soon\" to the game's photo count. \"titles\" replaces the win-streak line under a team's record (e.g. a championship)."
   ],
   "season": "2026",
   "seasonStart": "2026-09-01",
   "classification": "Class 2A West I · CMC",
+  "titles": {"varsity": "CMC Champs"},
   "links": {
     "tickets": "https://gofan.co/app/school/MD24853",
     "watch": "https://www.nfhsnetwork.com/schools/da1a6a3363",

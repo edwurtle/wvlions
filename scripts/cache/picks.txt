@@ -885,7 +885,7 @@ MJ-0036|||
 MJ-0041|||
 MJ-0042|||
 MJ-0043|7||
-CC-0242|13,18|Lifting the plaque|
+CC-0242|23,13,18|Lifting the plaque|
 CC-0256|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,21,23,24,25|CMC champions|
 CC-0234||Final whistle|
 CC-0207||2026 CMC boys soccer champions|

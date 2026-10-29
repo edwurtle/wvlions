@@ -30,6 +30,8 @@
   const where = g => g.site ? "Neutral" : g.home ? "Home" : "Away";
   const result = (g, level) => g[level];
   const isPast = g => day(g.date) < today || g.varsity || g.jv;
+  // a level plays a game unless only the other level has a kickoff time (e.g. the varsity-only CMC final and playoffs)
+  const plays = (g, l) => !!g[l] || !!g.canceled[l] || !Object.keys(g.time).length || !!g.time[l];
   const ticketUrl = g => g.tickets === false ? null : g.tickets || (g.home ? S.links.tickets : null);  // tickets: false = no GoFan event yet
 
   // root-relative image paths: the lightbox changes the URL to /photo/<id>, which would break relative ones
@@ -253,7 +255,7 @@
         : lv.every(l => last[l].res === "T") ? `Draw ${vsAt(last)} ${esc(last.opp)}` : `Tough night ${vsAt(last)} ${esc(last.opp)}`;
       const pics = sortPhotos(photosFor(last.date));
       const shown = pics.slice(0, 5);
-      const shownLv = LEVELS.filter(l => last[l] || !(last.time && !last.time[l]));  // drop a level that didn't play (e.g. the varsity-only CMC final)
+      const shownLv = LEVELS.filter(l => plays(last, l));
       $("#highlight").innerHTML = `
         <div class="score-card${last.feature ? " champ" : ""}">
           <div class="eyebrow">${fmtDate(last.date, true)} · ${where(last)}</div>
@@ -306,7 +308,7 @@
       const r = record(level);
       rec.textContent = `${S.season} · ${S.classification}${r.n ? ` · ${level === "jv" ? "JV" : "Varsity"} ${recStr(r)}` : ""}`;
       // scoreboard rows: a colored block on the left (result, kickoff time or status), one line of links under the opponent
-      $("#sched").innerHTML = S.games.map(g => {
+      $("#sched").innerHTML = S.games.filter(g => plays(g, level)).map(g => {
         const d = day(g.date), past = isPast(g), r = g[level], n = photosFor(g.date, level).length, t = !past && ticketUrl(g);
         const time = g.time[level], watch = g.watch && g.watch[level];
         const block = g.canceled[level] ? `<div class="score off"><span>Canceled</span></div>`

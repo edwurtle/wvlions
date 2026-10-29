@@ -111,8 +111,6 @@ section.block.alt { background: #fff; }
 .duo.solo { grid-template-columns: 1fr; }
 .score-card.champ .headline { color: var(--gold); font-size: 38px; }
 .score-card.champ .headline small { color: #fff; }
-.score-card.champ .trophy { display: inline-flex; vertical-align: -0.12em; margin-right: 10px; }
-.score-card.champ .trophy svg { width: 0.95em; height: 0.95em; }
 .lvl { background: rgba(255, 255, 255, .08); border-radius: 12px; padding: 14px 16px; }
 .lvl span { display: block; font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #b8c0dc; }
 .lvl b { display: block; font: 700 46px/1.05 var(--display); margin: 4px 0 8px; }

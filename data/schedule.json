@@ -31,11 +31,12 @@
     "Williamsport": {"mascot": "Wildcats", "city": "Williamsport"},
     "South Carroll": {"mascot": "Cavaliers", "city": "Sykesville"},
     "Manchester Valley": {"mascot": "Mavericks", "city": "Manchester"},
-    "Oakdale": {"mascot": "Bears", "city": "Ijamsville"}
+    "Oakdale": {"mascot": "Bears", "city": "Ijamsville"},
+    "Century": {"mascot": "Knights", "city": "Eldersburg"}
   },
   "added": [
     {"date": "2026-08-29", "opp": "Oakdale", "home": true, "league": false, "scrimmage": true},
-    {"date": "2026-10-30", "opp": "Century / Williamsport", "home": true, "league": false, "scrimmage": false, "note": "Region Semifinal", "replace": true}
+    {"date": "2026-10-30", "opp": "Century", "home": true, "league": false, "scrimmage": false, "note": "Region Semifinal", "replace": true}
   ],
   "extras": {
     "2026-09-24": {"jv": "0-1"},
@@ -44,6 +45,6 @@
     "2026-10-15": {"tickets": "https://gofan.co/event/6813137", "jv": "0-1"},
     "2026-10-22": {"tickets": "https://gofan.co/event/6745309", "note": "Clinched a top seed"},
     "2026-10-26": {"note": "CMC Champs!", "feature": true, "varsity": "1-0", "tickets": "https://gofan.co/event/6980617", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:30 PM"}},
-    "2026-10-30": {"time": {"varsity": "6:00 PM"}, "tentative": true, "tickets": false}
+    "2026-10-30": {"tickets": false}
   }
 }

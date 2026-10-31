@@ -276,15 +276,14 @@
         </div>`;
       $("#highlight .mosaic").addEventListener("click", e => {
         const b = e.target.closest("button"); if (!b) return;
-        if (b.querySelector(".more")) location.href = photosUrl({ game: last.date });
-        else openLb(pics, +b.dataset.i);
+        openLb(pics, +b.dataset.i);
       });
       // special games (e.g. Senior Night) get a pinned full-width card that stays for the rest of the season
       const special = played.slice(0, -1).filter(g => g.feature).reverse().map(g => {
         const cover = sortPhotos(photosFor(g.date, "varsity"))[0];
         const seniors = (D.roster.varsity || []).filter(p => p.grade === "Senior");
         return `<div class="special">
-          <a class="ph" href="${photosUrl({ game: g.date })}" style="${cover ? `background-image:url(${cover.full})` : ""}" aria-label="${esc(g.note || g.opp)} photos"></a>
+          <a class="ph" href="${photosUrl({ game: g.date })}"${cover ? ` data-photo="${cover.id}" data-date="${g.date}"` : ""} style="${cover ? `background-image:url(${cover.full})` : ""}" aria-label="${esc(g.note || g.opp)} photos"></a>
           <div class="body">
             <div class="ribbon">${esc(g.note || "")}</div>
             <div class="opp">${vsAt(g)} ${esc(g.opp)} · ${fmtDate(g.date, true)}</div>
@@ -297,10 +296,18 @@
       $("#recent").innerHTML = special + `<div class="recent-grid">` + played.slice(0, -1).filter(g => !g.feature).reverse().slice(0, 4).map(g => {
         const cover = sortPhotos(photosFor(g.date, "varsity"))[0] || photosFor(g.date)[0];
         return `<a class="mini" href="${photosUrl({ game: g.date })}">
-          <div class="ph" style="${cover ? `background-image:url(${cover.thumb})` : ""}"></div>
+          <div class="ph"${cover ? ` data-photo="${cover.id}" data-date="${g.date}"` : ""} style="${cover ? `background-image:url(${cover.thumb})` : ""}"></div>
           <div class="body"><div class="opp">${vsAt(g)} ${esc(g.opp)}</div><div class="date">${fmtDate(g.date)}</div>
             <div class="both">${LEVELS.map(l => `<span><small>${LABEL[l]}</small>${g[l] ? resHtml(g[l]) : `<span class="res none">—</span>`}</span>`).join("")}</div></div></a>`;
       }).join("") + `</div>`;
+      // clicking a card's photo opens it in the viewer, where left/right moves through every photo from that game
+      $("#recent").addEventListener("click", e => {
+        const ph = e.target.closest(".ph[data-photo]");
+        if (!ph || e.metaKey || e.ctrlKey || e.shiftKey) return;
+        e.preventDefault();
+        const list = catalogSort(photosFor(ph.dataset.date));
+        openLb(list, list.findIndex(p => p.id === ph.dataset.photo));
+      });
     }
 
     // schedule + team (shared team toggle)

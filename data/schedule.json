@@ -45,6 +45,6 @@
     "2026-10-15": {"tickets": "https://gofan.co/event/6813137", "jv": "0-1"},
     "2026-10-22": {"tickets": "https://gofan.co/event/6745309", "note": "Clinched a top seed"},
     "2026-10-26": {"note": "CMC Champs!", "feature": true, "varsity": "1-0", "tickets": "https://gofan.co/event/6980617", "home": false, "site": {"name": "Smithsburg High School", "city": "Smithsburg"}, "time": {"varsity": "7:30 PM"}},
-    "2026-10-30": {"tickets": false, "tentative": true}
+    "2026-10-30": {"tickets": false, "varsity": "1-3", "feature": true, "wrapUp": {"title": "Great Year, Lions!", "sub": "The program's fifth 10-win season since 2000"}}
   }
 }

@@ -217,8 +217,8 @@
     const next = upcoming[0];
     const box = $("#next-game");
     if (!next) {
-      box.innerHTML = `<div class="label"><span>Regular season</span></div><h2>Season complete</h2>
-        <p class="where">Playoff games will be posted by MPSSAA. Thanks for cheering on the Lions!</p>`;
+      box.innerHTML = `<div class="label"><span>${esc(S.season)} season</span></div><h2>Season complete</h2>
+        <p class="where">Thanks for cheering on the Lions!</p>`;
     } else {
       const t = ticketUrl(next);
       box.innerHTML = `
@@ -249,6 +249,7 @@
     if (last) {
       const lv = LEVELS.filter(l => last[l]);
       const wins = lv.filter(l => last[l].res === "W");
+      // wrapUp (schedule.json extras): season-closing headline that stands in for the usual game headline
       const headline = wins.length === 2 ? `Lions sweep ${esc(last.opp)}`
         : wins.length === 1 ? `${LABEL[wins[0]]} wins ${vsAt(last)} ${esc(last.opp)}`
         : lv.every(l => last[l].res === "T") ? `Draw ${vsAt(last)} ${esc(last.opp)}` : `Tough night ${vsAt(last)} ${esc(last.opp)}`;
@@ -257,8 +258,8 @@
       const shownLv = LEVELS.filter(l => plays(last, l));
       $("#highlight").innerHTML = `
         <div class="score-card${last.feature ? " champ" : ""}">
-          <div class="eyebrow">${fmtDate(last.date, true)} · ${where(last)}</div>
-          <h3 class="headline">${last.note ? `${esc(last.note)}<small>${headline}</small>` : headline}</h3>
+          <div class="eyebrow">${fmtDate(last.date, true)} · ${where(last)}${last.wrapUp && last.note ? ` · ${esc(last.note)}` : ""}</div>
+          <h3 class="headline">${last.wrapUp ? `${esc(last.wrapUp.title)}<small>${esc(last.wrapUp.sub)}</small>` : last.note ? `${esc(last.note)}<small>${headline}</small>` : headline}</h3>
           <div class="duo${shownLv.length === 1 ? " solo" : ""}">${shownLv.map(l => last[l] ? `
             <div class="lvl"><span>${LABEL[l]}</span><b>${last[l].gf}<em>–</em>${last[l].ga}</b><i class="${last[l].res}">${{ W: "Win", L: "Loss", T: "Tie" }[last[l].res]}</i></div>`
             : `<div class="lvl none"><span>${LABEL[l]}</span><b>—</b><i>${last.canceled[l] ? "Canceled" : "No score"}</i></div>`).join("")}
@@ -280,7 +281,7 @@
       const special = played.slice(0, -1).filter(g => g.feature).reverse().map(g => {
         const cover = sortPhotos(photosFor(g.date, "varsity"))[0];
         const seniors = (D.roster.varsity || []).filter(p => p.grade === "Senior");
-        return `<div class="special">
+        return `<div class="special${g.note === "Senior Night" ? "" : " plain"}">
           <a class="ph" href="${photosUrl({ game: g.date })}" style="${cover ? `background-image:url(${cover.full})` : ""}" aria-label="${esc(g.note || g.opp)} photos"></a>
           <div class="body">
             <div class="ribbon">${esc(g.note || "")}</div>

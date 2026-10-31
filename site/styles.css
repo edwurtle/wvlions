@@ -141,8 +141,7 @@ section.block.alt { background: #fff; }
 .mini .both { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
 .mini .both > span { display: flex; flex-direction: column; gap: 4px; }
 .mini .both small { font-size: 11px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
-.special { display: grid; grid-template-columns: minmax(0, 2.3fr) minmax(300px, 1fr); background-color: #1a3591; color: #fff; border-radius: 12px; box-shadow: var(--shadow); border: 2px solid var(--gold); }
-.special.plain { border: 0; border-radius: 10px; background-color: transparent; }
+.special { display: grid; grid-template-columns: minmax(0, 2.3fr) minmax(300px, 1fr); color: #fff; border-radius: 10px; box-shadow: var(--shadow); }
 .special .ph { display: block; min-height: 260px; background: #0f1f5c center/cover; border-radius: 10px 0 0 10px; } /* rounds itself instead of overflow: hidden on the card (Safari skipped the card gradient) */
 .special .body { background: #1a3591 linear-gradient(160deg, var(--blue) 0%, var(--blue-dark) 100%); border-radius: 0 10px 10px 0; padding: 20px 22px; display: flex; flex-direction: column; gap: 12px; }
 .special .ribbon { align-self: flex-start; background: var(--gold); color: var(--blue-dark); font: 700 20px/1 var(--display); text-transform: uppercase; letter-spacing: .04em; padding: 8px 12px; border-radius: 6px; }

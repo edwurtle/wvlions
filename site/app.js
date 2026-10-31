@@ -217,7 +217,7 @@
     const next = upcoming[0];
     const box = $("#next-game");
     if (!next) {
-      box.innerHTML = `<div class="label"><span>${esc(S.season)} season</span></div><h2>Season complete</h2>
+      box.innerHTML = `<div class="label"><span>${esc(S.season)} season</span></div><h2>Season complete${(S.titles || {}).varsity ? `<small>${esc(S.titles.varsity)}</small>` : ""}</h2>
         <p class="where">Thanks for cheering on the Lions!</p>`;
     } else {
       const t = ticketUrl(next);
@@ -281,12 +281,12 @@
       const special = played.slice(0, -1).filter(g => g.feature).reverse().map(g => {
         const cover = sortPhotos(photosFor(g.date, "varsity"))[0];
         const seniors = (D.roster.varsity || []).filter(p => p.grade === "Senior");
-        return `<div class="special${g.note === "Senior Night" ? "" : " plain"}">
+        return `<div class="special">
           <a class="ph" href="${photosUrl({ game: g.date })}" style="${cover ? `background-image:url(${cover.full})` : ""}" aria-label="${esc(g.note || g.opp)} photos"></a>
           <div class="body">
             <div class="ribbon">${esc(g.note || "")}</div>
             <div class="opp">${vsAt(g)} ${esc(g.opp)} · ${fmtDate(g.date, true)}</div>
-            <div class="both">${LEVELS.map(l => `<span><small>${LABEL[l]}</small>${g[l] ? resHtml(g[l]) : `<span class="res none">—</span>`}</span>`).join("")}</div>
+            <div class="both">${LEVELS.filter(l => plays(g, l)).map(l => `<span><small>${LABEL[l]}</small>${g[l] ? resHtml(g[l]) : `<span class="res none">—</span>`}</span>`).join("")}</div>
             ${g.note === "Senior Night" && seniors.length ? `<div class="honor"><small>Honoring our seniors</small>
               <div class="names">${seniors.map(p => `<a href="${photosUrl({ level: "varsity", num: p.num })}">#${p.num} ${esc(p.name)}</a>`).join("")}</div></div>` : ""}
             <a class="all" href="${photosUrl({ game: g.date })}">See all ${photosFor(g.date).length} photos →</a>

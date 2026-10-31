@@ -217,7 +217,8 @@
     const next = upcoming[0];
     const box = $("#next-game");
     if (!next) {
-      box.innerHTML = `<div class="label"><span>${esc(S.season)} season</span></div><h2>Season complete${(S.titles || {}).varsity ? `<small>${esc(S.titles.varsity)}</small>` : ""}</h2>
+      const wrap = S.games.map(g => g.wrapUp).find(Boolean);  // same line as the season-closing highlight card
+      box.innerHTML = `<h2>${wrap ? esc(wrap.sub) : "Season complete"}</h2>
         <p class="where">Thanks for cheering on the Lions!</p>`;
     } else {
       const t = ticketUrl(next);

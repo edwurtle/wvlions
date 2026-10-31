@@ -30646,515 +30646,6 @@
   }
  },
  {
-  "id": "varsity-century-dsc_0379",
-  "full": "photos/full/varsity-century-dsc_0379.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0379.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   21
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O/view",
-  "download": {
-   "web": {
-    "bytes": 71256
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1061093,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O",
-    "type": "NEF",
-    "bytes": 10482906
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0370",
-  "full": "photos/full/varsity-century-dsc_0370.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0370.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   21,
-   10
-  ],
-  "caption": "Lions celebrate",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC/view",
-  "download": {
-   "web": {
-    "bytes": 105054
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 888501,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC",
-    "type": "NEF",
-    "bytes": 10059844
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0367",
-  "full": "photos/full/varsity-century-dsc_0367.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0367.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   21,
-   14,
-   15
-  ],
-  "caption": "Lions celebrate",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7/view",
-  "download": {
-   "web": {
-    "bytes": 215490
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1634356,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7",
-    "type": "NEF",
-    "bytes": 11534918
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0339",
-  "full": "photos/full/varsity-century-dsc_0339.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0339.webp",
-  "w": 1063,
-  "h": 1600,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24,
-   25,
-   23
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I/view",
-  "download": {
-   "web": {
-    "bytes": 120200
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1124702,
-    "w": 2848,
-    "h": 4288
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I",
-    "type": "NEF",
-    "bytes": 10411494
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0421",
-  "full": "photos/full/varsity-century-dsc_0421.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0421.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd/view",
-  "download": {
-   "web": {
-    "bytes": 90948
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1178321,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd",
-    "type": "NEF",
-    "bytes": 11648832
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0381",
-  "full": "photos/full/varsity-century-dsc_0381.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0381.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_/view",
-  "download": {
-   "web": {
-    "bytes": 107664
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1143738,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_",
-    "type": "NEF",
-    "bytes": 10503706
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0360",
-  "full": "photos/full/varsity-century-dsc_0360.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0360.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   21
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII/view",
-  "download": {
-   "web": {
-    "bytes": 109354
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 971563,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII",
-    "type": "NEF",
-    "bytes": 9980129
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0352",
-  "full": "photos/full/varsity-century-dsc_0352.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0352.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   15
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx/view",
-  "download": {
-   "web": {
-    "bytes": 173922
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1410148,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx",
-    "type": "NEF",
-    "bytes": 10982857
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0438",
-  "full": "photos/full/varsity-century-dsc_0438.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0438.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz/view",
-  "download": {
-   "web": {
-    "bytes": 112402
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1246579,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz",
-    "type": "NEF",
-    "bytes": 11613277
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0437",
-  "full": "photos/full/varsity-century-dsc_0437.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0437.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1eMg1dYeRUahZXLqWl1EePvs4VYw5rx3d/view",
-  "download": {
-   "web": {
-    "bytes": 118390
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1eMg1dYeRUahZXLqWl1EePvs4VYw5rx3d=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1306482,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1eMg1dYeRUahZXLqWl1EePvs4VYw5rx3d",
-    "type": "NEF",
-    "bytes": 11712177
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0439",
-  "full": "photos/full/varsity-century-dsc_0439.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0439.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1dpN9-SiLVr4If0fH2NvqigwSi6iYBTsD/view",
-  "download": {
-   "web": {
-    "bytes": 83280
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1dpN9-SiLVr4If0fH2NvqigwSi6iYBTsD=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1074901,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1dpN9-SiLVr4If0fH2NvqigwSi6iYBTsD",
-    "type": "NEF",
-    "bytes": 11310876
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0440",
-  "full": "photos/full/varsity-century-dsc_0440.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0440.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1cIwjt26ROTf5bdRKKtOBHr0OV-dI6LZ0/view",
-  "download": {
-   "web": {
-    "bytes": 123074
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1cIwjt26ROTf5bdRKKtOBHr0OV-dI6LZ0=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1199415,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1cIwjt26ROTf5bdRKKtOBHr0OV-dI6LZ0",
-    "type": "NEF",
-    "bytes": 11654307
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0343",
-  "full": "photos/full/varsity-century-dsc_0343.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0343.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "Pregame huddle",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7/view",
-  "download": {
-   "web": {
-    "bytes": 105808
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 941177,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7",
-    "type": "NEF",
-    "bytes": 10063600
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0341",
-  "full": "photos/full/varsity-century-dsc_0341.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0341.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "National anthem",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga/view",
-  "download": {
-   "web": {
-    "bytes": 215798
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1519267,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga",
-    "type": "NEF",
-    "bytes": 11124052
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0302",
-  "full": "photos/full/varsity-century-dsc_0302.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0302.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   24,
-   6,
-   14
-  ],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7/view",
-  "download": {
-   "web": {
-    "bytes": 253202
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1637054,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7",
-    "type": "NEF",
-    "bytes": 11550264
-   }
-  }
- },
- {
   "id": "varsity-century-dsc_0287",
   "full": "photos/full/varsity-century-dsc_0287.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0287.webp",
@@ -31185,6 +30676,106 @@
     "url": "https://drive.google.com/uc?export=download&id=1dgAJbaXz_rt_2tIf_KeeRBLJqQ8I5uP2",
     "type": "NEF",
     "bytes": 9765157
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0288",
+  "full": "photos/full/varsity-century-dsc_0288.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0288.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6/view",
+  "download": {
+   "web": {
+    "bytes": 161504
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1165817,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6",
+    "type": "NEF",
+    "bytes": 10681460
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0291",
+  "full": "photos/full/varsity-century-dsc_0291.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0291.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   14
+  ],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B/view",
+  "download": {
+   "web": {
+    "bytes": 113958
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 923022,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B",
+    "type": "NEF",
+    "bytes": 10052559
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0292",
+  "full": "photos/full/varsity-century-dsc_0292.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0292.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   25
+  ],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc/view",
+  "download": {
+   "web": {
+    "bytes": 123638
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1011647,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc",
+    "type": "NEF",
+    "bytes": 10308003
    }
   }
  },
@@ -31257,6 +30848,40 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0295",
+  "full": "photos/full/varsity-century-dsc_0295.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0295.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   10
+  ],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5/view",
+  "download": {
+   "web": {
+    "bytes": 76052
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 844902,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5",
+    "type": "NEF",
+    "bytes": 9821248
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0296",
   "full": "photos/full/varsity-century-dsc_0296.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0296.webp",
@@ -31325,6 +30950,38 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0298",
+  "full": "photos/full/varsity-century-dsc_0298.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0298.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM/view",
+  "download": {
+   "web": {
+    "bytes": 80894
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 743454,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM",
+    "type": "NEF",
+    "bytes": 9723460
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0299",
   "full": "photos/full/varsity-century-dsc_0299.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0299.webp",
@@ -31355,6 +31012,219 @@
     "url": "https://drive.google.com/uc?export=download&id=11RAJntWSEyfxH7wa5iZIQ5a7TmNbyLR8",
     "type": "NEF",
     "bytes": 10056730
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0302",
+  "full": "photos/full/varsity-century-dsc_0302.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0302.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   24,
+   6,
+   14
+  ],
+  "caption": "Warmups",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7/view",
+  "download": {
+   "web": {
+    "bytes": 253202
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1637054,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1uB68OmK8XezR3ctGmSydKUhn3xWKBeR7",
+    "type": "NEF",
+    "bytes": 11550264
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0309",
+  "full": "photos/full/varsity-century-dsc_0309.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0309.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5/view",
+  "download": {
+   "web": {
+    "bytes": 201416
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1421233,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5",
+    "type": "NEF",
+    "bytes": 10992625
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0312",
+  "full": "photos/full/varsity-century-dsc_0312.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0312.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   19,
+   17,
+   15,
+   13,
+   10
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7/view",
+  "download": {
+   "web": {
+    "bytes": 216348
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1468748,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7",
+    "type": "NEF",
+    "bytes": 11109988
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0313",
+  "full": "photos/full/varsity-century-dsc_0313.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0313.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   25,
+   21,
+   19
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb/view",
+  "download": {
+   "web": {
+    "bytes": 116248
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 974346,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb",
+    "type": "NEF",
+    "bytes": 10154023
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0314",
+  "full": "photos/full/varsity-century-dsc_0314.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0314.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   5,
+   4,
+   3,
+   2
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM/view",
+  "download": {
+   "web": {
+    "bytes": 127788
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1085566,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM",
+    "type": "NEF",
+    "bytes": 10306659
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0319",
+  "full": "photos/full/varsity-century-dsc_0319.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0319.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   1
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY/view",
+  "download": {
+   "web": {
+    "bytes": 90968
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 833988,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY",
+    "type": "NEF",
+    "bytes": 9904913
    }
   }
  },
@@ -31738,6 +31608,42 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0332",
+  "full": "photos/full/varsity-century-dsc_0332.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0332.webp",
+  "w": 1063,
+  "h": 1600,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   15,
+   14,
+   13
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt/view",
+  "download": {
+   "web": {
+    "bytes": 152462
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1303943,
+    "w": 2848,
+    "h": 4288
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt",
+    "type": "NEF",
+    "bytes": 10657464
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0333",
   "full": "photos/full/varsity-century-dsc_0333.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0333.webp",
@@ -31773,6 +31679,41 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0334",
+  "full": "photos/full/varsity-century-dsc_0334.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0334.webp",
+  "w": 1063,
+  "h": 1600,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   17,
+   15
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU/view",
+  "download": {
+   "web": {
+    "bytes": 128470
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1186281,
+    "w": 2848,
+    "h": 4288
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU",
+    "type": "NEF",
+    "bytes": 10432265
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0335",
   "full": "photos/full/varsity-century-dsc_0335.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0335.webp",
@@ -31804,6 +31745,40 @@
     "url": "https://drive.google.com/uc?export=download&id=1EtS8-YieCwF4BSIljmylp8O1qmjiaRRZ",
     "type": "NEF",
     "bytes": 10477952
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0336",
+  "full": "photos/full/varsity-century-dsc_0336.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0336.webp",
+  "w": 1063,
+  "h": 1600,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   19
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7/view",
+  "download": {
+   "web": {
+    "bytes": 99340
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1031799,
+    "w": 2848,
+    "h": 4288
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7",
+    "type": "NEF",
+    "bytes": 10245645
    }
   }
  },
@@ -31878,6 +31853,42 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0339",
+  "full": "photos/full/varsity-century-dsc_0339.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0339.webp",
+  "w": 1063,
+  "h": 1600,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   24,
+   25,
+   23
+  ],
+  "caption": "Starting-lineup introductions",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I/view",
+  "download": {
+   "web": {
+    "bytes": 120200
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1124702,
+    "w": 2848,
+    "h": 4288
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1X8LL7lCDQ6chUYlCOF-m0C9wCD6SXv0I",
+    "type": "NEF",
+    "bytes": 10411494
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0340",
   "full": "photos/full/varsity-century-dsc_0340.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0340.webp",
@@ -31908,6 +31919,136 @@
     "url": "https://drive.google.com/uc?export=download&id=1qieYTVEh1-2NFK5dCVO4wWsJXienytkU",
     "type": "NEF",
     "bytes": 9972831
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0341",
+  "full": "photos/full/varsity-century-dsc_0341.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0341.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "National anthem",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga/view",
+  "download": {
+   "web": {
+    "bytes": 215798
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1519267,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1hqT8hZucVq9c8q_m-To41mvZ7V3KsQga",
+    "type": "NEF",
+    "bytes": 11124052
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0342",
+  "full": "photos/full/varsity-century-dsc_0342.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0342.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "National anthem",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M/view",
+  "download": {
+   "web": {
+    "bytes": 221130
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1502464,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M",
+    "type": "NEF",
+    "bytes": 11030682
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0343",
+  "full": "photos/full/varsity-century-dsc_0343.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0343.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": "Pregame huddle",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7/view",
+  "download": {
+   "web": {
+    "bytes": 105808
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 941177,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1evgZBsFjwWQu_2MHTeG1J29cmGGXw8i7",
+    "type": "NEF",
+    "bytes": 10063600
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0350",
+  "full": "photos/full/varsity-century-dsc_0350.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0350.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   5
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1ZajS4dS12aAjzL64DLleh11XgdxavAGJ/view",
+  "download": {
+   "web": {
+    "bytes": 116054
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1ZajS4dS12aAjzL64DLleh11XgdxavAGJ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 993685,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1ZajS4dS12aAjzL64DLleh11XgdxavAGJ",
+    "type": "NEF",
+    "bytes": 10099129
    }
   }
  },
@@ -31946,6 +32087,40 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0352",
+  "full": "photos/full/varsity-century-dsc_0352.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0352.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx/view",
+  "download": {
+   "web": {
+    "bytes": 173922
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1410148,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1GdKKu6c8XbkIoauZw2qxDfiqZLuVcZIx",
+    "type": "NEF",
+    "bytes": 10982857
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0356",
   "full": "photos/full/varsity-century-dsc_0356.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0356.webp",
@@ -31976,6 +32151,38 @@
     "url": "https://drive.google.com/uc?export=download&id=13Zq9YB8cPz_qby6HIMt_whagfuPfCGQZ",
     "type": "NEF",
     "bytes": 9858980
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0357",
+  "full": "photos/full/varsity-century-dsc_0357.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0357.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1lMQRG_erHkwZhpHOoO00XFFJ6RorK043/view",
+  "download": {
+   "web": {
+    "bytes": 138652
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1lMQRG_erHkwZhpHOoO00XFFJ6RorK043=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1214738,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1lMQRG_erHkwZhpHOoO00XFFJ6RorK043",
+    "type": "NEF",
+    "bytes": 10466545
    }
   }
  },
@@ -32044,6 +32251,74 @@
     "url": "https://drive.google.com/uc?export=download&id=1YMbmHj76yNyzy_IZgZtqrinA7VBWggQo",
     "type": "NEF",
     "bytes": 10859485
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0360",
+  "full": "photos/full/varsity-century-dsc_0360.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0360.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   21
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII/view",
+  "download": {
+   "web": {
+    "bytes": 109354
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 971563,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1AfZvW3ZM_mDY4X93pRJ48z5DhX2IFAII",
+    "type": "NEF",
+    "bytes": 9980129
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0361",
+  "full": "photos/full/varsity-century-dsc_0361.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0361.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   5
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL/view",
+  "download": {
+   "web": {
+    "bytes": 97550
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 967514,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL",
+    "type": "NEF",
+    "bytes": 10054821
    }
   }
  },
@@ -32181,6 +32456,42 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0367",
+  "full": "photos/full/varsity-century-dsc_0367.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0367.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   21,
+   14,
+   15
+  ],
+  "caption": "Lions celebrate",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7/view",
+  "download": {
+   "web": {
+    "bytes": 215490
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1634356,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1jtpYVy-hxniPU904TEvDhSxp8XXqN6Q7",
+    "type": "NEF",
+    "bytes": 11534918
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0368",
   "full": "photos/full/varsity-century-dsc_0368.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0368.webp",
@@ -32246,6 +32557,73 @@
     "url": "https://drive.google.com/uc?export=download&id=1YcdA6AaEfWfspzPln_JPTilqq3Scr85s",
     "type": "NEF",
     "bytes": 11120681
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0370",
+  "full": "photos/full/varsity-century-dsc_0370.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0370.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   21,
+   10
+  ],
+  "caption": "Lions celebrate",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC/view",
+  "download": {
+   "web": {
+    "bytes": 105054
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 888501,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1OM4EHnkbVOdDkse14TFMo5IU9FG8R2JC",
+    "type": "NEF",
+    "bytes": 10059844
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0371",
+  "full": "photos/full/varsity-century-dsc_0371.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0371.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN/view",
+  "download": {
+   "web": {
+    "bytes": 179310
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1354925,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN",
+    "type": "NEF",
+    "bytes": 10659167
    }
   }
  },
@@ -32319,6 +32697,108 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0377",
+  "full": "photos/full/varsity-century-dsc_0377.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0377.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   23
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ/view",
+  "download": {
+   "web": {
+    "bytes": 118844
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 993741,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ",
+    "type": "NEF",
+    "bytes": 9962226
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0378",
+  "full": "photos/full/varsity-century-dsc_0378.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0378.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   15
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX/view",
+  "download": {
+   "web": {
+    "bytes": 72948
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 927170,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX",
+    "type": "NEF",
+    "bytes": 10245524
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0379",
+  "full": "photos/full/varsity-century-dsc_0379.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0379.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   21
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O/view",
+  "download": {
+   "web": {
+    "bytes": 71256
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1061093,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1-hqTGsdm_JbsIbmB8F3k_voeS3W1572O",
+    "type": "NEF",
+    "bytes": 10482906
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0380",
   "full": "photos/full/varsity-century-dsc_0380.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0380.webp",
@@ -32349,6 +32829,70 @@
     "url": "https://drive.google.com/uc?export=download&id=1x2eJQ8FTqUAKHU2hHvyJrax86GJ2vNLR",
     "type": "NEF",
     "bytes": 10084977
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0381",
+  "full": "photos/full/varsity-century-dsc_0381.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0381.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_/view",
+  "download": {
+   "web": {
+    "bytes": 107664
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1143738,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Oa5sUnn_ZYVzIeO4yrLvNmT7tKYT-sw_",
+    "type": "NEF",
+    "bytes": 10503706
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0382",
+  "full": "photos/full/varsity-century-dsc_0382.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0382.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp/view",
+  "download": {
+   "web": {
+    "bytes": 128714
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1281853,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp",
+    "type": "NEF",
+    "bytes": 10682162
    }
   }
  },
@@ -32451,6 +32995,38 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0389",
+  "full": "photos/full/varsity-century-dsc_0389.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0389.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38/view",
+  "download": {
+   "web": {
+    "bytes": 51572
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 949966,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38",
+    "type": "NEF",
+    "bytes": 10639016
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0390",
   "full": "photos/full/varsity-century-dsc_0390.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0390.webp",
@@ -32485,6 +33061,76 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0392",
+  "full": "photos/full/varsity-century-dsc_0392.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0392.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   9,
+   10,
+   12
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1_62R_ZfXUBQNs465UGSnle36QiVarTZu/view",
+  "download": {
+   "web": {
+    "bytes": 106822
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1_62R_ZfXUBQNs465UGSnle36QiVarTZu=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1154832,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1_62R_ZfXUBQNs465UGSnle36QiVarTZu",
+    "type": "NEF",
+    "bytes": 10881465
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0396",
+  "full": "photos/full/varsity-century-dsc_0396.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0396.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   1
+  ],
+  "caption": "Keeper",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51/view",
+  "download": {
+   "web": {
+    "bytes": 285530
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1930727,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51",
+    "type": "NEF",
+    "bytes": 12279496
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0398",
   "full": "photos/full/varsity-century-dsc_0398.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0398.webp",
@@ -32515,6 +33161,40 @@
     "url": "https://drive.google.com/uc?export=download&id=1REjHq0-CBFJwp2qNdHQlREu8IiFGLiV0",
     "type": "NEF",
     "bytes": 12055967
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0399",
+  "full": "photos/full/varsity-century-dsc_0399.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0399.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   1
+  ],
+  "caption": "Keeper",
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1KGd74XHmUqBqAt3br8PusGoyUcWigJOU/view",
+  "download": {
+   "web": {
+    "bytes": 235400
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1KGd74XHmUqBqAt3br8PusGoyUcWigJOU=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1568517,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1KGd74XHmUqBqAt3br8PusGoyUcWigJOU",
+    "type": "NEF",
+    "bytes": 11812631
    }
   }
  },
@@ -32646,6 +33326,70 @@
     "url": "https://drive.google.com/uc?export=download&id=1Jxs5Uq0MphgWIku6QPNajKt8Tj81t2X1",
     "type": "NEF",
     "bytes": 11515944
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0409",
+  "full": "photos/full/varsity-century-dsc_0409.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0409.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j/view",
+  "download": {
+   "web": {
+    "bytes": 95896
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1123876,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j",
+    "type": "NEF",
+    "bytes": 11569129
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0410",
+  "full": "photos/full/varsity-century-dsc_0410.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0410.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk/view",
+  "download": {
+   "web": {
+    "bytes": 161556
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1492516,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk",
+    "type": "NEF",
+    "bytes": 12256870
    }
   }
  },
@@ -32816,6 +33560,38 @@
   }
  },
  {
+  "id": "varsity-century-dsc_0421",
+  "full": "photos/full/varsity-century-dsc_0421.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0421.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd/view",
+  "download": {
+   "web": {
+    "bytes": 90948
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1178321,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1B6qSR3K2X-c7IigZCIfjh7wpE1UmnFsd",
+    "type": "NEF",
+    "bytes": 11648832
+   }
+  }
+ },
+ {
   "id": "varsity-century-dsc_0422",
   "full": "photos/full/varsity-century-dsc_0422.webp",
   "thumb": "photos/thumb/varsity-century-dsc_0422.webp",
@@ -32876,918 +33652,6 @@
     "url": "https://drive.google.com/uc?export=download&id=18gZxDKt30Le5T-EOO2gpcVYsXMT3uIxK",
     "type": "NEF",
     "bytes": 11094434
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0288",
-  "full": "photos/full/varsity-century-dsc_0288.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0288.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6/view",
-  "download": {
-   "web": {
-    "bytes": 161504
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1165817,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1La_xzamKkryeZQI2HPUJRIL7EPbtOGG6",
-    "type": "NEF",
-    "bytes": 10681460
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0291",
-  "full": "photos/full/varsity-century-dsc_0291.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0291.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   14
-  ],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B/view",
-  "download": {
-   "web": {
-    "bytes": 113958
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 923022,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1xtE8rgKPRplzc9hGUGrd0WouSRsAoi-B",
-    "type": "NEF",
-    "bytes": 10052559
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0292",
-  "full": "photos/full/varsity-century-dsc_0292.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0292.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   25
-  ],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc/view",
-  "download": {
-   "web": {
-    "bytes": 123638
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1011647,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1I6CxbhopDUDO-N-KP4F0aP8k2tw6rCuc",
-    "type": "NEF",
-    "bytes": 10308003
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0295",
-  "full": "photos/full/varsity-century-dsc_0295.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0295.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   10
-  ],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5/view",
-  "download": {
-   "web": {
-    "bytes": 76052
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 844902,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1-xN5Iw5nAtpj1qn3GBjJWJXPpDtCSbO5",
-    "type": "NEF",
-    "bytes": 9821248
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0298",
-  "full": "photos/full/varsity-century-dsc_0298.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0298.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "Warmups",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM/view",
-  "download": {
-   "web": {
-    "bytes": 80894
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 743454,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1BmS0D73rodWb0GoIfLERvXqRGv2gX5oM",
-    "type": "NEF",
-    "bytes": 9723460
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0309",
-  "full": "photos/full/varsity-century-dsc_0309.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0309.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5/view",
-  "download": {
-   "web": {
-    "bytes": 201416
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1421233,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1yDnIUvxy0YWhhNo725WA7WJWuCA3-d_5",
-    "type": "NEF",
-    "bytes": 10992625
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0312",
-  "full": "photos/full/varsity-century-dsc_0312.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0312.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   19,
-   17,
-   15,
-   13,
-   10
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7/view",
-  "download": {
-   "web": {
-    "bytes": 216348
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1468748,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1E_sB_qfmRAf8sqfu4IP6exnrKaZWkCd7",
-    "type": "NEF",
-    "bytes": 11109988
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0313",
-  "full": "photos/full/varsity-century-dsc_0313.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0313.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   25,
-   21,
-   19
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb/view",
-  "download": {
-   "web": {
-    "bytes": 116248
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 974346,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1BcNoZ82dD1Wzn5CcmG7mmbE3SwhXb5eb",
-    "type": "NEF",
-    "bytes": 10154023
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0314",
-  "full": "photos/full/varsity-century-dsc_0314.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0314.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   5,
-   4,
-   3,
-   2
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM/view",
-  "download": {
-   "web": {
-    "bytes": 127788
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1085566,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1Nvwe_Z41ctET3_kBDr-sWNbxT0Lc2erM",
-    "type": "NEF",
-    "bytes": 10306659
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0319",
-  "full": "photos/full/varsity-century-dsc_0319.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0319.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   1
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY/view",
-  "download": {
-   "web": {
-    "bytes": 90968
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 833988,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1ylgi3CrM7g7Pc-tU92haRVYCbKO2zvpY",
-    "type": "NEF",
-    "bytes": 9904913
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0332",
-  "full": "photos/full/varsity-century-dsc_0332.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0332.webp",
-  "w": 1063,
-  "h": 1600,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   15,
-   14,
-   13
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt/view",
-  "download": {
-   "web": {
-    "bytes": 152462
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1303943,
-    "w": 2848,
-    "h": 4288
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1fTX9suSw9QvMSbBEEFusbwun7o6C9Spt",
-    "type": "NEF",
-    "bytes": 10657464
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0334",
-  "full": "photos/full/varsity-century-dsc_0334.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0334.webp",
-  "w": 1063,
-  "h": 1600,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   17,
-   15
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU/view",
-  "download": {
-   "web": {
-    "bytes": 128470
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1186281,
-    "w": 2848,
-    "h": 4288
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1ADuMRSiQevLk7GCIaqoPJpl9R2phBmMU",
-    "type": "NEF",
-    "bytes": 10432265
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0336",
-  "full": "photos/full/varsity-century-dsc_0336.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0336.webp",
-  "w": 1063,
-  "h": 1600,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   19
-  ],
-  "caption": "Starting-lineup introductions",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7/view",
-  "download": {
-   "web": {
-    "bytes": 99340
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1031799,
-    "w": 2848,
-    "h": 4288
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1ouDYPkJ8tvr0w6CBWzVmgydNtiadrGB7",
-    "type": "NEF",
-    "bytes": 10245645
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0342",
-  "full": "photos/full/varsity-century-dsc_0342.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0342.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": "National anthem",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M/view",
-  "download": {
-   "web": {
-    "bytes": 221130
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1502464,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=11OmZQVi1MemWdFpUNzzpNRd59yrgdi8M",
-    "type": "NEF",
-    "bytes": 11030682
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0350",
-  "full": "photos/full/varsity-century-dsc_0350.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0350.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   5
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1ZajS4dS12aAjzL64DLleh11XgdxavAGJ/view",
-  "download": {
-   "web": {
-    "bytes": 116054
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1ZajS4dS12aAjzL64DLleh11XgdxavAGJ=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 993685,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1ZajS4dS12aAjzL64DLleh11XgdxavAGJ",
-    "type": "NEF",
-    "bytes": 10099129
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0357",
-  "full": "photos/full/varsity-century-dsc_0357.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0357.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1lMQRG_erHkwZhpHOoO00XFFJ6RorK043/view",
-  "download": {
-   "web": {
-    "bytes": 138652
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1lMQRG_erHkwZhpHOoO00XFFJ6RorK043=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1214738,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1lMQRG_erHkwZhpHOoO00XFFJ6RorK043",
-    "type": "NEF",
-    "bytes": 10466545
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0361",
-  "full": "photos/full/varsity-century-dsc_0361.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0361.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   5
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL/view",
-  "download": {
-   "web": {
-    "bytes": 97550
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 967514,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1qvR96QSRusILoxj3Noc8sAyV_QHtkCjL",
-    "type": "NEF",
-    "bytes": 10054821
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0371",
-  "full": "photos/full/varsity-century-dsc_0371.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0371.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN/view",
-  "download": {
-   "web": {
-    "bytes": 179310
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1354925,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1qZerxPpBLTwKUIvmg64GAQbdFLsk0AnN",
-    "type": "NEF",
-    "bytes": 10659167
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0377",
-  "full": "photos/full/varsity-century-dsc_0377.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0377.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   23
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ/view",
-  "download": {
-   "web": {
-    "bytes": 118844
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 993741,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1goEZmEVSFY2yHHdat10nYe2SBpKPv2QZ",
-    "type": "NEF",
-    "bytes": 9962226
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0378",
-  "full": "photos/full/varsity-century-dsc_0378.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0378.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   15
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX/view",
-  "download": {
-   "web": {
-    "bytes": 72948
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 927170,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1I-sbRBnpx6sy6QVndyZmrvWBYYyWTyuX",
-    "type": "NEF",
-    "bytes": 10245524
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0382",
-  "full": "photos/full/varsity-century-dsc_0382.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0382.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp/view",
-  "download": {
-   "web": {
-    "bytes": 128714
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1281853,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1svspCPuFCWX-n4bTEVHof9MpCNV0qjbp",
-    "type": "NEF",
-    "bytes": 10682162
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0389",
-  "full": "photos/full/varsity-century-dsc_0389.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0389.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38/view",
-  "download": {
-   "web": {
-    "bytes": 51572
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 949966,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=11RdbCvL2yxyoMfwX7VM9bwR-hNUyQN38",
-    "type": "NEF",
-    "bytes": 10639016
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0392",
-  "full": "photos/full/varsity-century-dsc_0392.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0392.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   9,
-   10,
-   12
-  ],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1_62R_ZfXUBQNs465UGSnle36QiVarTZu/view",
-  "download": {
-   "web": {
-    "bytes": 106822
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1_62R_ZfXUBQNs465UGSnle36QiVarTZu=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1154832,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1_62R_ZfXUBQNs465UGSnle36QiVarTZu",
-    "type": "NEF",
-    "bytes": 10881465
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0396",
-  "full": "photos/full/varsity-century-dsc_0396.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0396.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   1
-  ],
-  "caption": "Keeper",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51/view",
-  "download": {
-   "web": {
-    "bytes": 285530
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1930727,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1uL0ma3VromcUZD2dlQpdNiEIY9o8kk51",
-    "type": "NEF",
-    "bytes": 12279496
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0399",
-  "full": "photos/full/varsity-century-dsc_0399.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0399.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [
-   1
-  ],
-  "caption": "Keeper",
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1KGd74XHmUqBqAt3br8PusGoyUcWigJOU/view",
-  "download": {
-   "web": {
-    "bytes": 235400
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1KGd74XHmUqBqAt3br8PusGoyUcWigJOU=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1568517,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1KGd74XHmUqBqAt3br8PusGoyUcWigJOU",
-    "type": "NEF",
-    "bytes": 11812631
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0409",
-  "full": "photos/full/varsity-century-dsc_0409.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0409.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j/view",
-  "download": {
-   "web": {
-    "bytes": 95896
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1123876,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1rX0jeH9fRhP_SomxUOKAy9n2fGjaAb9j",
-    "type": "NEF",
-    "bytes": 11569129
-   }
-  }
- },
- {
-  "id": "varsity-century-dsc_0410",
-  "full": "photos/full/varsity-century-dsc_0410.webp",
-  "thumb": "photos/thumb/varsity-century-dsc_0410.webp",
-  "w": 1600,
-  "h": 1063,
-  "level": "varsity",
-  "opp": "Century",
-  "date": "2026-10-30",
-  "numbers": [],
-  "caption": null,
-  "featured": false,
-  "drive": "https://drive.google.com/file/d/1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk/view",
-  "download": {
-   "web": {
-    "bytes": 161556
-   },
-   "full": {
-    "url": "https://lh3.googleusercontent.com/d/1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk=w8000",
-    "type": "JPG",
-    "converted": true,
-    "bytes": 1492516,
-    "w": 4288,
-    "h": 2848
-   },
-   "raw": {
-    "url": "https://drive.google.com/uc?export=download&id=1wVSD1m_jlPPVWIZbKFtF4crrvHnq0vIk",
-    "type": "NEF",
-    "bytes": 12256870
    }
   }
  },
@@ -33857,6 +33721,40 @@
     "url": "https://drive.google.com/uc?export=download&id=1bKZtu9rXnZdvkPJnY2PGAACjDyygRR1K",
     "type": "NEF",
     "bytes": 11952061
+   }
+  }
+ },
+ {
+  "id": "varsity-century-dsc_0438",
+  "full": "photos/full/varsity-century-dsc_0438.webp",
+  "thumb": "photos/thumb/varsity-century-dsc_0438.webp",
+  "w": 1600,
+  "h": 1063,
+  "level": "varsity",
+  "opp": "Century",
+  "date": "2026-10-30",
+  "numbers": [
+   24
+  ],
+  "caption": null,
+  "featured": false,
+  "drive": "https://drive.google.com/file/d/1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz/view",
+  "download": {
+   "web": {
+    "bytes": 112402
+   },
+   "full": {
+    "url": "https://lh3.googleusercontent.com/d/1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz=w8000",
+    "type": "JPG",
+    "converted": true,
+    "bytes": 1246579,
+    "w": 4288,
+    "h": 2848
+   },
+   "raw": {
+    "url": "https://drive.google.com/uc?export=download&id=1Xwy8w0yA7GpjvzuvnLEKID0RlGMsrdzz",
+    "type": "NEF",
+    "bytes": 11613277
    }
   }
  },

@@ -255,7 +255,8 @@
         : wins.length === 1 ? `${LABEL[wins[0]]} wins ${vsAt(last)} ${esc(last.opp)}`
         : lv.every(l => last[l].res === "T") ? `Draw ${vsAt(last)} ${esc(last.opp)}` : `Tough night ${vsAt(last)} ${esc(last.opp)}`;
       const pics = sortPhotos(photosFor(last.date));
-      const shown = pics.slice(0, 5);
+      // mosaic (schedule.json extras): hand-picked home page photos when the game's own order is chronological
+      const shown = (last.mosaic ? last.mosaic.map(m => pics.find(p => p.id.endsWith(m))).filter(Boolean) : pics).slice(0, 5);
       const shownLv = LEVELS.filter(l => plays(last, l));
       $("#highlight").innerHTML = `
         <div class="score-card${last.feature ? " champ" : ""}">
@@ -270,7 +271,7 @@
           <div class="meta">${esc(venue(last))}<br>${pics.length ? `${pics.length} photo${pics.length === 1 ? "" : "s"} from this game${last.morePhotos ? " · more coming soon" : ""}` : "Photos coming soon"}</div>
         </div>
         <div class="mosaic${shown.length === 2 ? " pair" : shown[0] && shown[0].w / shown[0].h > 1.9 ? " wide" : ""}">${shown.length ? "" : `<div class="mosaic-empty">Photos from this game will be posted soon</div>`}${shown.map((p, i) => `
-          <button data-i="${i}" aria-label="Open photo"><img src="${i ? p.thumb : p.full}" alt="" loading="lazy">
+          <button data-i="${pics.indexOf(p)}" aria-label="Open photo"><img src="${i ? p.thumb : p.full}" alt="" loading="lazy">
           ${i === shown.length - 1 && pics.length > shown.length ? `<span class="more">+${pics.length - shown.length + 1} more</span>` : ""}</button>`).join("")}
         </div>`;
       $("#highlight .mosaic").addEventListener("click", e => {

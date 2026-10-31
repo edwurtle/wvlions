@@ -970,27 +970,23 @@ CC-0281|19||
 CC-0282|12||
 CC-0283|||
 CC-0284||Coaching staff|
-CE-0379|21||
-CE-0370|21,10|Lions celebrate|
-CE-0367|21,14,15|Lions celebrate|
-CE-0339|24,25,23|Starting-lineup introductions|
-CE-0421|||
-CE-0381|||
-CE-0360|21||
-CE-0352|15||
-CE-0438|24||
-CE-0437|24||
-CE-0439|24||
-CE-0440|24||
-CE-0343||Pregame huddle|
-CE-0341||National anthem|
-CE-0302|24,6,14|Warmups|
 CE-0287|21|Warmups|
+CE-0288||Warmups|
+CE-0291|14|Warmups|
+CE-0292|25|Warmups|
 CE-0293|13|Warmups|
 CE-0294|15|Warmups|
+CE-0295|10|Warmups|
 CE-0296|8|Warmups|
 CE-0297|10|Warmups|
+CE-0298||Warmups|
 CE-0299|4|Warmups|
+CE-0302|24,6,14|Warmups|
+CE-0309||Starting-lineup introductions|
+CE-0312|19,17,15,13,10|Starting-lineup introductions|
+CE-0313|25,21,19|Starting-lineup introductions|
+CE-0314|5,4,3,2|Starting-lineup introductions|
+CE-0319|1|Starting-lineup introductions|
 CE-0320|2|Starting-lineup introductions|
 CE-0321|3|Starting-lineup introductions|
 CE-0322|4|Starting-lineup introductions|
@@ -1002,67 +998,68 @@ CE-0328|10,11|Starting-lineup introductions|
 CE-0329|11,12|Starting-lineup introductions|
 CE-0330|12,13|Starting-lineup introductions|
 CE-0331|13,14|Starting-lineup introductions|
+CE-0332|15,14,13|Starting-lineup introductions|
 CE-0333|14,15|Starting-lineup introductions|
+CE-0334|17,15|Starting-lineup introductions|
 CE-0335|17,19|Starting-lineup introductions|
+CE-0336|19|Starting-lineup introductions|
 CE-0337|21,23|Starting-lineup introductions|
 CE-0338|23,25|Starting-lineup introductions|
+CE-0339|24,25,23|Starting-lineup introductions|
 CE-0340|25|Starting-lineup introductions|
+CE-0341||National anthem|
+CE-0342||National anthem|
+CE-0343||Pregame huddle|
+CE-0350|5||
 CE-0351|5||
+CE-0352|15||
 CE-0356|4||
+CE-0357|||
 CE-0358|15||
 CE-0359|4||
+CE-0360|21||
+CE-0361|5||
 CE-0363|9,15|Lions celebrate|
 CE-0364||Lions fans|
 CE-0365||Lions fans|
 CE-0366|15|Lions celebrate|
+CE-0367|21,14,15|Lions celebrate|
 CE-0368|21,9|Lions celebrate|
 CE-0369|9|Lions celebrate|
+CE-0370|21,10|Lions celebrate|
+CE-0371|||
 CE-0372|21||
 CE-0376|4,5||
+CE-0377|23||
+CE-0378|15||
+CE-0379|21||
 CE-0380|15||
+CE-0381|||
+CE-0382|||
 CE-0383||Student section|
 CE-0385|||
 CE-0388|19||
+CE-0389|||
 CE-0390|11||
+CE-0392|9,10,12||
+CE-0396|1|Keeper|
 CE-0398|1|Keeper|
+CE-0399|1|Keeper|
 CE-0400|1,14|Keeper|
 CE-0401||Lions fans|
 CE-0403|||
 CE-0408||Lions bench|
+CE-0409|||
+CE-0410|||
 CE-0412||Lions bench|
 CE-0415|15||
 CE-0416|12||
 CE-0417|12||
 CE-0420|||
+CE-0421|||
 CE-0422|||
 CE-0423|||
-CE-0288||Warmups|
-CE-0291|14|Warmups|
-CE-0292|25|Warmups|
-CE-0295|10|Warmups|
-CE-0298||Warmups|
-CE-0309||Starting-lineup introductions|
-CE-0312|19,17,15,13,10|Starting-lineup introductions|
-CE-0313|25,21,19|Starting-lineup introductions|
-CE-0314|5,4,3,2|Starting-lineup introductions|
-CE-0319|1|Starting-lineup introductions|
-CE-0332|15,14,13|Starting-lineup introductions|
-CE-0334|17,15|Starting-lineup introductions|
-CE-0336|19|Starting-lineup introductions|
-CE-0342||National anthem|
-CE-0350|5||
-CE-0357|||
-CE-0361|5||
-CE-0371|||
-CE-0377|23||
-CE-0378|15||
-CE-0382|||
-CE-0389|||
-CE-0392|9,10,12||
-CE-0396|1|Keeper|
-CE-0399|1|Keeper|
-CE-0409|||
-CE-0410|||
 CE-0424|9,19||
 CE-0436|24||
+CE-0438|24||
 CE-0443|||
